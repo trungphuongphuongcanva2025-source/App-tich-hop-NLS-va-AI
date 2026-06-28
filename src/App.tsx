@@ -308,11 +308,14 @@ export default function App() {
 
 Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens nhận vào mỗi phút.
 
-* Nguyên nhân: Bạn đang tải lên tệp PDF dài 14 trang. Mỗi trang PDF được gửi đi dưới dạng hình ảnh dung lượng lớn, tiêu tốn rất nhiều tài nguyên (khoảng 20,000 - 30,000 tokens cho một trang), nên 14 trang sẽ ngay lập tức vượt quá giới hạn 250,000 tokens của Google.
+* Nguyên nhân: 
+  - Nếu bạn tải lên tệp PDF: Google xử lý mỗi trang PDF bằng cách quét và phân tích dưới dạng hình ảnh dung lượng lớn, tiêu tốn rất nhiều tài nguyên (khoảng 30,000 - 50,000 tokens/trang). Do đó, tệp PDF dù chỉ 5-6 trang cũng rất dễ dàng vượt quá hạn mức của tài khoản miễn phí.
+  - Nếu bạn tải lên tệp Word (.docx): Một số file Word chứa các hình ảnh nhúng rất lớn làm tăng vọt dung lượng gửi đi.
+
 * Cách khắc phục đơn giản và nhanh nhất:
-  1. KHUYÊN DÙNG: Hãy chuyển tệp giáo án sang định dạng Word (.docx) hoặc văn bản thô (.txt) rồi tải lên lại. Phiên bản Word sẽ được hệ thống trích xuất dạng văn bản ký tự siêu nhẹ (chỉ khoảng 500 - 1,000 tokens mỗi trang), giúp xử lý mượt mà và thành công cả các tài liệu dài trên 14 trang.
-  2. Chia nhỏ giáo án thành 2-3 phần để tích hợp lần lượt.
-  3. Cấu hình khóa API Gemini có phí (Pay-as-you-go) trong file cấu hình máy chủ để không bị giới hạn quota.`);
+  1. KHUYÊN DÙNG: Hãy tải lên tệp dưới định dạng Word (.docx) thay vì PDF. Hệ thống đã được lập trình để tự động loại bỏ (strip) toàn bộ hình ảnh nhúng bên trong file Word và chỉ giữ lại văn bản, bảng biểu. Việc này giúp file Word trở nên siêu nhẹ (chỉ khoảng 500 - 1,000 tokens/trang), giúp xử lý thành công 100% cả những giáo án dài trên 14 trang.
+  2. Chia nhỏ giáo án thành 2-3 phần ngắn hơn và tải lên tích hợp lần lượt.
+  3. Cấu hình khóa API Gemini có tính phí (Pay-as-you-go) trong cấu hình máy chủ để gỡ bỏ hoàn toàn mọi giới hạn hạn ngạch.`);
       } else {
         setError(errMsg || "Đã xảy ra lỗi không xác định khi xử lý giáo án. Vui lòng kiểm tra lại cấu hình API hoặc kết nối.");
       }

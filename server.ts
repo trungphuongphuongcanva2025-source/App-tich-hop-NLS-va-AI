@@ -48,9 +48,13 @@ app.post("/api/integrate", async (req, res) => {
     if (file && file.base64) {
       const mime = file.mimeType || "";
       if (mime.includes("officedocument.wordprocessingml") || file.name?.endsWith(".docx")) {
-        // Convert docx buffer to HTML to preserve table/column structure
+        // Convert docx buffer to HTML to preserve table/column structure, ignoring images to avoid huge base64 tokens
         const buffer = Buffer.from(file.base64, "base64");
-        const docxResult = await mammoth.convertToHtml({ buffer });
+        const docxResult = await mammoth.convertToHtml({ buffer }, {
+          convertImage: mammoth.images.imgElement(function(image) {
+            return {}; // Strip image elements entirely
+          })
+        });
         extractedText = docxResult.value;
       } else if (mime.includes("pdf") || file.name?.endsWith(".pdf")) {
         isPdf = true;
