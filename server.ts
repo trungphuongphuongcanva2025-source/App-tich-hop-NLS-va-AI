@@ -125,6 +125,7 @@ YÊU CẦU BẢO TOÀN NỘI DUNG VÀ CẤU TRÚC GỐC 100%:
 3. Không lồng ghép kiểu liệt kê lý thuyết, hãy viết cụ thể giáo viên hướng dẫn làm gì và học sinh làm gì bằng công cụ số/AI cụ thể.
 4. Mọi phần bổ sung nâng cấp phải được bọc chính xác bởi thẻ:
 <span class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block">... <strong>[Mã chỉ báo]</strong></span>
+5. Tự động nhận diện và chuẩn hóa công thức hóa học/toán học: Tài liệu gốc có thể chứa các phương trình hoặc công thức hóa học, toán học bị biến dạng, lỗi ký tự, xuất hiện ký tự lạ hoặc ký hiệu hộp vuông lỗi (như H_2+I_2 □(⇔┴(xt,to) ), CaCO_3+CO_2+H_2 O⇌Ca(HCO_3 )_2, v.v.) do quá trình trích xuất từ Word. Bạn phải nhận diện các công thức này và tự động viết lại dưới dạng HTML sạch đẹp: sử dụng thẻ <sub> cho chỉ số dưới (ví dụ: CaCO<sub>3</sub>, H<sub>2</sub>O, Ca(HCO<sub>3</sub>)<sub>2</sub>), thẻ <sup> cho chỉ số trên, các mũi tên phản ứng tiêu chuẩn (như →, ⇌, ⇄), và loại bỏ triệt để các ký tự hộp vuông lỗi "□" hay ký tự định dạng Equation lỗi. Công thức hóa học đầu ra phải đúng chuẩn khoa học và sạch đẹp tuyệt đối để có thể nộp và in ngay trên Word.
 
 YÊU CẦU ĐỊNH DẠNG HTML (Dùng cho "nangCapHtml"):
 1. Toàn bộ nội dung của "nangCapHtml" phải được bọc trong thẻ wrapper:
