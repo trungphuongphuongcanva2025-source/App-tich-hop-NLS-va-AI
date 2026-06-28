@@ -1,0 +1,206 @@
+--- AI FRAMEWORK ANALYSIS (QĐ 3439) ---
+Code occurrences:
+- Pattern 'NL[a-d]': 16 matches
+- Pattern 'NLa': 4 matches
+- Pattern 'NLb': 4 matches
+- Pattern 'NLc': 4 matches
+- Pattern 'NLd': 4 matches
+
+Finding lines with NL codes:
+[Line 259]:
+FIN sinh hinh thanh, Oat trien dugc 'fang km AI vai b6n thanh phan nang lue 
+sau day: 
+- NLa: Tu duy liy con nguoi lam trung tam; 
+- NLb: Dao dire AI; 
+- NLc: Cac ki thuat va irng dung AI; 
+- NLd: Thiet ke he thOng AI. 
+6 
+--- Page 8 ---
+Cac bang clued day quy dinh yeu can can dat d8i vai m8i thanh phan neu tren cia 
+nang lire tri tue nhan tao i m8i cap hoc. 
+--------------------------------------------------
+[Line 260]:
+sau day: 
+- NLa: Tu duy liy con nguoi lam trung tam; 
+- NLb: Dao dire AI; 
+- NLc: Cac ki thuat va irng dung AI; 
+- NLd: Thiet ke he thOng AI. 
+6 
+--- Page 8 ---
+Cac bang clued day quy dinh yeu can can dat d8i vai m8i thanh phan neu tren cia 
+nang lire tri tue nhan tao i m8i cap hoc. 
+2.1. C3 cap tieu hoc 
+--------------------------------------------------
+[Line 261]:
+- NLa: Tu duy liy con nguoi lam trung tam; 
+- NLb: Dao dire AI; 
+- NLc: Cac ki thuat va irng dung AI; 
+- NLd: Thiet ke he thOng AI. 
+6 
+--- Page 8 ---
+Cac bang clued day quy dinh yeu can can dat d8i vai m8i thanh phan neu tren cia 
+nang lire tri tue nhan tao i m8i cap hoc. 
+2.1. C3 cap tieu hoc 
+Hoc sinh btrOc dau lam quen voi tri tue nhan tan (AI) thong qua hog ding hoc tap, 
+--------------------------------------------------
+[Line 262]:
+- NLb: Dao dire AI; 
+- NLc: Cac ki thuat va irng dung AI; 
+- NLd: Thiet ke he thOng AI. 
+6 
+--- Page 8 ---
+Cac bang clued day quy dinh yeu can can dat d8i vai m8i thanh phan neu tren cia 
+nang lire tri tue nhan tao i m8i cap hoc. 
+2.1. C3 cap tieu hoc 
+Hoc sinh btrOc dau lam quen voi tri tue nhan tan (AI) thong qua hog ding hoc tap, 
+vui choi, trai nghiem. Cac em hieu AI la cong cu do con nguoi tao ra, có lgi ich va rid ro; 
+--------------------------------------------------
+[Line 275]:
+nang lire 
+Bleu hqn 
+NLa 
+Nhan biet dugc AI la san pham do con nguOi tao ra, neu dugc met se vi du 
+AI giiip ich cho con ngued nhu robot, trg lY ao, phan mem hoc tap; bi& lira 
+chin, sir dung cong cu AI phuc IT hoc tap, vui choi an toan; nhan biet cac 
+tinh hueng can con nguoi kiem soat. 
+NLb 
+Hieu rang AI can dugc sir dung ding each, khong gay hai; lieu dugc viec 
+killing chia se thong tin ca nhan cho cac cong cu AI chua re nguen ge3c; thuc 
+--------------------------------------------------
+[Line 280]:
+chin, sir dung cong cu AI phuc IT hoc tap, vui choi an toan; nhan biet cac 
+tinh hueng can con nguoi kiem soat. 
+NLb 
+Hieu rang AI can dugc sir dung ding each, khong gay hai; lieu dugc viec 
+killing chia se thong tin ca nhan cho cac cong cu AI chua re nguen ge3c; thuc 
+hien hanh vi co trach nhiem khi sir dung thiet bi co AI; ton tong san pham 
+s6 cila nguoi khac; biet de xuat each sir dung AI có loi cho cong dung nhu 
+giiip bao ye mai truing, ho trg nguoi khuyet tat. 
+NLc 
+Lam quen vai phan mem, (mg dung co yeu to AI (nhan dien hinh anh, giong 
+--------------------------------------------------
+[Line 286]:
+s6 cila nguoi khac; biet de xuat each sir dung AI có loi cho cong dung nhu 
+giiip bao ye mai truing, ho trg nguoi khuyet tat. 
+NLc 
+Lam quen vai phan mem, (mg dung co yeu to AI (nhan dien hinh anh, giong 
+noi, ggi Y hoc tap); Biet van dung cong cu AI he trg hoc tap (ye, luyen doc, 
+hoc toan,...); thir nghiem tao san pham don gian vai AI (vi du: ding AI de 
+ye birc tranh, tao cau chuyen co hinh anh). 
+NLd 
+Nhan biet dugc fang he thong AI boat ding Oa tren di lieu a dua ra du 
+down hoac phan hei; lay dugc vi du minh hoa quy trinh hoc don gian dm AI 
+--------------------------------------------------
+[Line 291]:
+hoc toan,...); thir nghiem tao san pham don gian vai AI (vi du: ding AI de 
+ye birc tranh, tao cau chuyen co hinh anh). 
+NLd 
+Nhan biet dugc fang he thong AI boat ding Oa tren di lieu a dua ra du 
+down hoac phan hei; lay dugc vi du minh hoa quy trinh hoc don gian dm AI 
+A 	 , 	 • 
+thong qua cac tinh huong, tro cho i; neu &roc met soy tiring don gian de cai 
+thien khi ket qua chua chinh xac. 
+2.2.6 cap trung hoc co so.  
+Hoc sinh co hieu biet nen tang ve du lieu, thuat toan va img dung AI. Cac em biet van 
+--------------------------------------------------
+[Line 306]:
+nang ltrc 
+BieAu hien 
+NLa 
+Hieu vai trO dm con ngugi trong thiet ke, van hanh, sir dung AI; biet rang 
+con ngued chiu trach nhiem vai cac phan hoi, tac dOng AI; nhan dien duvc, 
+phan tich tinh huong sir dung AI cho mpc dich dimg dan; biet de xuat each 
+ket hgp AI vai yeti to con ngugi a giai quye't van d6' xa NIL 
+NLb 
+Neu dugc cac nguyen tac dao due co ban cila AI: khong gay hai, khong thien 
+kien, cong bang, minh bach; biet ap dung cac nguyen tac do khi hoc tap, lam 
+--------------------------------------------------
+[Line 311]:
+phan tich tinh huong sir dung AI cho mpc dich dimg dan; biet de xuat each 
+ket hgp AI vai yeti to con ngugi a giai quye't van d6' xa NIL 
+NLb 
+Neu dugc cac nguyen tac dao due co ban cila AI: khong gay hai, khong thien 
+kien, cong bang, minh bach; biet ap dung cac nguyen tac do khi hoc tap, lam 
+viec vai cong cu AI (khong gian Ian, ton trong quyen rieng tu); biet &nil gia 
+san pham AI co nguy co xam pham quyen con ngugi, de xuat giai phap cai 
+thien. 
+NLc 
+Hieu dirge khai niem chi lieu, thuat toan, mg hinh AI; biet dung met so cong 
+--------------------------------------------------
+[Line 317]:
+san pham AI co nguy co xam pham quyen con ngugi, de xuat giai phap cai 
+thien. 
+NLc 
+Hieu dirge khai niem chi lieu, thuat toan, mg hinh AI; biet dung met so cong 
+cu AI don gian phuc vu hoc tap, dg an nho; biet ket hop nhieu cong cu AI 
+a tao san pliant se coy nghla (video, thuyet trinh, mo ph6ng). 
+NLd 
+Xac dinh dugc cac tinh huong thgc tin c6 the va nen img dung AI; tham gia 
+vao qua trinh lap ke hoach thiet ke N thong AI don gian th6ng qua viec xac 
+dinh mac tieu, lira chgn chi lieu va mo phong hoat deng vgi cong cu c6 san; 
+--------------------------------------------------
+[Line 321]:
+cu AI don gian phuc vu hoc tap, dg an nho; biet ket hop nhieu cong cu AI 
+a tao san pliant se coy nghla (video, thuyet trinh, mo ph6ng). 
+NLd 
+Xac dinh dugc cac tinh huong thgc tin c6 the va nen img dung AI; tham gia 
+vao qua trinh lap ke hoach thiet ke N thong AI don gian th6ng qua viec xac 
+dinh mac tieu, lira chgn chi lieu va mo phong hoat deng vgi cong cu c6 san; 
+danh gia dugc ket qua va de xuat each cai thien 6 mire de co ban. 
+2.3. O cap trung h9c pile thong 
+HQC sinh phat trien Wang luc tr6 thanh ngugi deng sang tao AI CO tacit nhiem. Cac 
+em c6 the tich hgp kien thirc ve du lieu, thuat toan, dao dire va thiet ke a sang tao, danh 
+--------------------------------------------------
+[Line 334]:
+nang ltre 
+Bee'u hi0 
+NLa 
+Phan tich dugc anh huong dm AI den co KA viec lam, quyen rieng tu va tac 
+Ong den cac guy& dinh dm con ngugi; biet tich hop yeu to nhan van, cong 
+bang vao thiet ke va sir dung cac cong cu AI; thiet ke giai phap AI thdc day 
+phat trie'n ben vung, hem nhap xa hei, huong con ngugi den hanh pink va 
+sang tao. 
+8 
+--- Page 10 ---
+--------------------------------------------------
+[Line 342]:
+8 
+--- Page 10 ---
+NLb 
+Dinh gia cac nguyen tic dao due AI trong cac tinh huong thuc te; biet van 
+dung cac nguyen the dao dire trong du an hoc tap; danh gia dugc cac cong 
+c9 AI vi pham chart rime dao dire xa hei; a xuat dugc quy the img xir hoac 
+mo hinh chinh sach dao dire cho AI trong truing hoc hoac tong ang. 
+NLc 
+Hieu va trinh bay dtrac quy trinh phat trie'n AI thu thap — xir lyf du lieu — 
+huan luyen — danh gia); biet sir dung cong c9 lap trinh AI ca ban tao ra san 
+--------------------------------------------------
+[Line 347]:
+c9 AI vi pham chart rime dao dire xa hei; a xuat dugc quy the img xir hoac 
+mo hinh chinh sach dao dire cho AI trong truing hoc hoac tong ang. 
+NLc 
+Hieu va trinh bay dtrac quy trinh phat trie'n AI thu thap — xir lyf du lieu — 
+huan luyen — danh gia); biet sir dung cong c9 lap trinh AI ca ban tao ra san 
+phAm AI 116 trg hoc tap; cai tin dugc hoac tich hap mo hinh AI san co de 
+phat trien cong cu mai; biet danh gia tinh hieu qua va ben yang dm ding Cu 
+AI. 
+NLd 
+MO to dugc cau true tong the va met se thanh phan chinh caa met he thong 
+--------------------------------------------------
+[Line 353]:
+phat trien cong cu mai; biet danh gia tinh hieu qua va ben yang dm ding Cu 
+AI. 
+NLd 
+MO to dugc cau true tong the va met se thanh phan chinh caa met he thong 
+AI, phan tich dugc m9c fiat, thanh phan va intn lien he gifra the phan trong 
+he thong a mire de din gian; de xuAt va lira chgn dugc phucmg an thiet ke, 
+van hanh phi' hop vii mpc tieu cu the; thus hien dugc cac hoat deng kiem 
+thir, dieu chinh va toi au a mac ca ban. 
+IV. KHUNG NO' DUNG GIAO DUC TRI TUV NHAN TAO (AI) 
+1. NOi dung khai quit 
+--------------------------------------------------
+
+Search for levels:
+- 'tieu hoc': 6 occurrences
+- 'trung hoc co so': 2 occurrences
+- 'trung hoc pho thong': 0 occurrences

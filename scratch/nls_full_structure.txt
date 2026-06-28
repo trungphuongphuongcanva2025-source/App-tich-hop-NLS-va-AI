@@ -1,0 +1,23 @@
+==================================================
+CẤU TRÚC PHÂN CẤP KHUNG NĂNG LỰC SỐ (THÔNG TƯ 02/2025)
+==================================================
+
+Miền 1: Khai thác dữ liệu và thông tin
+
+Miền 2: Giao tiếp và hợp tác trong môi trường số
+
+Miền 3: Sáng tạo nội dung số
+  - Thành phần 3.1: Phát triển nội dung số
+
+Miền 4: An toàn
+
+Miền 5: Giải quyết vấn đề
+  - Thành phần 5.2: Xác định nhu cầu và giải pháp
+  - Thành phần 5.3: Sử dụng sáng tạo công nghệ số
+  - Thành phần 5.4: Xác định các vấn đề cần cải
+
+Miền 6: Ứng dụng trí tuệ nhân tạo
+  - Thành phần 6.1: Hiểu biết về trí tuệ nhân tạo
+  - Thành phần 6.2: Sử dụng trí tuệ nhân tạo
+  - Thành phần 6.3: Đánh giá trí tuệ nhân tạo
+

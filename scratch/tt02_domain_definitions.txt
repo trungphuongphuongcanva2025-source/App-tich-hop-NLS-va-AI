@@ -1,0 +1,210 @@
+ 
+MỤC LỤC .................................................................................................................... i 
+DANH MỤC CÁC TỪ VIẾT TẮT ........................................................................... ii 
+Phần I. MỘT SỐ VẤN ĐỀ CHUNG VỀ NĂNG LỰC SỐ ...................................... 1 
+1.1. Tổng quan về năng lực số ................................................................................ 1 
+1.1.1. Khái niệm NLS ....................................................................................... 1 
+1.1.2. Vai trò của NLS đối với học sinh ........................................................... 2 
+1.1.3. Các yếu tố ảnh hưởng đến việc phát triển NLS của học sinh ................ 3 
+1.2. Khung năng lực số của người học ................................................................... 4 
+1.2.1. Một số Khung NLS tham khảo tiêu biểu trên thế giới ........................... 4 
+1.2.2. Khung NLS của người học Việt Nam .................................................... 5 
+1.2.3. Mục tiêu của việc triển khai Khung NLS ............................................... 6 
+1.2.5. Các hình thức tổ chức phát triển năng lực số cho học sinh .................... 8 
+1.2.6. Các yêu cầu khi triển khai NLS vào kế hoạch giáo dục nhà trường ...... 9 
+Phần II. HƯỚNG DẪN THỰC HIỆN KHUNG NLS CHO HỌC SINH ............. 11 
+2.1. Công tác chuẩn bị tại các cơ sở giáo dục ....................................................... 11 
+2.2. Quy trình triển khai Khung năng lực số......................................................... 12 
+2.3. Triển khai khung năng lực số vào kế hoạch giáo dục nhà trường ................. 13 
+Phần III. MINH HỌA TÍCH HỢP NĂNG LỰC SỐ VÀO KẾ HOẠCH  GIÁO 
+DỤC NHÀ TRƯỜNG ................................................................................................ 15 
+3.1. Minh họa kế hoạch dạy học phát triển/tích hợp năng lực số ......................... 15 
+3.1.1. Kế hoạch dạy học môn Tin học 3 ......................................................... 16 
+3.1.2. Kế hoạch dạy học môn Tin học 4 ......................................................... 21 
+3.1.3. Kế hoạch dạy học môn Tin học 5 ......................................................... 24 
+3.1.4. Kế hoạch dạy học môn Đạo đức .......................................................... 28 
+3.1.5. Kế hoạch dạy học môn Công nghệ ....................................................... 32 
+3.2. Minh họa kế hoạch bài dạy phát triển/tích hợp phát triển năng lực số .......... 35 
+3.2.1. Kế hoạch bài dạy minh hoạ môn Tin học phát triển năng lực số ......... 35 
+3.2.2. Kế hoạch bài dạy minh hoạ môn Đạo đức tích hợp năng lực số .......... 41 
+3.2.3. Kế hoạch bài dạy minh họa môn Công nghệ tích hợp năng lực số ...... 47 
+3.3. Minh họa và phân tích kế hoạch bài dạy tăng cường/câu lạc bộ ................... 52 
+PHỤ LỤC 1: BẢNG MÃ CHỈ BÁO NĂNG LỰC SỐ (THEO CÔNG VĂN 
+3456/BGDĐT-GDPT) ................................................................................................. 57 
+PHỤ LỤC 2: MỘT SỐ GỢI Ý CHO CÁC TÌNH HUỐNG SƯ PHẠM .................... 75 
+ 
+ 
+--- Page 4 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+ii 
+DANH MỤC CÁC TỪ VIẾT TẮT 
+ 
+STT Tên viết tắt Tên đầy đủ 
+1  CNTT CNTT 
+2  CTGDPT Chương trình giáo dục phổ thông 
+3  GDĐT Giáo dục và Đào tạo 
+4  HS HS 
+5  GV GV 
+6  SGK Sách giáo khoa 
+7  THCS Trung học cơ sở 
+8  THPT Trung học phổ thông 
+9  CNTT-TT Công nghệ thông tin và truyền thông 
+10   AI Trí tuệ nhân tạo 
+11  IoT Internet kết nối vạn vật  
+12  NLS Năng lực số 
+13  KNCĐ Kĩ năng chuyển đổi 
+ 
+ 
+ 
+--- Page 5 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+1 
+Phần I. MỘT SỐ VẤN ĐỀ CHUNG VỀ NĂNG LỰC SỐ 
+1.1. Tổng quan về năng lực số 
+1.1.1. Khái niệm NLS 
+Trong bối cảnh của cuộc Cách mạng công nghiệp lần thứ tư, năng lực số đã trở 
+thành một trong những năng lực nền tảng, thiết yếu cho công dân toàn cầu trong thế kỷ 
+21. Khái niệm này đã được nhiều tổ chức quốc tế uy tín nghiên cứu và định nghĩa dưới 
+các góc độ khác nhau. 
+Ủy ban và Nghị Viện Châu Âu (2006), trong khung NLS DigComp 2.1, cho rằng: 
+NLS là một trong những năng lực cơ bản và thiết yếu cho học tập suốt đời, trong đó, 
+NLS được định nghĩa là “NLS liên quan đến việc sử dụng công nghệ số một cách tự tin 
+và có tư duy phản biện phục vụ cho học tập, giải trí, công tác và giao tiếp”. NLS gồm 
+những kỹ năng cơ bản về CNTT như: sử dụng máy tính để tìm kiếm, tiếp cận, đánh giá, 
+lưu trữ, tạo ra sản phẩm, trình bày và trao đổi thông tin, cũng như giao tiếp và tham gia 
+vào các mạng lưới hợp tác thông qua Internet”1.  
+Trong khi đó, UNESCO (2018) nhấn mạnh đến khả năng vận dụng đa dạng và 
+định nghĩa: “NLS là khả năng truy cập, quản lý, hiểu, tích hợp, giao tiếp, đánh giá và 
+tạo thông tin một cách an toàn và phù hợp thông qua các công nghệ kỹ thuật số cho việc 
+làm và khởi nghiệp. NL này bao gồm các năng lực được gọi chung là hiểu biết về máy 
+tính, hiểu biết về CNTT-TT, hiểu biết về thông tin và hiểu biết về truyền thông”2. 
+Dự án Trẻ em số khu vực châu Á Thái Bình Dương do UNESCO Bangkok chủ 
+trì định nghĩa: "NLS là khả năng sử dụng kỹ thuật số của trẻ em để định hướng (tự điều 
+chỉnh), tham gia và đóng góp vào môi trường kỹ thuật số trong thế kỉ 21" 3. 
+Theo UNICEF “ NLS là đề cập đến kiến thức, kỹ năng và thái đ ộ cho phép tr ẻ 
+phát triển và phát huy tối đa khả năng trong thế giới công nghệ số ngày càng lớn mạnh 
+trên phạm vi toàn cầu, một thế giới mà trẻ vừa được an toàn, vừa được trao quyền theo 
+cách  phù hợp với lứa tuổi cũng như phù hợp với văn hóa và bối cảnh địa phương”4. 
+Tại Việt Nam, nhằm tạo ra sự thống nhất trong toàn hệ thống giáo dục quốc dân, 
+Bộ GD&ĐT đã chính thức ban hành định nghĩa về NLS. Đây là khái ni ệm pháp lý cốt 
+lõi mà tất cả các hoạt động dạy và học cần hướng tới. 
+Theo khoản 11, Điều 2 của Thông tư số 02/2025/TT-BGDĐT ngày 24 tháng 01 
+năm 2025: "NLS là khả năng sử dụng công nghệ số để hoàn thành nhiệm vụ cụ thể hoặc 
+để giải quyết vấn đề trong thực tiễn."5 
+                                           
+1 https://enil.ceris.cnr.it/Basili/EnIL/gateway/europe/EUkeycompetences.htm  
+2 http://uis.unesco.org/sites/default/files/documents/ip51-global-framework-reference-digital-literacy-skills-
+2018-en.pdf 
+3 https://unesdoc.unesco.org/ark:/48223/pf0000367985 
+4 https://www.unicef.org/globalinsight/media/1271/file/%20UNICEF-Global-Insight-digital-literacy-scoping-
+paper-2020.pdf 
+5 Bộ Giáo dục và Đào tạo. (2025). Thông tư số 02/2025/TT-BGDĐT ngày 24 tháng 01 năm 2025 Quy định 
+Khung năng lực số cho người học. 
+--- Page 6 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+2 
+Định nghĩa này nhấn mạnh vào khả năng hành động và vận dụng của người học. 
+NLS không ch ỉ đơn thuần là kiến thức về công nghệ hay kỹ năng sử dụng thành thạo 
+một vài phần mềm, mà là khả năng huy động tổng hợp các kiến thức, kỹ năng, thái độ 
+để xử lý các tình huống, nhiệm vụ thực tế một cách hiệu quả trong môi trường số. 
+Cụ thể, khả năng này đư ợc biểu hiện thông qua 6 mi ền năng l ực chính trong 
+Khung NLS của Bộ GD&ĐT, bao gồm từ việc khai thác thông tin và dữ liệu, giao tiếp-
+hợp tác, sáng tạo nội dung, an toàn, giải quyết vấn đề và ứng dụng AI. 
+Vì vậy, trong tài liệu tập huấn này, chúng ta sẽ thống nhất sử dụng khái niệm và 
+Khung NLS được quy định tại Thông tư 02/2025/TT-BGDĐT làm cơ sở cho mọi hoạt 
+động phân tích, thiết kế và tổ chức dạy học. 
+1.1.2. Vai trò của NLS đối với học sinh  
+Trong kỷ nguyên chuyển đổi số , NLS đã trở thành một yếu tố then chốt, mang 
+lại ý nghĩa và vai trò sâu sắc đối với học sinh. NLS không chỉ là khả năng sử dụng các 
+công cụ kỹ thuật số mà còn là tập hợp các kiến thức, kỹ năng, thái độ và nhận thức cần 
+thiết để học tập, làm việc và tham gia vào xã hội số một cách an toàn và hiệu quả (Ala -
+Mutka, 2011)6. Đối với HS, việc phát triển NLS là một yêu cầu cấp thiết để thích ứng 
+với những thay đổi mạnh mẽ của thời đại, từ đó mở ra nhiều cơ hội phát triển toàn diện. 
+(1) Nâng cao hiệu quả học tập và tiếp cận kiến thức 
+NLS giúp học sinh tận dụng tối đa các công cụ và tài nguyên số để nâng cao chất 
+lượng học tập. Học sinh có thể tìm kiếm, đánh giá và sử dụng thông tin từ nhiều nguồn 
+trực tuyến khác nhau một cách hiệu quả, từ đó tự học, mở rộng kiến thứ c và giải quyết 
+vấn đề (Ferrari, 2013) 7. Các nền tảng học tập trực tuyến, sách giáo khoa điện tử và các 
+công cụ mô phỏng giúp học sinh tiếp cận kiến thức một cách trực quan và sinh động 
+hơn, đồng thời phát triển tư duy phản biện và khả năng tự chủ trong học tập. 
+(2) Chuẩn bị cho tương lai nghề nghiệp 
+Thị trường lao động hiện đại đòi hỏi người lao động phải có các kỹ năng số vững 
+chắc. Việc trang bị NLS ngay từ ghế nhà trường giúp học sinh sẵn sàng thích ứng với 
+các công việc trong tương lai, nhiều trong số đó chưa từng tồn tại trước đây (Bawden, 
+2008)8. Học sinh có thể phát triển các kỹ năng quan trọng như làm việc nhóm trực tuyến, 
+quản lý dự án số, tư duy sáng tạo và giải quyết vấn đề phức tạp, những kỹ năng này là 
+nền tảng cho sự thành công trong bất kỳ lĩnh vực nghề nghiệp nào. 
+(3) Thúc đẩy sự tham gia các hoạt động xã hội trên môi trường số 
+NLS cho phép học sinh tham gia vào các hoạt động xã hội, văn hóa và chính trị 
+                                           
+6 Ala-Mutka, K. (2011). Mapping Digital Competence: Towards a Conceptual Understanding.  JRC Technical 
+Reports. European Union 
+7 Ferrari, A. (2013). DIGCOMP: A Framework for Developing and Understanding Digital Competence in 
+Europe. JRC Scientific and Policy Reports. European Union 
+8 Bawden, D. (2008). Information literacy and digital literacy: The "new" literacy studies revisited. Journal of 
+Documentation, 64(1), 17-31 
+--- Page 7 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+3 
+trong không gian số một cách có trách nhiệm. Học sinh học cách sử dụng mạng xã hội 
+và các nền tảng trực tuyến để giao tiếp, hợp tác và bày tỏ quan điểm một cách văn minh, 
+đồng thời nhận thức được các rủi ro tiềm ẩn như tin giả, lừa đảo trực tuyến và bảo vệ 
+quyền riêng tư (Lau, 2016)9. Điều này giúp các em trở thành những công dân số có trách 
+nhiệm, biết cách đóng góp tích cực cho cộng đồng. 
+1.1.3. Các yếu tố ảnh hưởng đến việc phát triển NLS của học sinh 
+Sự hình thành và phát triển NLS của học sinh là một quá trình phức hợp, chịu tác 
+động bởi sự tương tác của nhiều yếu tố đa dạng. Việc hiểu rõ các yếu tố này giúp nhà 
+giáo dục và nhà trường xây dựng được những chiến lược can thiệp phù hợp và hiệu quả. 
+Các nghiên cứu trên thế giới đã chỉ ra các nhóm yếu tố chính sau: 
+1.1.3.1. Yếu tố từ môi trường nhà trường 
+Đây là nhóm yếu tố có tác động trực tiếp  và quan trọng nhất mà giáo viên và cơ 
+sở giáo dục có thể chủ động định hướng. 
+(1) NLS và phương pháp sư phạm của giáo viên:  Năng lực của chính giáo viên 
+trong việc sử dụng và tích hợp công nghệ số vào giảng dạy là yếu tố then chốt. Theo 
+UNESCO (2017)10, việc giáo viên sử dụng ICT có mối tương quan tích cực với trình độ 
+NLS của học sinh. Tuy nhiên, điều quan trọng hơn không chỉ là việc sử dụng, mà là cách 
+sử dụng. Một phương pháp sư phạm hiện đại, xem công nghệ số là công cụ để tổ chức 
+các hoạt động học tập tích cực, kiến tạo kiến thức và giải quyết vấn đề sẽ thúc đẩy NLS 
+của HS hiệu quả hơn nhiều so với việc chỉ dùng công nghệ để trình chiếu thông tin. 
+(2) Chương trình và nội dung dạy học:  Việc phát triển NLS cần được tích hợp 
+một cách có chủ đích vào chương trình các môn học, không chỉ gói gọn trong môn Tin 
+học. Khi học sinh được vận dụng các kỹ năng số để giải quyết các bài toán thực tiễn của 
+môn Toán, Lịch sử, hay thực hiện các dự án của môn Khoa học tự nhiên, NLS của các 
+em sẽ được phát triển một cách toàn diện và bền vững. 
+(3) Cơ sở vật chất và khả năng tiếp cận:  Mức độ trang bị và khả năng tiếp cận 
+của học sinh đối với các thiết bị số (máy tính, máy tính bảng), phần mềm và kết nối 
+Internet tại trường học ảnh hưởng trực tiếp đến cơ hội thực hành của HS. Đ ảm bảo sự 
+tiếp cận công bằng cho mọi học sinh là một nhiệm vụ quan trọng của nhà trường. 
+1.1.3.2. Yếu tố từ môi trường gia đình 
+Gia đình là môi trường số đầu tiên và có ảnh hưởng sâu sắc đến thái độ và hành 
+vi số của trẻ, nó bao gồm các yếu tố: 
+Sự đồng hành và định hướng của phụ huynh: Livingstone và Byrne (2015)11 nhấn 
+mạnh vai trò trung gian của cha mẹ trong việc định hướng con cái sử dụng Internet một 
+cách an toàn và hữu ích. Các thảo luận trong gia đình về cơ hội và rủi ro trên mạng, kỳ 
+                                           
+9 Lau, J. (2016). Information Literacy as a Life-long Learning Process. IFLA/UNESCO 
+10 UNESCO. (2017). Review of national policies on mobile learning in Asia and the Pacific.  
+11 Livingstone, S., & Byrne, J. (2015). Challenges of parental responsibility in a global online environment.  
+--- Page 8 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+4 
+vọng của cha mẹ về vai trò của công nghệ đối với tương lai của con, và các quy tắc sử 
+dụng thiết bị số tại nhà đều góp phần định hình NLS cho trẻ. 
+Điều kiện và tài nguyên số tại nhà: Việc học sinh có máy tính và Internet tại nhà 
+để tự học, tìm tòi và thực hiện các nhiệm vụ học tập là một lợi thế lớn. Sự chênh lệch về 
+điều kiện này là một trong những nguyên nhân chính tạo ra "khoảng cách số" giữa các 

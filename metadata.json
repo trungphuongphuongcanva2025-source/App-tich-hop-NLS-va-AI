@@ -1,0 +1,6 @@
+{
+  "name": "App Lồng Ghép Năng Lực Số Và AI",
+  "description": "Hỗ trợ lồng ghép năng lực số và học tập Trí tuệ nhân tạo (AI) vào giáo án phổ thông theo Thông tư 02/2025/TT-BGDĐT và Quyết định 3439/QĐ-BGDĐT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

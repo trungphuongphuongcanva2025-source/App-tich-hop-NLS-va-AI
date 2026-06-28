@@ -1,0 +1,390 @@
+giáo dục và nhà trường xây dựng được những chiến lược can thiệp phù hợp và hiệu quả. 
+Các nghiên cứu trên thế giới đã chỉ ra các nhóm yếu tố chính sau: 
+1.1.3.1. Yếu tố từ môi trường nhà trường 
+Đây là nhóm yếu tố có tác động trực tiếp  và quan trọng nhất mà giáo viên và cơ 
+sở giáo dục có thể chủ động định hướng. 
+(1) NLS và phương pháp sư phạm của giáo viên:  Năng lực của chính giáo viên 
+trong việc sử dụng và tích hợp công nghệ số vào giảng dạy là yếu tố then chốt. Theo 
+UNESCO (2017)10, việc giáo viên sử dụng ICT có mối tương quan tích cực với trình độ 
+NLS của học sinh. Tuy nhiên, điều quan trọng hơn không chỉ là việc sử dụng, mà là cách 
+sử dụng. Một phương pháp sư phạm hiện đại, xem công nghệ số là công cụ để tổ chức 
+các hoạt động học tập tích cực, kiến tạo kiến thức và giải quyết vấn đề sẽ thúc đẩy NLS 
+của HS hiệu quả hơn nhiều so với việc chỉ dùng công nghệ để trình chiếu thông tin. 
+(2) Chương trình và nội dung dạy học:  Việc phát triển NLS cần được tích hợp 
+một cách có chủ đích vào chương trình các môn học, không chỉ gói gọn trong môn Tin 
+học. Khi học sinh được vận dụng các kỹ năng số để giải quyết các bài toán thực tiễn của 
+môn Toán, Lịch sử, hay thực hiện các dự án của môn Khoa học tự nhiên, NLS của các 
+em sẽ được phát triển một cách toàn diện và bền vững. 
+(3) Cơ sở vật chất và khả năng tiếp cận:  Mức độ trang bị và khả năng tiếp cận 
+của học sinh đối với các thiết bị số (máy tính, máy tính bảng), phần mềm và kết nối 
+Internet tại trường học ảnh hưởng trực tiếp đến cơ hội thực hành của HS. Đ ảm bảo sự 
+tiếp cận công bằng cho mọi học sinh là một nhiệm vụ quan trọng của nhà trường. 
+1.1.3.2. Yếu tố từ môi trường gia đình 
+Gia đình là môi trường số đầu tiên và có ảnh hưởng sâu sắc đến thái độ và hành 
+vi số của trẻ, nó bao gồm các yếu tố: 
+Sự đồng hành và định hướng của phụ huynh: Livingstone và Byrne (2015)11 nhấn 
+mạnh vai trò trung gian của cha mẹ trong việc định hướng con cái sử dụng Internet một 
+cách an toàn và hữu ích. Các thảo luận trong gia đình về cơ hội và rủi ro trên mạng, kỳ 
+                                           
+9 Lau, J. (2016). Information Literacy as a Life-long Learning Process. IFLA/UNESCO 
+10 UNESCO. (2017). Review of national policies on mobile learning in Asia and the Pacific.  
+11 Livingstone, S., & Byrne, J. (2015). Challenges of parental responsibility in a global online environment.  
+--- Page 8 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+4 
+vọng của cha mẹ về vai trò của công nghệ đối với tương lai của con, và các quy tắc sử 
+dụng thiết bị số tại nhà đều góp phần định hình NLS cho trẻ. 
+Điều kiện và tài nguyên số tại nhà: Việc học sinh có máy tính và Internet tại nhà 
+để tự học, tìm tòi và thực hiện các nhiệm vụ học tập là một lợi thế lớn. Sự chênh lệch về 
+điều kiện này là một trong những nguyên nhân chính tạo ra "khoảng cách số" giữa các 
+học sinh. 
+1.1.3.3. Yếu tố cá nhân của học sinh 
+Bản thân mỗi học sinh cũng là một yếu tố quan trọng, bao gồm: 
+Động lực và thái độ: Sự tò mò, hứng thú với công nghệ, thái độ chủ động tìm tòi, 
+khám phá và tinh thần học hỏi suốt đời sẽ giúp học sinh phát triển NLS nhanh hơn. 
+Kiến thức và kinh nghiệm: Những học sinh sớm được tiếp xúc và có kinh nghiệm 
+sử dụng máy tính thường có nền tảng tốt hơn. Các kỹ năng nền tảng như đọc-hiểu cũng 
+rất quan trọng, vì phần lớn thông tin trên môi trường số tồn tại ở dạng văn bản. 
+1.1.3.4. Bối cảnh kinh tế - xã hội và công nghệ 
+Đây là các yếu tố vĩ mô, tạo ra môi trường chung cho việc phát triển NLS. Cụ thể 
+như sau: 
+Hạ tầng công nghệ quốc gia : Tỷ lệ phủ sóng Internet, chất lượng đường truyền 
+và chi phí truy cập ảnh hưởng đến khả năng kết nối chung của toàn xã hội, bao gồm cả 
+nhà trường và gia đình. 
+Hệ sinh thái nội dung số : Sự sẵn có của các tài nguyê n học tập, thông tin, giải 
+trí... bằng ngôn ngữ địa phương và phù hợp với văn hóa sẽ khuyến khích học sinh tham 
+gia và khai thác môi trường số một cách hiệu quả hơn (Tan et al., 2017) 12. 
+Tóm lại, phát triển NLS cho học sinh là một trách nhiệm chung. Trong đ ó, nhà 
+trường và đội ngũ giáo viên đóng vai trò hạt nhân, không chỉ trang bị kiến thức, kỹ năng 
+mà còn có nhiệm vụ quan trọng là thu hẹp khoảng cách số gây ra bởi các yếu tố khác, 
+tạo cơ hội phát triển công bằng cho mọi học sinh, và xây dựng mối quan hệ hợp tác chặt 
+chẽ với gia đình và các tổ chức xã hội để tạo ra một môi trường giáo dục số an toàn, 
+lành mạnh và hiệu quả. 
+1.2. Khung năng lực số của người học 
+1.2.1. Một số Khung NLS tham khảo tiêu biểu trên thế giới 
+Khung NLS là một tập hợp các năng lực thàn h phần để nâng cao năng lực của 
+một nhóm đối tượng cụ thể. Các khung NLS chủ yếu được sử dụng rộng rãi bao gồm: 
+1.2.1.1. Khung NLS cho công dân của Ủy ban Châu Âu (DigComp): 
+Đây là một trong những khung năng lực có ảnh hưởng lớn nhất trên toàn cầu. 
+DigComp xác định các NLS thiết yếu cho mọi công dân để tham gia tích cực vào xã hội 
+                                           
+12 Tan, M., et al. (2017). A review of the literature on digital inclusion: A report for the Australian Digital 
+Inclusion Alliance. 
+--- Page 9 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+5 
+và thị trường lao động. Phiên bản DigComp 2.1 bao gồm 5 miền năng lực chính sau: 
+(1) Kỹ năng thông tin và dữ liệu (Information and data literacy) 
+(2) Giao tiếp và hợp tác (Communication and collaboration) 
+(3) Sáng tạo nội dung số (Digital content creation) 
+(4) An toàn (Safety) 
+(5) Giải quyết vấn đề (Problem solving) 
+1.2.1.2. Khung NLS toàn cầu của UNESCO  
+UNESCO đã phát triển một khung tham chiếu toàn cầu nhằm hỗ trợ các quốc gia 
+xây dựng và đo lường NLS. Khung này có phạm vi rộng, bao quát nhiều khía cạnh từ 
+kỹ năng vận hành cơ bản đến các năng lực bậc cao, được chia thành 7 lĩnh vực chính: 13 
+(1) Sử dụng thiết bị và phần mềm (Fundamentals of Hardware and Software) 
+(2) Khai thác thông tin và dữ liệu (Information and Data Literacy) 
+(3) Giao tiếp và hợp tác (Communication and Collaboration) 
+(4) Sáng tạo nội dung số (Digital Content Creation) 
+(5) An toàn (Safety) 
+(6) Giải quyết vấn đề (Problem-Solving) 
+(7) Năng lực liên quan đến nghề nghiệp (Career-Related Competences) 
+1.2.2. Khung NLS của người học Việt Nam  
+Khung NLS cho người học tại Việt Nam được qui định tại  Thông tư 02/2025/TT-
+BGDĐT) 
+ Đây là khung NLS cho người học mang tính pháp quy, chính thức được áp dụng 
+trong toàn bộ hệ thống giáo dục quốc dân, từ giáo dục phổ thông đến giáo dục đại học. 
+Khung năng lực này là cơ sở để các nhà trường xây dựng kế hoạch giáo dục, giáo viên 
+thiết kế bài dạy và thực hiện kiểm tra, đánh giá. 
+Khung NLS của Việt Nam có cấu trúc bao gồm 6 miền năng l ực và 24 năng lực 
+thành phần cụ thể như sau: 
+STT Miền 
+năng lực Mô tả Năng lực 
+thành phần 
+I 
+Khai thác 
+dữ liệu và 
+thông tin 
+Xác định được rõ nhu cầu thông tin, Xác 
+định được vị trí và truy xuất được dữ liệu, 
+thông tin và nội dung số. 
+Đánh giá được mức độ liên quan của  nguồn 
+và nội dung của chúng.  
+Lưu trữ, quản lý và tổ chức được dữ liệu, 
+thông tin và nội dung số.  
+1.1. Duyệt, tìm kiếm và lọc dữ 
+liệu, thông tin và nội dung số  
+1.2. Đánh giá dữ liệu, thông tin 
+và nội dung số 
+1.3. Quản lý dữ liệu, thông tin 
+và nội dung số 
+II Giao tiếp 
+và hợp 
+2.1. Tương tác thông qua công 
+nghệ số 
+                                           
+13 A Global Framework of Reference on Digital Literacy Skills for Indicators 4.4.2. (UNESCO) (2018  
+--- Page 10 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+6 
+STT Miền 
+năng lực Mô tả Năng lực 
+thành phần 
+tác trong 
+môi 
+trường số 
+Tương tác, giao tiếp và hợp tác thông qua 
+công nghệ số đồng thời nhận thức rõ được 
+sự đa dạng về văn hóa và thế hệ. 
+Tham gia và đóng góp cho xã hội thông qua 
+các dịch vụ công và tư và thực hiện quyền 
+công dân.  
+Quản lý danh tính số và danh tiếng của bản 
+thân. 
+2.2. Chia sẻ thông tin và nội 
+dung thông qua công nghệ số 
+2.3. Sử dụng công nghệ số để 
+thực hiện trách nhiệm công dân 
+2.4. Hợp tác thông qua công 
+nghệ số 
+2.5. Thực hiện quy tắc ứng xử 
+trên mạng 
+2.6. Quản lý danh tính số 
+III 
+Sáng tạo 
+nội dung 
+số 
+Tạo lập và biên tập được nội dung số.  
+Cải tiến và kết hợp được thông tin và nội 
+dung vào vốn tri thức sẵn có trong khi đó 
+hiểu được hệ thống giấy phép và bản quyền 
+liên quan đến quá trình sáng tạo nội dung số.  
+Biết được cách đưa ra các hướng dẫn có thể 
+hiểu được cho hệ thống máy tính. 
+3.1. Phát triển nội dung số 
+3.2. Tích hợp và tạo lập lại nội 
+dung số 
+3.3. Thực thi bản quyền và giấy 
+phép 
+3.4. Lập trình 
+IV An toàn 
+Bảo vệ các thiết bị, nội dung, dữ liệu cá 
+nhân và quyền riêng tư trong môi trường số. 
+Bảo vệ sức khỏe thể chất và tinh thần đồng 
+thời nhận biết các công nghệ số cho tăng 
+cường thịnh vượng xã hội và sự hòa hợp 
+trong xã hội. Nhận thức về tác động môi 
+trường của công nghệ số và việc sử công 
+nghệ số. 
+4.1. Bảo vệ thiết bị 
+4.2. Bảo vệ dữ liệu cá nhân và 
+quyền riêng tư 
+4.3. Bảo vệ sức khỏe và an sinh 
+số 
+4.4. Bảo vệ môi trường 
+V 
+Giải 
+quyết vấn 
+đề 
+Nhận diện được nhu cầu và các vấn đề cũng 
+như giải quyết các vấn đề và tình huống 
+trong môi trường số. Sử dụng được các 
+công cụ kỹ thuật số để đổi mới quy trình và 
+sản phẩm. Cập nhật được sự tiến bộ của 
+công nghệ số. 
+5.1. Giải quyết các vấn đề kỹ 
+thuật 
+5.2. Xác định nhu cầu và giải 
+pháp công nghệ 
+5.3. Sử dụng sáng tạo công 
+nghệ số 
+5.4. Xác định các vấn đề cần 
+cải thiện về năng lực số 
+VI 
+Ứng dụng 
+trí tuệ 
+nhân tạo 
+Ứng dụng AI trong học tập, làm việc và 
+cuộc sống một cách có đạo đức và trách 
+nhiệm. 
+6.1. Hiểu biết về AI (trong đó 
+có Gen AI)  
+6.2. Sử dụng AI có đạo đức và 
+trách nhiệm 
+6.3. Đánh giá các công cụ AI 
+1.2.3. Mục tiêu của việc triển khai Khung NLS 
+Khung NLS được ban hành và triển khai nhằm đạt được các mục tiêu cốt lõi, tác 
+động đến mọi cấp độ của hệ thống giáo dục: 
+--- Page 11 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+7 
+Đối với người học:  Mục tiêu cao nhất là trang bị cho học sinh những năng lực 
+nền tảng để học tập, làm việc và tham gia vào xã hội số một cách tự tin, an toàn, có trách 
+nhiệm và sáng tạo. Đồng thời, việc triển khai một khung năng lực chung trên toàn quốc 
+nhằm đảm bảo công bằng trong giáo dục, giúp mọi học sinh, dù ở bất kỳ vùng miền hay 
+điều kiện nào, cũng đều có cơ hội tiếp cận và phát triển các NLS thiết yếu, góp phần thu 
+hẹp khoảng cách số. 
+Đối với giáo viên và cơ sở giáo dục:  Khung NLS cung cấp một chuẩn chung, là 
+căn cứ pháp lý và chuyên môn thống nhất để giáo viên và nhà trường định hướng các 
+hoạt động dạy học và đánh giá. Cụ thể, đây là cơ sở để: 
+- Xây dựng, điều chỉnh Kế hoạch giáo dục của nhà trường và Kế hoạch dạy học 
+của tổ chuyên môn. 
+- Thiết kế các hoạt động dạy h ọc, kiểm tra, đánh giá có mục tiêu rõ ràng nhằm 
+phát triển NLS cho học sinh. 
+- Đảm bảo sự nhất quán và liên thông về yêu cầu NLS giữa các môn học và các 
+cấp học. 
+Đối với hệ thống giáo dục và xã hội:  Việc triển khai đồng bộ Khung NLS trên 
+toàn quốc góp phần đảm bảo hệ thống giáo dục Việt Nam đáp ứng được yêu cầu của thị 
+trường lao động trong kỷ nguyên số, cung cấp nguồn nhân lực chất lượng cao. Điều này 
+cũng thúc đẩy quá trình hiện đại hóa và hội nhập quốc tế trong lĩnh vực giáo dục, giúp 
+năng lực của người học Việt Nam tiệm cận với các chuẩn tiên tiến trên thế giới. 
+1.2.4. Các mức độ NLS dành cho HS phổ thông 
+Để giúp giáo viên dễ dàng vận dụng Khung NLS vào thực tiễn giảng dạy, các bậc 
+năng lực trong Thông tư 02 được diễn giải thành 5 mức độ thành thạo tương  ứng với 
+các khối lớp ở bậc phổ thông. Việc thiết kế các mức độ đầu vào này đóng vai trò quan 
+trọng, giúp nhà trường và giáo viên lập kế hoạch dạy học phù hợp, đảm bảo tính vừa 
+sức và sự phát triển liên tục cho học sinh. 
+Sự tiến bộ của học sinh qua các cấp  học được thể hiện ở mức độ phức tạp của 
+nhiệm vụ các em có thể xử lý, mức độ tự chủ trong hành động và trình độ nhận thức mà 
+các em đạt được. 
+Bảng mô tả các mức độ thành thạo NLS cho học sinh phổ thông 
+Mức độ thành 
+thạo của các 
+khối lớp 
+Tình huống/nhiệm vụ dạy học Mức độ tự chủ 
+Lớp 1, 2, 3  
+(Cơ bản 1) Nhiệm vụ đơn giản Với sự hướng dẫn 
+Lớp 4, 5 
+(Cơ bản 2) Nhiệm vụ quen thuộc Tự chủ một phần và có 
+hướng dẫn khi cần thiết 
+--- Page 12 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+8 
+Mức độ thành 
+thạo của các 
+khối lớp 
+Tình huống/nhiệm vụ dạy học Mức độ tự chủ 
+Lớp 6, 7 
+(Trung cấp 1) 
+Nhiệm vụ được xác định rõ ràng và 
+quen thuộc và các vấn đề đơn giản Tự chủ  
+Lớp 8, 9 
+(Trung cấp 2) 
+Nhiệm vụ được xác định rõ ràng và 
+không quen thuộc 
+Độc lập và theo nhu cầu 
+cá nhân 
+Lớp 10, 11, 12 
+(Nâng cao 1) 
+Các nhiệm vụ phức tạp và vấn đề khác 
+nhau 
+Tự chủ hoàn toàn, hướng 
+dẫn người khác 
+Mỗi mức độ năng lực được xem xét đồng thời một số yếu tố: 
+- Mức độ làm quen của HS với tình huống được đề xuất (đơn giản, quen thuộc, 
+mới); 
+- Sự phức tạp của việc thực hiện với các công cụ kỹ thuật số (đơn giản, phức tạp); 
+- Mức độ tự chủ (với sự giúp đỡ từ người khác, tự làm  một mình, chia sẻ với 
+người khác); 
+- Sự phức tạp của quá trình thực thi (ứng dụng, phát triển) và các mục tiêu cần 
+đạt được; 
+- Kiến thức cần thiết để thực hiện chúng. 
+1.2.5. Các hình thức tổ chức phát triển năng lực số cho học sinh 
+Để NLS được phát triển một cách toàn diện và bền vững cho học sinh, các nhà 
+trường cần triển khai một cách đồng bộ và linh hoạt thông qua ba hình thức tổ chức 
+chính. Mỗi hình thức có một vai trò và vị trí riêng, nhưng chúng không tách rời mà bổ 
+sung, hỗ trợ lẫn nhau, tạo thành một hệ sinh thái giáo dục số hoàn chỉnh. 
+a)  Dạy học môn Tin học Chương trình GDPT 2018 
+Môn Tin học giữ vai trò chủ đạo, cung cấp kiến thức về ICT và hệ thống các kỹ 
+năng số cốt lõi cho học sinh. Việc triển khai giảng dạy môn Tin học theo Chương trình 
+GDPT 2018 là phương thức quan trọng để phát triển NLS cho học sinh, là hình thức chủ 
+yếu và nền tảng trong số các hình thức phát triển NLS hiện nay.  
+Giáo viên Tin học có vai trò tư vấn, hỗ trợ giáo viên các môn học khác trong việc 
+khai thác, ứng dụng các công cụ số và tích hợp các nội dung phát triển NLS vào quá 
+trình dạy học. 
+b) Dạy học tích hợp NLS trong các môn học, hoạt động giáo dục 
+Các môn học và hoạt động giáo dục khác trong Chương trình GDPT và GDTX tạo 
+môi trường để học sinh vận dụng kỹ năng số vào thực tiễn, qua đó củng cố và phát triển 
+năng lực một cách toàn diện. Việc tích hợp nội dung Khung NLS vào quá trình dạy học 
+các môn học là một giải pháp khả thi và hiệu quả để thực hiện phát triển NLS cho HS. 
+Giáo viên nghiên cứu Chương trình môn học/hoạt động giáo dục, đối chiếu nội 
+dung môn học với Khung NLS để xây dựng kế hoạch dạy học phù hợp, xác định rõ các 
+--- Page 13 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+9 
+nội dung, hình thức và “địa chỉ” tích hợp NLS trong từng bài học, thiết kế kế hoạch bài 
+dạy sao cho vừa đáp ứng mục tiêu và yêu cầu cần đạt của bài học, vừa tích hợp hiệu quả 
+nội dung của Khung NLS nhằm phát triển một hoặc nhiều năng lực thành phần trong 
+các miền năng lực của Khung NLS.  
+Việc phát triển NLS thông qua dạy học tích hợp cần được chú trọng ở cả hai hình 
+thức: tích hợp nội môn và tích hợp liên môn, khuyến khích tích hợp phát triển NLS 
+thông qua các hoạt động giáo dục STEM, nghiên cứu khoa học, các dự án học tập liên 
+quan đến Trí tuệ nhân tạo (AI). 
+c) Dạy học tăng cường, câu lạc bộ để phát triển NLS 
+Căn cứ Khung NLS và điều kiện thực tiễn, các cơ sở giáo dục xây dựng kế hoạch 
+tăng cường thực hiện Khung NLS với nội dung và thời lượng phù hợp để hình thành 
+sớm các kỹ năng cần thiết cho công dân số từ lớp 1 và củng cố, khắc sâu thêm các NLS 
+cần thiết cho học sinh.  
+Tăng cường tổ chức các hoạt động dưới hình thức Câu lạc bộ nhằm đáp ứng nhu 
+cầu, nguyện vọng, của các học sinh có năng khiếu, sở trường, sở thích. Nội dung giáo 
+dục NLS của các câu lạc bộ thường được xây dựng theo các chủ đề,  mô-đun, mạch nội 
+dung kiến thức thuộc/đáp ứng một hay một số miền năng lực thuộc Khung NLS. 
+1.2.6. Các yêu cầu khi triển khai NLS vào kế hoạch giáo dục nhà trường 
+a) Tránh lồng ghép hình thức 
+- Việc tích hợp phải gắn với mục tiêu/ yêu cầu cần đạt, nội dun g, phương pháp, 
+hình thức dạy học cụ thể của từng môn/HĐGD, tránh đưa vào những lồng ghép không 
+tương thích hoặc chung chung mang tính hình thức. 
+b) Phân biệt vai trò của môn Tin học và các môn học/HĐGD khác  
+- Môn Tin học cung cấp kiến thức, kĩ năng nền t ảng về CNTT và khoa học máy 
+tính và thiết bị kĩ thuật số; các môn khác cần khai thác, vận dụng công cụ số để đổi mới 
+dạy học, phát triển năng lực số cho học sinh theo đặc thù nội dung. 
+c) Đảm bảo độ phủ và linh hoạt trọng số các chỉ báo năng lực số 
+- Sau khi dự thảo kế hoạch tích hợp năng lực số (Bước 2, mục 2.4) đối với tất cả 
+các môn học/hoạt động giáo dục và các hoạt động giáo dục khác, nhà trường cần thống 
+kê số lượng từng chỉ báo năng lực số đã được tích hợp để rà soát (đảm bảo mọi chỉ báo 
+theo Công văn 3456 đều đã được tích hợp). 
+- Ngoài ra, căn cứ số lượng thống kê chỉ báo ở trên, nhà trường có thể linh hoạt 
+điều chỉnh trọng số các chỉ báo dựa trên điều kiện thực tế của nhà trường theo nguyên 
+tắc đảm bảo tính khả thi, tính thiết yếu, thế mạnh của trường và sự cân bằng. 
+d) Việc thực hiện Khung năng lực số đảm bảo phù hợp với điều kiện tổ chức 
+dạy học; không được gây quá tải cho Chương trình. 
+- Tính phù hợp và thực tiễn: Việc tổ chức thực hiện Khung NLS phải đáp ứng 
+các chuẩn mực quốc tế nhưng vẫn phù hợ p với điều kiện thực tế của Việt Nam. Quá 
+trình triển khai cần được thực hiện từng bước, có lộ trình đồng bộ, đảm bảo tính khả thi. 
+--- Page 14 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+10 
+- Không gây quá tải: Việc triển khai không làm thay đổi hay gây quá tải cho 
+Chương trình Giáo dục phổ thông (GDPT) 2018 và Chương trình GDTX. Cần đối chiếu 
+với yêu cầu cần đạt của từng môn học và hoạt động giáo dục để lồng ghép các nội dung 
+nâng cao NLS cho từng đối tượng một cách hợp lý. Nội dung và hoạt động phát triển 
+NLS phải được thiết kế phù hợp với tâm lý lứa tuổi, nhu cầu và khả năng tiếp cận công 
+nghệ của học sinh ở từng cấp học. 
+- Tối ưu hóa nguồn lực: Cần phát huy tối đa nguồn lực và cơ sở vật chất sẵn có, 
+tránh đầu tư dàn trải, không hiệu quả. 
+- Đảm bảo công bằng: Có giải pháp phù hợp để mọi học sinh, nhất là các em ở 
+vùng có còn khó khăn, đều có cơ hội tiếp cận với giáo dục kỹ năng công dân số. 
+ 
+  

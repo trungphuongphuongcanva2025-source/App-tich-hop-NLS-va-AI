@@ -1,0 +1,184 @@
+--- DOMAINS AND COMPONENTS FOUND IN THE TEXT ---
+Detected Domains:
+Domain 1: Tương tác
+Domain 2: Tích h
+Domain 3: Sáng t
+Domain 4: An toàn
+
+Detected Components:
+Component 1.2.: Đánh giá d
+Component 2.1.: Tương tác
+Component 2.2.: Chia s
+Component 3.2.: Tích h
+
+Total unique NLS codes found: 265
+
+Domain distribution:
+Domain 1: 37 indicators
+Domain 2: 68 indicators
+Domain 3: 25 indicators
+Domain 4: 55 indicators
+Domain 5: 47 indicators
+Domain 6: 33 indicators
+
+--- SAMPLE DOMAIN 6 ENTRIES ---
+Match at line 2198:
+dẫn người khác, học 
+c. Đề xuất được các 
+cơ hội khác nhau để 6.1.CB2a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L4-L5 (CB2) Ở trình độ cơ bản, với 
+khả năng tự chủ và 
+a. Xác định được các 
+khái niệm cơ bản của 6.1.CB2b 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+----------------------------------------
+Match at line 2207:
+khả năng tự chủ và 
+a. Xác định được các 
+khái niệm cơ bản của 6.1.CB2b 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L4-L5 (CB2) Ở trình độ cơ bản, với 
+khả năng tự chủ và 
+b. Nhớ lại được các 
+ứng dụng đơn giản 6.1.TC1a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+----------------------------------------
+Match at line 2216:
+khả năng tự chủ và 
+b. Nhớ lại được các 
+ứng dụng đơn giản 6.1.TC1a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L6-L7 (TC1) Với các vấn đề đơn 
+giản, học sinh có thể 
+a. Giải thích được 
+nguyên tắc hoạt động 6.1.TC1b 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+----------------------------------------
+Match at line 2225:
+giản, học sinh có thể 
+a. Giải thích được 
+nguyên tắc hoạt động 6.1.TC1b 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L6-L7 (TC1) Với các vấn đề đơn 
+giản, học sinh có thể 
+b. Diễn giải được các 
+thuật ngữ và khái 6.1.TC2a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+----------------------------------------
+Match at line 2234:
+giản, học sinh có thể 
+b. Diễn giải được các 
+thuật ngữ và khái 6.1.TC2a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L8-L9 (TC2) Dựa trên nhu cầu 
+riêng và với các vấn 
+a. Áp dụng được các 
+nguyên tắc cơ bản 
+--- Page 8 ---
+6.1.TC2b 6. Ứng dụng 
+----------------------------------------
+Match at line 2245:
+nguyên tắc cơ bản 
+--- Page 8 ---
+6.1.TC2b 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L8-L9 (TC2) Dựa trên nhu cầu 
+riêng và với các vấn 
+b. Thực hiện được 
+các thao tác cơ bản 6.1.NC1a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+----------------------------------------
+Match at line 2254:
+riêng và với các vấn 
+b. Thực hiện được 
+các thao tác cơ bản 6.1.NC1a 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L10-L11-L12 
+(NC1)
+Khi tự mình và hướng 
+dẫn người khác, học 
+a. Phân tích được 
+cách AI hoạt động 6.1.NC1b 6. Ứng dụng 
+----------------------------------------
+Match at line 2265:
+dẫn người khác, học 
+a. Phân tích được 
+cách AI hoạt động 6.1.NC1b 6. Ứng dụng 
+trí tuệ nhân 
+6.1 Hiểu biết về trí 
+tuệ nhân tạo
+Hiểu được cách AI ảnh hưởng đến cuộc sống hàng 
+ngày và vai trò của Al trong các lĩnh vực khác 
+L10-L11-L12 
+(NC1)
+Khi tự mình và hướng 
+dẫn người khác, học 
+b. So sánh được các 
+hệ thống AI khác nhau 6.2.CB1a 6. Ứng dụng 
+----------------------------------------
+Match at line 2276:
+dẫn người khác, học 
+b. So sánh được các 
+hệ thống AI khác nhau 6.2.CB1a 6. Ứng dụng 
+trí tuệ nhân 
+6.2 Sử dụng trí tuệ 
+nhân tạo
+Sử dụng hiệu quả các hệ thống AI và hiểu rõ ứng 
+dụng thực tế của chúng. Sử dụng được AI để tạo 
+L1-L2-L3 
+(CB1)
+Ở trình độ cơ bản và 
+có hướng dẫn, học 
+a. Nhận diện được 
+các công cụ AI đơn 6.2.CB1b 6. Ứng dụng 
+----------------------------------------
+Match at line 2287:
+có hướng dẫn, học 
+a. Nhận diện được 
+các công cụ AI đơn 6.2.CB1b 6. Ứng dụng 
+trí tuệ nhân 
+6.2 Sử dụng trí tuệ 
+nhân tạo
+Sử dụng hiệu quả các hệ thống AI và hiểu rõ ứng 
+dụng thực tế của chúng. Sử dụng được AI để tạo 
+L1-L2-L3 
+(CB1)
+Ở trình độ cơ bản và 
+có hướng dẫn, học 
+b. Thực hiện được 
+các thao tác cơ bản 6.2.CB1c 6. Ứng dụng 
+----------------------------------------

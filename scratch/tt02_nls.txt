@@ -1,0 +1,5753 @@
+--- Page 1 ---
+ 
+BỘ GIÁO DỤC VÀ ĐÀO TẠO 
+ 
+ 
+ 
+ 
+ 
+TÀI LIỆU TẬP HUẤN GIÁO VIÊN 
+ 
+ 
+ 
+ 
+HƯỚNG DẪN PHÁT TRIỂN NĂNG LỰC SỐ  
+CHO HỌC SINH PHỔ THÔNG 
+CẤP TIỂU HỌC 
+ 
+(LƯU HÀNH NỘI BỘ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội - 2025
+--- Page 2 ---
+[No text found on this page]
+--- Page 3 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+i 
+MỤC LỤC 
+ 
+MỤC LỤC .................................................................................................................... i 
+DANH MỤC CÁC TỪ VIẾT TẮT ........................................................................... ii 
+Phần I. MỘT SỐ VẤN ĐỀ CHUNG VỀ NĂNG LỰC SỐ ...................................... 1 
+1.1. Tổng quan về năng lực số ................................................................................ 1 
+1.1.1. Khái niệm NLS ....................................................................................... 1 
+1.1.2. Vai trò của NLS đối với học sinh ........................................................... 2 
+1.1.3. Các yếu tố ảnh hưởng đến việc phát triển NLS của học sinh ................ 3 
+1.2. Khung năng lực số của người học ................................................................... 4 
+1.2.1. Một số Khung NLS tham khảo tiêu biểu trên thế giới ........................... 4 
+1.2.2. Khung NLS của người học Việt Nam .................................................... 5 
+1.2.3. Mục tiêu của việc triển khai Khung NLS ............................................... 6 
+1.2.5. Các hình thức tổ chức phát triển năng lực số cho học sinh .................... 8 
+1.2.6. Các yêu cầu khi triển khai NLS vào kế hoạch giáo dục nhà trường ...... 9 
+Phần II. HƯỚNG DẪN THỰC HIỆN KHUNG NLS CHO HỌC SINH ............. 11 
+2.1. Công tác chuẩn bị tại các cơ sở giáo dục ....................................................... 11 
+2.2. Quy trình triển khai Khung năng lực số......................................................... 12 
+2.3. Triển khai khung năng lực số vào kế hoạch giáo dục nhà trường ................. 13 
+Phần III. MINH HỌA TÍCH HỢP NĂNG LỰC SỐ VÀO KẾ HOẠCH  GIÁO 
+DỤC NHÀ TRƯỜNG ................................................................................................ 15 
+3.1. Minh họa kế hoạch dạy học phát triển/tích hợp năng lực số ......................... 15 
+3.1.1. Kế hoạch dạy học môn Tin học 3 ......................................................... 16 
+3.1.2. Kế hoạch dạy học môn Tin học 4 ......................................................... 21 
+3.1.3. Kế hoạch dạy học môn Tin học 5 ......................................................... 24 
+3.1.4. Kế hoạch dạy học môn Đạo đức .......................................................... 28 
+3.1.5. Kế hoạch dạy học môn Công nghệ ....................................................... 32 
+3.2. Minh họa kế hoạch bài dạy phát triển/tích hợp phát triển năng lực số .......... 35 
+3.2.1. Kế hoạch bài dạy minh hoạ môn Tin học phát triển năng lực số ......... 35 
+3.2.2. Kế hoạch bài dạy minh hoạ môn Đạo đức tích hợp năng lực số .......... 41 
+3.2.3. Kế hoạch bài dạy minh họa môn Công nghệ tích hợp năng lực số ...... 47 
+3.3. Minh họa và phân tích kế hoạch bài dạy tăng cường/câu lạc bộ ................... 52 
+PHỤ LỤC 1: BẢNG MÃ CHỈ BÁO NĂNG LỰC SỐ (THEO CÔNG VĂN 
+3456/BGDĐT-GDPT) ................................................................................................. 57 
+PHỤ LỤC 2: MỘT SỐ GỢI Ý CHO CÁC TÌNH HUỐNG SƯ PHẠM .................... 75 
+ 
+ 
+--- Page 4 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+ii 
+DANH MỤC CÁC TỪ VIẾT TẮT 
+ 
+STT Tên viết tắt Tên đầy đủ 
+1  CNTT CNTT 
+2  CTGDPT Chương trình giáo dục phổ thông 
+3  GDĐT Giáo dục và Đào tạo 
+4  HS HS 
+5  GV GV 
+6  SGK Sách giáo khoa 
+7  THCS Trung học cơ sở 
+8  THPT Trung học phổ thông 
+9  CNTT-TT Công nghệ thông tin và truyền thông 
+10   AI Trí tuệ nhân tạo 
+11  IoT Internet kết nối vạn vật  
+12  NLS Năng lực số 
+13  KNCĐ Kĩ năng chuyển đổi 
+ 
+ 
+ 
+--- Page 5 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+1 
+Phần I. MỘT SỐ VẤN ĐỀ CHUNG VỀ NĂNG LỰC SỐ 
+1.1. Tổng quan về năng lực số 
+1.1.1. Khái niệm NLS 
+Trong bối cảnh của cuộc Cách mạng công nghiệp lần thứ tư, năng lực số đã trở 
+thành một trong những năng lực nền tảng, thiết yếu cho công dân toàn cầu trong thế kỷ 
+21. Khái niệm này đã được nhiều tổ chức quốc tế uy tín nghiên cứu và định nghĩa dưới 
+các góc độ khác nhau. 
+Ủy ban và Nghị Viện Châu Âu (2006), trong khung NLS DigComp 2.1, cho rằng: 
+NLS là một trong những năng lực cơ bản và thiết yếu cho học tập suốt đời, trong đó, 
+NLS được định nghĩa là “NLS liên quan đến việc sử dụng công nghệ số một cách tự tin 
+và có tư duy phản biện phục vụ cho học tập, giải trí, công tác và giao tiếp”. NLS gồm 
+những kỹ năng cơ bản về CNTT như: sử dụng máy tính để tìm kiếm, tiếp cận, đánh giá, 
+lưu trữ, tạo ra sản phẩm, trình bày và trao đổi thông tin, cũng như giao tiếp và tham gia 
+vào các mạng lưới hợp tác thông qua Internet”1.  
+Trong khi đó, UNESCO (2018) nhấn mạnh đến khả năng vận dụng đa dạng và 
+định nghĩa: “NLS là khả năng truy cập, quản lý, hiểu, tích hợp, giao tiếp, đánh giá và 
+tạo thông tin một cách an toàn và phù hợp thông qua các công nghệ kỹ thuật số cho việc 
+làm và khởi nghiệp. NL này bao gồm các năng lực được gọi chung là hiểu biết về máy 
+tính, hiểu biết về CNTT-TT, hiểu biết về thông tin và hiểu biết về truyền thông”2. 
+Dự án Trẻ em số khu vực châu Á Thái Bình Dương do UNESCO Bangkok chủ 
+trì định nghĩa: "NLS là khả năng sử dụng kỹ thuật số của trẻ em để định hướng (tự điều 
+chỉnh), tham gia và đóng góp vào môi trường kỹ thuật số trong thế kỉ 21" 3. 
+Theo UNICEF “ NLS là đề cập đến kiến thức, kỹ năng và thái đ ộ cho phép tr ẻ 
+phát triển và phát huy tối đa khả năng trong thế giới công nghệ số ngày càng lớn mạnh 
+trên phạm vi toàn cầu, một thế giới mà trẻ vừa được an toàn, vừa được trao quyền theo 
+cách  phù hợp với lứa tuổi cũng như phù hợp với văn hóa và bối cảnh địa phương”4. 
+Tại Việt Nam, nhằm tạo ra sự thống nhất trong toàn hệ thống giáo dục quốc dân, 
+Bộ GD&ĐT đã chính thức ban hành định nghĩa về NLS. Đây là khái ni ệm pháp lý cốt 
+lõi mà tất cả các hoạt động dạy và học cần hướng tới. 
+Theo khoản 11, Điều 2 của Thông tư số 02/2025/TT-BGDĐT ngày 24 tháng 01 
+năm 2025: "NLS là khả năng sử dụng công nghệ số để hoàn thành nhiệm vụ cụ thể hoặc 
+để giải quyết vấn đề trong thực tiễn."5 
+                                           
+1 https://enil.ceris.cnr.it/Basili/EnIL/gateway/europe/EUkeycompetences.htm  
+2 http://uis.unesco.org/sites/default/files/documents/ip51-global-framework-reference-digital-literacy-skills-
+2018-en.pdf 
+3 https://unesdoc.unesco.org/ark:/48223/pf0000367985 
+4 https://www.unicef.org/globalinsight/media/1271/file/%20UNICEF-Global-Insight-digital-literacy-scoping-
+paper-2020.pdf 
+5 Bộ Giáo dục và Đào tạo. (2025). Thông tư số 02/2025/TT-BGDĐT ngày 24 tháng 01 năm 2025 Quy định 
+Khung năng lực số cho người học. 
+--- Page 6 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+2 
+Định nghĩa này nhấn mạnh vào khả năng hành động và vận dụng của người học. 
+NLS không ch ỉ đơn thuần là kiến thức về công nghệ hay kỹ năng sử dụng thành thạo 
+một vài phần mềm, mà là khả năng huy động tổng hợp các kiến thức, kỹ năng, thái độ 
+để xử lý các tình huống, nhiệm vụ thực tế một cách hiệu quả trong môi trường số. 
+Cụ thể, khả năng này đư ợc biểu hiện thông qua 6 mi ền năng l ực chính trong 
+Khung NLS của Bộ GD&ĐT, bao gồm từ việc khai thác thông tin và dữ liệu, giao tiếp-
+hợp tác, sáng tạo nội dung, an toàn, giải quyết vấn đề và ứng dụng AI. 
+Vì vậy, trong tài liệu tập huấn này, chúng ta sẽ thống nhất sử dụng khái niệm và 
+Khung NLS được quy định tại Thông tư 02/2025/TT-BGDĐT làm cơ sở cho mọi hoạt 
+động phân tích, thiết kế và tổ chức dạy học. 
+1.1.2. Vai trò của NLS đối với học sinh  
+Trong kỷ nguyên chuyển đổi số , NLS đã trở thành một yếu tố then chốt, mang 
+lại ý nghĩa và vai trò sâu sắc đối với học sinh. NLS không chỉ là khả năng sử dụng các 
+công cụ kỹ thuật số mà còn là tập hợp các kiến thức, kỹ năng, thái độ và nhận thức cần 
+thiết để học tập, làm việc và tham gia vào xã hội số một cách an toàn và hiệu quả (Ala -
+Mutka, 2011)6. Đối với HS, việc phát triển NLS là một yêu cầu cấp thiết để thích ứng 
+với những thay đổi mạnh mẽ của thời đại, từ đó mở ra nhiều cơ hội phát triển toàn diện. 
+(1) Nâng cao hiệu quả học tập và tiếp cận kiến thức 
+NLS giúp học sinh tận dụng tối đa các công cụ và tài nguyên số để nâng cao chất 
+lượng học tập. Học sinh có thể tìm kiếm, đánh giá và sử dụng thông tin từ nhiều nguồn 
+trực tuyến khác nhau một cách hiệu quả, từ đó tự học, mở rộng kiến thứ c và giải quyết 
+vấn đề (Ferrari, 2013) 7. Các nền tảng học tập trực tuyến, sách giáo khoa điện tử và các 
+công cụ mô phỏng giúp học sinh tiếp cận kiến thức một cách trực quan và sinh động 
+hơn, đồng thời phát triển tư duy phản biện và khả năng tự chủ trong học tập. 
+(2) Chuẩn bị cho tương lai nghề nghiệp 
+Thị trường lao động hiện đại đòi hỏi người lao động phải có các kỹ năng số vững 
+chắc. Việc trang bị NLS ngay từ ghế nhà trường giúp học sinh sẵn sàng thích ứng với 
+các công việc trong tương lai, nhiều trong số đó chưa từng tồn tại trước đây (Bawden, 
+2008)8. Học sinh có thể phát triển các kỹ năng quan trọng như làm việc nhóm trực tuyến, 
+quản lý dự án số, tư duy sáng tạo và giải quyết vấn đề phức tạp, những kỹ năng này là 
+nền tảng cho sự thành công trong bất kỳ lĩnh vực nghề nghiệp nào. 
+(3) Thúc đẩy sự tham gia các hoạt động xã hội trên môi trường số 
+NLS cho phép học sinh tham gia vào các hoạt động xã hội, văn hóa và chính trị 
+                                           
+6 Ala-Mutka, K. (2011). Mapping Digital Competence: Towards a Conceptual Understanding.  JRC Technical 
+Reports. European Union 
+7 Ferrari, A. (2013). DIGCOMP: A Framework for Developing and Understanding Digital Competence in 
+Europe. JRC Scientific and Policy Reports. European Union 
+8 Bawden, D. (2008). Information literacy and digital literacy: The "new" literacy studies revisited. Journal of 
+Documentation, 64(1), 17-31 
+--- Page 7 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+3 
+trong không gian số một cách có trách nhiệm. Học sinh học cách sử dụng mạng xã hội 
+và các nền tảng trực tuyến để giao tiếp, hợp tác và bày tỏ quan điểm một cách văn minh, 
+đồng thời nhận thức được các rủi ro tiềm ẩn như tin giả, lừa đảo trực tuyến và bảo vệ 
+quyền riêng tư (Lau, 2016)9. Điều này giúp các em trở thành những công dân số có trách 
+nhiệm, biết cách đóng góp tích cực cho cộng đồng. 
+1.1.3. Các yếu tố ảnh hưởng đến việc phát triển NLS của học sinh 
+Sự hình thành và phát triển NLS của học sinh là một quá trình phức hợp, chịu tác 
+động bởi sự tương tác của nhiều yếu tố đa dạng. Việc hiểu rõ các yếu tố này giúp nhà 
+giáo dục và nhà trường xây dựng được những chiến lược can thiệp phù hợp và hiệu quả. 
+Các nghiên cứu trên thế giới đã chỉ ra các nhóm yếu tố chính sau: 
+1.1.3.1. Yếu tố từ môi trường nhà trường 
+Đây là nhóm yếu tố có tác động trực tiếp  và quan trọng nhất mà giáo viên và cơ 
+sở giáo dục có thể chủ động định hướng. 
+(1) NLS và phương pháp sư phạm của giáo viên:  Năng lực của chính giáo viên 
+trong việc sử dụng và tích hợp công nghệ số vào giảng dạy là yếu tố then chốt. Theo 
+UNESCO (2017)10, việc giáo viên sử dụng ICT có mối tương quan tích cực với trình độ 
+NLS của học sinh. Tuy nhiên, điều quan trọng hơn không chỉ là việc sử dụng, mà là cách 
+sử dụng. Một phương pháp sư phạm hiện đại, xem công nghệ số là công cụ để tổ chức 
+các hoạt động học tập tích cực, kiến tạo kiến thức và giải quyết vấn đề sẽ thúc đẩy NLS 
+của HS hiệu quả hơn nhiều so với việc chỉ dùng công nghệ để trình chiếu thông tin. 
+(2) Chương trình và nội dung dạy học:  Việc phát triển NLS cần được tích hợp 
+một cách có chủ đích vào chương trình các môn học, không chỉ gói gọn trong môn Tin 
+học. Khi học sinh được vận dụng các kỹ năng số để giải quyết các bài toán thực tiễn của 
+môn Toán, Lịch sử, hay thực hiện các dự án của môn Khoa học tự nhiên, NLS của các 
+em sẽ được phát triển một cách toàn diện và bền vững. 
+(3) Cơ sở vật chất và khả năng tiếp cận:  Mức độ trang bị và khả năng tiếp cận 
+của học sinh đối với các thiết bị số (máy tính, máy tính bảng), phần mềm và kết nối 
+Internet tại trường học ảnh hưởng trực tiếp đến cơ hội thực hành của HS. Đ ảm bảo sự 
+tiếp cận công bằng cho mọi học sinh là một nhiệm vụ quan trọng của nhà trường. 
+1.1.3.2. Yếu tố từ môi trường gia đình 
+Gia đình là môi trường số đầu tiên và có ảnh hưởng sâu sắc đến thái độ và hành 
+vi số của trẻ, nó bao gồm các yếu tố: 
+Sự đồng hành và định hướng của phụ huynh: Livingstone và Byrne (2015)11 nhấn 
+mạnh vai trò trung gian của cha mẹ trong việc định hướng con cái sử dụng Internet một 
+cách an toàn và hữu ích. Các thảo luận trong gia đình về cơ hội và rủi ro trên mạng, kỳ 
+                                           
+9 Lau, J. (2016). Information Literacy as a Life-long Learning Process. IFLA/UNESCO 
+10 UNESCO. (2017). Review of national policies on mobile learning in Asia and the Pacific.  
+11 Livingstone, S., & Byrne, J. (2015). Challenges of parental responsibility in a global online environment.  
+--- Page 8 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+4 
+vọng của cha mẹ về vai trò của công nghệ đối với tương lai của con, và các quy tắc sử 
+dụng thiết bị số tại nhà đều góp phần định hình NLS cho trẻ. 
+Điều kiện và tài nguyên số tại nhà: Việc học sinh có máy tính và Internet tại nhà 
+để tự học, tìm tòi và thực hiện các nhiệm vụ học tập là một lợi thế lớn. Sự chênh lệch về 
+điều kiện này là một trong những nguyên nhân chính tạo ra "khoảng cách số" giữa các 
+học sinh. 
+1.1.3.3. Yếu tố cá nhân của học sinh 
+Bản thân mỗi học sinh cũng là một yếu tố quan trọng, bao gồm: 
+Động lực và thái độ: Sự tò mò, hứng thú với công nghệ, thái độ chủ động tìm tòi, 
+khám phá và tinh thần học hỏi suốt đời sẽ giúp học sinh phát triển NLS nhanh hơn. 
+Kiến thức và kinh nghiệm: Những học sinh sớm được tiếp xúc và có kinh nghiệm 
+sử dụng máy tính thường có nền tảng tốt hơn. Các kỹ năng nền tảng như đọc-hiểu cũng 
+rất quan trọng, vì phần lớn thông tin trên môi trường số tồn tại ở dạng văn bản. 
+1.1.3.4. Bối cảnh kinh tế - xã hội và công nghệ 
+Đây là các yếu tố vĩ mô, tạo ra môi trường chung cho việc phát triển NLS. Cụ thể 
+như sau: 
+Hạ tầng công nghệ quốc gia : Tỷ lệ phủ sóng Internet, chất lượng đường truyền 
+và chi phí truy cập ảnh hưởng đến khả năng kết nối chung của toàn xã hội, bao gồm cả 
+nhà trường và gia đình. 
+Hệ sinh thái nội dung số : Sự sẵn có của các tài nguyê n học tập, thông tin, giải 
+trí... bằng ngôn ngữ địa phương và phù hợp với văn hóa sẽ khuyến khích học sinh tham 
+gia và khai thác môi trường số một cách hiệu quả hơn (Tan et al., 2017) 12. 
+Tóm lại, phát triển NLS cho học sinh là một trách nhiệm chung. Trong đ ó, nhà 
+trường và đội ngũ giáo viên đóng vai trò hạt nhân, không chỉ trang bị kiến thức, kỹ năng 
+mà còn có nhiệm vụ quan trọng là thu hẹp khoảng cách số gây ra bởi các yếu tố khác, 
+tạo cơ hội phát triển công bằng cho mọi học sinh, và xây dựng mối quan hệ hợp tác chặt 
+chẽ với gia đình và các tổ chức xã hội để tạo ra một môi trường giáo dục số an toàn, 
+lành mạnh và hiệu quả. 
+1.2. Khung năng lực số của người học 
+1.2.1. Một số Khung NLS tham khảo tiêu biểu trên thế giới 
+Khung NLS là một tập hợp các năng lực thàn h phần để nâng cao năng lực của 
+một nhóm đối tượng cụ thể. Các khung NLS chủ yếu được sử dụng rộng rãi bao gồm: 
+1.2.1.1. Khung NLS cho công dân của Ủy ban Châu Âu (DigComp): 
+Đây là một trong những khung năng lực có ảnh hưởng lớn nhất trên toàn cầu. 
+DigComp xác định các NLS thiết yếu cho mọi công dân để tham gia tích cực vào xã hội 
+                                           
+12 Tan, M., et al. (2017). A review of the literature on digital inclusion: A report for the Australian Digital 
+Inclusion Alliance. 
+--- Page 9 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+5 
+và thị trường lao động. Phiên bản DigComp 2.1 bao gồm 5 miền năng lực chính sau: 
+(1) Kỹ năng thông tin và dữ liệu (Information and data literacy) 
+(2) Giao tiếp và hợp tác (Communication and collaboration) 
+(3) Sáng tạo nội dung số (Digital content creation) 
+(4) An toàn (Safety) 
+(5) Giải quyết vấn đề (Problem solving) 
+1.2.1.2. Khung NLS toàn cầu của UNESCO  
+UNESCO đã phát triển một khung tham chiếu toàn cầu nhằm hỗ trợ các quốc gia 
+xây dựng và đo lường NLS. Khung này có phạm vi rộng, bao quát nhiều khía cạnh từ 
+kỹ năng vận hành cơ bản đến các năng lực bậc cao, được chia thành 7 lĩnh vực chính: 13 
+(1) Sử dụng thiết bị và phần mềm (Fundamentals of Hardware and Software) 
+(2) Khai thác thông tin và dữ liệu (Information and Data Literacy) 
+(3) Giao tiếp và hợp tác (Communication and Collaboration) 
+(4) Sáng tạo nội dung số (Digital Content Creation) 
+(5) An toàn (Safety) 
+(6) Giải quyết vấn đề (Problem-Solving) 
+(7) Năng lực liên quan đến nghề nghiệp (Career-Related Competences) 
+1.2.2. Khung NLS của người học Việt Nam  
+Khung NLS cho người học tại Việt Nam được qui định tại  Thông tư 02/2025/TT-
+BGDĐT) 
+ Đây là khung NLS cho người học mang tính pháp quy, chính thức được áp dụng 
+trong toàn bộ hệ thống giáo dục quốc dân, từ giáo dục phổ thông đến giáo dục đại học. 
+Khung năng lực này là cơ sở để các nhà trường xây dựng kế hoạch giáo dục, giáo viên 
+thiết kế bài dạy và thực hiện kiểm tra, đánh giá. 
+Khung NLS của Việt Nam có cấu trúc bao gồm 6 miền năng l ực và 24 năng lực 
+thành phần cụ thể như sau: 
+STT Miền 
+năng lực Mô tả Năng lực 
+thành phần 
+I 
+Khai thác 
+dữ liệu và 
+thông tin 
+Xác định được rõ nhu cầu thông tin, Xác 
+định được vị trí và truy xuất được dữ liệu, 
+thông tin và nội dung số. 
+Đánh giá được mức độ liên quan của  nguồn 
+và nội dung của chúng.  
+Lưu trữ, quản lý và tổ chức được dữ liệu, 
+thông tin và nội dung số.  
+1.1. Duyệt, tìm kiếm và lọc dữ 
+liệu, thông tin và nội dung số  
+1.2. Đánh giá dữ liệu, thông tin 
+và nội dung số 
+1.3. Quản lý dữ liệu, thông tin 
+và nội dung số 
+II Giao tiếp 
+và hợp 
+2.1. Tương tác thông qua công 
+nghệ số 
+                                           
+13 A Global Framework of Reference on Digital Literacy Skills for Indicators 4.4.2. (UNESCO) (2018  
+--- Page 10 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+6 
+STT Miền 
+năng lực Mô tả Năng lực 
+thành phần 
+tác trong 
+môi 
+trường số 
+Tương tác, giao tiếp và hợp tác thông qua 
+công nghệ số đồng thời nhận thức rõ được 
+sự đa dạng về văn hóa và thế hệ. 
+Tham gia và đóng góp cho xã hội thông qua 
+các dịch vụ công và tư và thực hiện quyền 
+công dân.  
+Quản lý danh tính số và danh tiếng của bản 
+thân. 
+2.2. Chia sẻ thông tin và nội 
+dung thông qua công nghệ số 
+2.3. Sử dụng công nghệ số để 
+thực hiện trách nhiệm công dân 
+2.4. Hợp tác thông qua công 
+nghệ số 
+2.5. Thực hiện quy tắc ứng xử 
+trên mạng 
+2.6. Quản lý danh tính số 
+III 
+Sáng tạo 
+nội dung 
+số 
+Tạo lập và biên tập được nội dung số.  
+Cải tiến và kết hợp được thông tin và nội 
+dung vào vốn tri thức sẵn có trong khi đó 
+hiểu được hệ thống giấy phép và bản quyền 
+liên quan đến quá trình sáng tạo nội dung số.  
+Biết được cách đưa ra các hướng dẫn có thể 
+hiểu được cho hệ thống máy tính. 
+3.1. Phát triển nội dung số 
+3.2. Tích hợp và tạo lập lại nội 
+dung số 
+3.3. Thực thi bản quyền và giấy 
+phép 
+3.4. Lập trình 
+IV An toàn 
+Bảo vệ các thiết bị, nội dung, dữ liệu cá 
+nhân và quyền riêng tư trong môi trường số. 
+Bảo vệ sức khỏe thể chất và tinh thần đồng 
+thời nhận biết các công nghệ số cho tăng 
+cường thịnh vượng xã hội và sự hòa hợp 
+trong xã hội. Nhận thức về tác động môi 
+trường của công nghệ số và việc sử công 
+nghệ số. 
+4.1. Bảo vệ thiết bị 
+4.2. Bảo vệ dữ liệu cá nhân và 
+quyền riêng tư 
+4.3. Bảo vệ sức khỏe và an sinh 
+số 
+4.4. Bảo vệ môi trường 
+V 
+Giải 
+quyết vấn 
+đề 
+Nhận diện được nhu cầu và các vấn đề cũng 
+như giải quyết các vấn đề và tình huống 
+trong môi trường số. Sử dụng được các 
+công cụ kỹ thuật số để đổi mới quy trình và 
+sản phẩm. Cập nhật được sự tiến bộ của 
+công nghệ số. 
+5.1. Giải quyết các vấn đề kỹ 
+thuật 
+5.2. Xác định nhu cầu và giải 
+pháp công nghệ 
+5.3. Sử dụng sáng tạo công 
+nghệ số 
+5.4. Xác định các vấn đề cần 
+cải thiện về năng lực số 
+VI 
+Ứng dụng 
+trí tuệ 
+nhân tạo 
+Ứng dụng AI trong học tập, làm việc và 
+cuộc sống một cách có đạo đức và trách 
+nhiệm. 
+6.1. Hiểu biết về AI (trong đó 
+có Gen AI)  
+6.2. Sử dụng AI có đạo đức và 
+trách nhiệm 
+6.3. Đánh giá các công cụ AI 
+1.2.3. Mục tiêu của việc triển khai Khung NLS 
+Khung NLS được ban hành và triển khai nhằm đạt được các mục tiêu cốt lõi, tác 
+động đến mọi cấp độ của hệ thống giáo dục: 
+--- Page 11 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+7 
+Đối với người học:  Mục tiêu cao nhất là trang bị cho học sinh những năng lực 
+nền tảng để học tập, làm việc và tham gia vào xã hội số một cách tự tin, an toàn, có trách 
+nhiệm và sáng tạo. Đồng thời, việc triển khai một khung năng lực chung trên toàn quốc 
+nhằm đảm bảo công bằng trong giáo dục, giúp mọi học sinh, dù ở bất kỳ vùng miền hay 
+điều kiện nào, cũng đều có cơ hội tiếp cận và phát triển các NLS thiết yếu, góp phần thu 
+hẹp khoảng cách số. 
+Đối với giáo viên và cơ sở giáo dục:  Khung NLS cung cấp một chuẩn chung, là 
+căn cứ pháp lý và chuyên môn thống nhất để giáo viên và nhà trường định hướng các 
+hoạt động dạy học và đánh giá. Cụ thể, đây là cơ sở để: 
+- Xây dựng, điều chỉnh Kế hoạch giáo dục của nhà trường và Kế hoạch dạy học 
+của tổ chuyên môn. 
+- Thiết kế các hoạt động dạy h ọc, kiểm tra, đánh giá có mục tiêu rõ ràng nhằm 
+phát triển NLS cho học sinh. 
+- Đảm bảo sự nhất quán và liên thông về yêu cầu NLS giữa các môn học và các 
+cấp học. 
+Đối với hệ thống giáo dục và xã hội:  Việc triển khai đồng bộ Khung NLS trên 
+toàn quốc góp phần đảm bảo hệ thống giáo dục Việt Nam đáp ứng được yêu cầu của thị 
+trường lao động trong kỷ nguyên số, cung cấp nguồn nhân lực chất lượng cao. Điều này 
+cũng thúc đẩy quá trình hiện đại hóa và hội nhập quốc tế trong lĩnh vực giáo dục, giúp 
+năng lực của người học Việt Nam tiệm cận với các chuẩn tiên tiến trên thế giới. 
+1.2.4. Các mức độ NLS dành cho HS phổ thông 
+Để giúp giáo viên dễ dàng vận dụng Khung NLS vào thực tiễn giảng dạy, các bậc 
+năng lực trong Thông tư 02 được diễn giải thành 5 mức độ thành thạo tương  ứng với 
+các khối lớp ở bậc phổ thông. Việc thiết kế các mức độ đầu vào này đóng vai trò quan 
+trọng, giúp nhà trường và giáo viên lập kế hoạch dạy học phù hợp, đảm bảo tính vừa 
+sức và sự phát triển liên tục cho học sinh. 
+Sự tiến bộ của học sinh qua các cấp  học được thể hiện ở mức độ phức tạp của 
+nhiệm vụ các em có thể xử lý, mức độ tự chủ trong hành động và trình độ nhận thức mà 
+các em đạt được. 
+Bảng mô tả các mức độ thành thạo NLS cho học sinh phổ thông 
+Mức độ thành 
+thạo của các 
+khối lớp 
+Tình huống/nhiệm vụ dạy học Mức độ tự chủ 
+Lớp 1, 2, 3  
+(Cơ bản 1) Nhiệm vụ đơn giản Với sự hướng dẫn 
+Lớp 4, 5 
+(Cơ bản 2) Nhiệm vụ quen thuộc Tự chủ một phần và có 
+hướng dẫn khi cần thiết 
+--- Page 12 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+8 
+Mức độ thành 
+thạo của các 
+khối lớp 
+Tình huống/nhiệm vụ dạy học Mức độ tự chủ 
+Lớp 6, 7 
+(Trung cấp 1) 
+Nhiệm vụ được xác định rõ ràng và 
+quen thuộc và các vấn đề đơn giản Tự chủ  
+Lớp 8, 9 
+(Trung cấp 2) 
+Nhiệm vụ được xác định rõ ràng và 
+không quen thuộc 
+Độc lập và theo nhu cầu 
+cá nhân 
+Lớp 10, 11, 12 
+(Nâng cao 1) 
+Các nhiệm vụ phức tạp và vấn đề khác 
+nhau 
+Tự chủ hoàn toàn, hướng 
+dẫn người khác 
+Mỗi mức độ năng lực được xem xét đồng thời một số yếu tố: 
+- Mức độ làm quen của HS với tình huống được đề xuất (đơn giản, quen thuộc, 
+mới); 
+- Sự phức tạp của việc thực hiện với các công cụ kỹ thuật số (đơn giản, phức tạp); 
+- Mức độ tự chủ (với sự giúp đỡ từ người khác, tự làm  một mình, chia sẻ với 
+người khác); 
+- Sự phức tạp của quá trình thực thi (ứng dụng, phát triển) và các mục tiêu cần 
+đạt được; 
+- Kiến thức cần thiết để thực hiện chúng. 
+1.2.5. Các hình thức tổ chức phát triển năng lực số cho học sinh 
+Để NLS được phát triển một cách toàn diện và bền vững cho học sinh, các nhà 
+trường cần triển khai một cách đồng bộ và linh hoạt thông qua ba hình thức tổ chức 
+chính. Mỗi hình thức có một vai trò và vị trí riêng, nhưng chúng không tách rời mà bổ 
+sung, hỗ trợ lẫn nhau, tạo thành một hệ sinh thái giáo dục số hoàn chỉnh. 
+a)  Dạy học môn Tin học Chương trình GDPT 2018 
+Môn Tin học giữ vai trò chủ đạo, cung cấp kiến thức về ICT và hệ thống các kỹ 
+năng số cốt lõi cho học sinh. Việc triển khai giảng dạy môn Tin học theo Chương trình 
+GDPT 2018 là phương thức quan trọng để phát triển NLS cho học sinh, là hình thức chủ 
+yếu và nền tảng trong số các hình thức phát triển NLS hiện nay.  
+Giáo viên Tin học có vai trò tư vấn, hỗ trợ giáo viên các môn học khác trong việc 
+khai thác, ứng dụng các công cụ số và tích hợp các nội dung phát triển NLS vào quá 
+trình dạy học. 
+b) Dạy học tích hợp NLS trong các môn học, hoạt động giáo dục 
+Các môn học và hoạt động giáo dục khác trong Chương trình GDPT và GDTX tạo 
+môi trường để học sinh vận dụng kỹ năng số vào thực tiễn, qua đó củng cố và phát triển 
+năng lực một cách toàn diện. Việc tích hợp nội dung Khung NLS vào quá trình dạy học 
+các môn học là một giải pháp khả thi và hiệu quả để thực hiện phát triển NLS cho HS. 
+Giáo viên nghiên cứu Chương trình môn học/hoạt động giáo dục, đối chiếu nội 
+dung môn học với Khung NLS để xây dựng kế hoạch dạy học phù hợp, xác định rõ các 
+--- Page 13 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+9 
+nội dung, hình thức và “địa chỉ” tích hợp NLS trong từng bài học, thiết kế kế hoạch bài 
+dạy sao cho vừa đáp ứng mục tiêu và yêu cầu cần đạt của bài học, vừa tích hợp hiệu quả 
+nội dung của Khung NLS nhằm phát triển một hoặc nhiều năng lực thành phần trong 
+các miền năng lực của Khung NLS.  
+Việc phát triển NLS thông qua dạy học tích hợp cần được chú trọng ở cả hai hình 
+thức: tích hợp nội môn và tích hợp liên môn, khuyến khích tích hợp phát triển NLS 
+thông qua các hoạt động giáo dục STEM, nghiên cứu khoa học, các dự án học tập liên 
+quan đến Trí tuệ nhân tạo (AI). 
+c) Dạy học tăng cường, câu lạc bộ để phát triển NLS 
+Căn cứ Khung NLS và điều kiện thực tiễn, các cơ sở giáo dục xây dựng kế hoạch 
+tăng cường thực hiện Khung NLS với nội dung và thời lượng phù hợp để hình thành 
+sớm các kỹ năng cần thiết cho công dân số từ lớp 1 và củng cố, khắc sâu thêm các NLS 
+cần thiết cho học sinh.  
+Tăng cường tổ chức các hoạt động dưới hình thức Câu lạc bộ nhằm đáp ứng nhu 
+cầu, nguyện vọng, của các học sinh có năng khiếu, sở trường, sở thích. Nội dung giáo 
+dục NLS của các câu lạc bộ thường được xây dựng theo các chủ đề,  mô-đun, mạch nội 
+dung kiến thức thuộc/đáp ứng một hay một số miền năng lực thuộc Khung NLS. 
+1.2.6. Các yêu cầu khi triển khai NLS vào kế hoạch giáo dục nhà trường 
+a) Tránh lồng ghép hình thức 
+- Việc tích hợp phải gắn với mục tiêu/ yêu cầu cần đạt, nội dun g, phương pháp, 
+hình thức dạy học cụ thể của từng môn/HĐGD, tránh đưa vào những lồng ghép không 
+tương thích hoặc chung chung mang tính hình thức. 
+b) Phân biệt vai trò của môn Tin học và các môn học/HĐGD khác  
+- Môn Tin học cung cấp kiến thức, kĩ năng nền t ảng về CNTT và khoa học máy 
+tính và thiết bị kĩ thuật số; các môn khác cần khai thác, vận dụng công cụ số để đổi mới 
+dạy học, phát triển năng lực số cho học sinh theo đặc thù nội dung. 
+c) Đảm bảo độ phủ và linh hoạt trọng số các chỉ báo năng lực số 
+- Sau khi dự thảo kế hoạch tích hợp năng lực số (Bước 2, mục 2.4) đối với tất cả 
+các môn học/hoạt động giáo dục và các hoạt động giáo dục khác, nhà trường cần thống 
+kê số lượng từng chỉ báo năng lực số đã được tích hợp để rà soát (đảm bảo mọi chỉ báo 
+theo Công văn 3456 đều đã được tích hợp). 
+- Ngoài ra, căn cứ số lượng thống kê chỉ báo ở trên, nhà trường có thể linh hoạt 
+điều chỉnh trọng số các chỉ báo dựa trên điều kiện thực tế của nhà trường theo nguyên 
+tắc đảm bảo tính khả thi, tính thiết yếu, thế mạnh của trường và sự cân bằng. 
+d) Việc thực hiện Khung năng lực số đảm bảo phù hợp với điều kiện tổ chức 
+dạy học; không được gây quá tải cho Chương trình. 
+- Tính phù hợp và thực tiễn: Việc tổ chức thực hiện Khung NLS phải đáp ứng 
+các chuẩn mực quốc tế nhưng vẫn phù hợ p với điều kiện thực tế của Việt Nam. Quá 
+trình triển khai cần được thực hiện từng bước, có lộ trình đồng bộ, đảm bảo tính khả thi. 
+--- Page 14 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+10 
+- Không gây quá tải: Việc triển khai không làm thay đổi hay gây quá tải cho 
+Chương trình Giáo dục phổ thông (GDPT) 2018 và Chương trình GDTX. Cần đối chiếu 
+với yêu cầu cần đạt của từng môn học và hoạt động giáo dục để lồng ghép các nội dung 
+nâng cao NLS cho từng đối tượng một cách hợp lý. Nội dung và hoạt động phát triển 
+NLS phải được thiết kế phù hợp với tâm lý lứa tuổi, nhu cầu và khả năng tiếp cận công 
+nghệ của học sinh ở từng cấp học. 
+- Tối ưu hóa nguồn lực: Cần phát huy tối đa nguồn lực và cơ sở vật chất sẵn có, 
+tránh đầu tư dàn trải, không hiệu quả. 
+- Đảm bảo công bằng: Có giải pháp phù hợp để mọi học sinh, nhất là các em ở 
+vùng có còn khó khăn, đều có cơ hội tiếp cận với giáo dục kỹ năng công dân số. 
+ 
+  
+--- Page 15 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+11 
+Phần II. HƯỚNG DẪN THỰC HIỆN KHUNG NLS CHO HỌC SINH 
+Phần này sẽ cung cấp một lộ trình chi tiết, đi từ định hướng tổng thể của nhà 
+trường, đến kế hoạch của tổ chuyên môn và cuối cùng là hoạt động dạy học cụ thể của 
+mỗi giáo viên. Quá trình này đảm bảo việc phát triển NLS được triển khai một cách bài 
+bản, đồng bộ và có hệ thống.  
+2.1. Công tác chuẩn bị tại các cơ sở giáo dục 
+ a) Nâng cao nhận thức  
+Yếu tố khởi đầu và quan trọng nhất chính là tạo ra một sự chuyển biến sâu sắc về 
+nhận thức trong toàn bộ cộng đồng nhà trường. Việc phát triển NLS cần được hiểu đúng 
+không phải là nhiệm vụ riêng của môn Tin học, mà là một mục tiêu giáo dục cốt lõi, một 
+trách nhiệm chung của tất cả các môn học/hoạt động giáo dục. 
+Đối với đội ngũ cán bộ quản lý và giáo viên, nhận thức này cần được hình thành 
+thông qua các buổi sinh hoạt chuyên đề, hội thảo chuyên sâu để nắm vững tinh thần của 
+Thông tư 02. Với học sinh, ý thức về vai trò và trách nhiệm của một công dân số cần 
+được vun đắp qua các hoạt động giáo dục đa dạng như sinh hoạt dưới cờ hay các dự án 
+học tập. Đồng thời, việc truyền thông hiệu quả đến phụ huynh sẽ giúp tạo ra một cầu nối 
+vững chắc, huy động sự đồng hành và hỗ trợ của gia đình trong việc định hướng con em 
+sử dụng công nghệ một cách an toàn và hữu ích. 
+b) Bồi dưỡng chuyên môn cho đội ngũ giáo viên 
+Con người luôn là yếu tố quyết định. Một đội ngũ giáo viên được bồi dưỡng tốt 
+sẽ là động lực chính cho sự thay đổi. Trọng tâm của công tác bồi dưỡng không chỉ nằm 
+ở việc trang bị kỹ năng thao tác trên các công cụ, phần mềm, mà cốt lõi là phải nâng cao 
+năng lực sư phạm số. Đó là khả năng của giáo viên trong việc lựa chọn và tích hợp công 
+nghệ một cách sáng tạo, biến nó thành phương tiện để tổ chức các hoạt động học tập 
+tích cực, kiến tạo kiến thức, thay vì chỉ là công cụ trình chiếu thông tin một chiều. Để 
+làm được điều này, các nhà trường cần tổ chức các khóa tập huấn chuyên môn định kỳ, 
+đồng thời thúc đẩy mạnh mẽ các cộng đồng học tập chuyên môn, nơi giáo viên có thể 
+thường xuyên chia sẻ kinh nghiệm, dự giờ, học hỏi lẫn nhau và cùng nhau tháo gỡ những 
+khó khăn trong thực tiễn giảng dạy. 
+c) Đảm bảo nguồn lực và cơ sở vật chất 
+Trước hết, nhà trường cần thực hiện rà soát, đánh giá để tối ưu hóa hiệu quả sử 
+dụng các thiết bị hiện có, từ phòng máy tính, máy chiếu đến hệ thống mạng Internet. 
+Dựa trên thực trạng đó, một lộ trình đầu tư nâng cấp cần được xây dựng một cách hợp 
+lý, có trọng tâm và phù hợp với khả năng tài chính.  
+Trong bối cảnh hiện nay, việc ưu tiên khai thác các nền tảng, phần mềm và học 
+liệu số miễn phí dành cho giáo dục là một giải pháp hiệu quả, giúp giảm bớt gánh n ặng 
+--- Page 16 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+12 
+chi phí. Bên cạnh nguồn lực từ ngân sách, việc huy động các nguồn lực xã hội hóa theo 
+đúng quy định của pháp luật cũng là một kênh quan trọng để tăng cường và hiện đại hóa 
+cơ sở vật chất, tạo điều kiện tốt nhất cho việc dạy và học trong kỷ nguyên số. 
+2.2. Quy trình triển khai Khung năng lực số 
+Bước 1. Khảo sát đánh giá hiện trạng 
+- Mục tiêu: Xác định mức độ sẵn sàng về hạ tầng công nghệ, năng lực giáo viên, học 
+sinh và các điều kiện hỗ trợ khác.  
+-  Hoạt động:  
+ Khảo sát cơ sở vật chất, trang thiết bị công nghệ thông tin (máy tính, internet, 
+phần mềm, v.v.) tại trường học. 
+ Đánh giá năng lực số hiện tại của giáo viên, cán bộ quản lý và học sinh thông qua 
+các công cụ đánh giá hoặc khảo sát. 
+ Xác định các khó khăn, thách thức như sự chênh lệch về hạ tầng gi ữa các vùng 
+miền, trình độ sử dụng công nghệ của giáo viên và học sinh. 
+-  Kết quả: Báo cáo thực trạng làm cơ sở để xây dựng kế hoạch triển khai phù hợp 
+với điều kiện thực tế của từng địa phương và nhà trường. 
+Bước 2. Xây dựng kế hoạch triển khai 
+- Mục tiêu: Xây dựng lộ trình đồng bộ, khả thi, không gây quá tải cho chương trình 
+học và phù hợp với điều kiện thực tế. 
+- Hoạt động:  
+ Dựa trên Thông tư 02/2025/TT-BGDĐT, xác định các yêu cầu cụ thể về năng lực 
+số (6 miền năng lực, 24 năng lực thành phần, 5 trình đ ộ) cho từng cấp học (tiểu 
+học, THCS, THPT). 
+ Lập kế hoạch chi tiết, bao gồm các mục tiêu, nội dung, hình thức triển khai, thời 
+gian và nguồn lực cần thiết. 
+ Phối hợp với các cơ quan quản lý giáo dục, tổ chức, doanh nghiệp để huy động 
+nguồn lực xã hội hóa. 
+ Đảm bảo kế hoạch phù hợp với Chương trình Giáo dục Phổ thông 2018, không 
+làm xáo trộn các môn học hiện hành. 
+- Kết quả: Kế hoạch triển khai  
+Bước 3. Tích hợp khung năng lực số vào chương trình giáo dục 
+- Mục tiêu: Đưa nội dung năng lực số vào chương trình họ c một cách tự nhiên và 
+hiệu quả không gây quá tải cho học sinh. 
+- Hoạt động:  
+ Dạy học môn Tin học: Môn Tin học đóng vai trò chủ đạo, cung cấp kiến thức nền 
+tảng và kỹ năng số cốt lõi. Giáo viên Tin học hỗ trợ tích hợp nội dung số vào các 
+môn khác. 
+--- Page 17 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+13 
+ Tích hợp  các môn học/hoạt động giáo dục: Rà soát chương trình các môn 
+học/hoạt động giáo dục để lồng ghép nội dung năng lực số. 
+ Tăng cường hoạt động ngoại khóa: Tổ chức các câu lạc bộ, hoạt động giáo dục 
+STEM, nghiên cứu khoa học, hoặc dự án học tập liên quan đến trí tuệ nhân tạo 
+(AI), dữ liệu, an toàn số. 
+ Xây dựng tài liệu học tập, học liệu số phù hợp với từng cấp học, đảm bảo tính 
+tương tác và phù hợp với tâm lý lứa tuổi 
+Bước 4. Tập huấn và bồi dưỡng giáo viên 
+- Mục tiêu: Nâng cao năng lực số cho giáo viên, đảm bảo họ có khả năng giảng dạy 
+và tích hợp nội dung số vào bài học. 
+- Hoạt động:  
+ Tổ chức các khóa tập huấn cho giáo viên cốt cán về khung năng lực số, kỹ năng 
+sử dụng công nghệ, và phương pháp giảng dạy tích hợp. 
+ Phát triển năng lực số nền tảng và chuyên biệ t cho giáo viên, bao gồm khả năng 
+ứng dụng công cụ công nghệ trong dạy học. 
+ Hợp tác với các tổ chức để cung cấp tài liệu và hỗ trợ kỹ thuật. 
+ Khuyến khích giáo viên tham gia các nền tảng học tập số (như nền tảng hỗ trợ 40 
+triệu lượt người học) để tự nâng cao năng lực. 
+Bước 5. Đánh giá và phản hồi 
+Hàng năm các cơ sở giáo dục cần đánh giá kế hoạch phát triển năng lực, xem xét 
+điều chỉnh các mức độ năng lực, để đảm bảo đạt được mục tiêu đề ra của từng cấp học.  
+Việc đánh giá năng lực số của học sinh cần được thực hiện một cách đa dạng đảm 
+bảo năng lực số của học sinh được đánh giá một cách thực chất. 
+2.3. Triển khai khung năng lực số vào kế hoạch giáo dục nhà trường 
+Bước 1. Đánh giá thực trạng, đặt mục tiêu và điều chỉnh  
+- Tổ chức nghiên cứu Công văn số 3456/BGDĐT-GDPT (tham khảo đồng thời 
+Thông tư 02/2025/TT-BGDĐT) và các văn bản liên quan; 
+- Thực hiện rà soát, đánh giá sơ bộ (ở chu kì đầu tiên hoặc đánh giá tác động ở 
+các chu kì tiếp theo) để xác định mục tiêu cụ thể cho trường;  
+- Lựa chọn mức độ năng lực thành phần trong Khung năng lực số đảm bảo phù 
+hợp với đối tượng học sinh và bối cảnh/điều kiện thực tế dạy học của nhà trường và địa 
+phương. 
+Bước 2. Triển khai năng lực số vào Kế hoạch giáo dục của nhà trường  
+Căn cứ vào Bước 1, cơ sở giáo dục thực hiện tích hợp năng lực số vào Kế hoạch 
+giáo dục của nhà trường, thể hiện rõ trong kế hoạch tổ chức dạy học các môn học/hoạt 
+động giáo dục ở cả trong và ngoài nhà trường. Cụ thể như sau: 
+--- Page 18 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+14 
+(1) Kế hoạch giáo dục của nhà trường: Tổ chức rà soát các miền năng lực, năng lực 
+thành phần để lựa chọn mức độ phù hợp với sự phát triển của học sinh trong từng khối 
+lớp, cấp học; định hướng nhiệm vụ của từng môn học/HĐGD trong việc đóng góp vào 
+việc phát triển năng lực số nhằm đảm bảo phát huy lợi thế của mỗi môn học/HĐGD 
+nhưng vẫn sự thống nhất và cân bằng giữa các miền năng lực và năng lực thành phần 
+theo Thông tư 02. 
+(2) Kế hoạch dạy học môn học /HĐGD và tổ chức các hoạt động giáo dục khác: 
+Tham chiếu cụ thể (ghi chú đánh mã số chỉ báo năng lực số và mức độ theo Phụ lục 1) 
+vào kế hoạch dạy học các môn học/HĐGD (Phụ lục 2, CV 2345).  
+Bước 3. Tích hợp năng lực số vào kế hoạch bài dạy và kế hoạch tổ chức các hoạt 
+động giáo dục. 
+Căn cứ vào Bước 2, giáo viên cụ thể hóa việc phát triển NLS cho học sinh thông 
+qua kế hoạch bài dạy/kế hoạch tổ chức các hoạt động giáo dục khác . Đối với mỗi bài 
+học trong (3) mà giáo viên lựa chọn tích hợp năng lực số, cần thể hiện rõ vào mục tiêu 
+bài học và tiến trình dạy học, tổ chức thực hiện các hoạt động học (Phụ lục 3, CV 2345). 
+Bước 4. Tổ chức dạy học tăng cường, những tiêu chí chưa được triển khai giảng 
+dạy trong chương trình GDPT cần được tổ chức dạy học tăng cường để đảm bảo tất cả 
+các tiêu chí về NLS được thực hiện.  
+--- Page 19 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+15 
+Phần III. MINH HỌA TÍCH HỢP NĂNG LỰC SỐ VÀO KẾ HOẠCH  
+GIÁO DỤC NHÀ TRƯỜNG 
+Với mục tiêu giúp các cơ sở giáo dục phổ thông hình dung rõ hơn cách thức triển 
+khai Khung năng lực số theo chu trình đã nêu, phần dưới đây sẽ minh họa một số nội 
+dung cụ thể. Các ví dụ được lựa chọn nhằm làm rõ cách chuyển hóa yêu cầu của văn 
+bản chỉ đạo và kế hoạch chiến lược thành những hoạt động thực tiễn trong nhà trường: 
+từ việc tích hợp năng lực số vào kế hoạch giáo dục, kế hoạch dạy học của tổ/nhóm 
+chuyên môn, cho tới kế hoạch bài dạy và tổ chức hoạt động giáo dục của từng giáo viên. 
+Những minh họa này không phải là khuôn mẫu cứng nhắc, mà gợi ý cách thực hiện linh 
+hoạt, phù hợp với điều kiện thực tiễn và đặc thù của mỗi trường, qua đó giúp nhà trường 
+triển khai đồng bộ, tránh rời rạc và đạt hiệu quả thiết thực trong việc phát triển năng lực 
+số cho học sinh. 
+Cụ thể hơn, trong chương trình giáo dục phổ thông, môn Tin học giữ vai trò chủ 
+đạo trong việc hình thành năng lực số cho học sinh. Trước hết, môn học này trang bị 
+kiến thức và kĩ năng cơ bản giúp học sinh sử dụng và khai thác công cụ số một cách 
+thành thạo, từ thao tác tìm kiếm, xử lý văn bản, trình chiếu, đến ứng dụng phần mềm 
+học tập. Đồng thời, các nội dung về lập trình và Internet an toàn trong môn Tin học giúp 
+định hướng cho học sinh rèn luyện khả năng giải quyết vấn đề, tư duy logic và bảo đảm 
+an toàn, đạo đức số. Trên cơ sở đó, các môn học khác có trách nhiệm yêu cầu HS sử 
+dụng, khai thác, tạo cơ hội để vận dụng trong các tình huống học tập. Ví dụ, trong môn 
+Lịch sử - Địa lý, học sinh sử dụng công cụ tìm kiếm để tìm kiếm thông tin về các địa 
+danh, đặc sản vùng miền; trong môn Tiếng Việt, học sinh ứng dụng công cụ thiết kế đa 
+phương tiện để giao tiếp, thuyết trình và hợ p tác trực tuyến; trong môn Khoa học, học 
+sinh sử dụng phần mềm mô phỏng để khám phá và sáng tạo trong môi trường số. Như 
+vậy, môn Tin học vừa trực tiếp phát triển các thành phần năng lực số cốt lõi, vừa đóng 
+vai trò định hướng, kết nối và hỗ trợ các môn học khác trong việc tổ chức hoạt động học 
+tập, bảo đảm năng lực số của học sinh được hình thành và phát triển một cách toàn diện. 
+3.1. Minh họa kế hoạch dạy học phát triển/tích hợp năng lực số 
+Để việc tích hợp và phát triển năng lực số cho học sinh không chỉ dừng lại ở định 
+hướng chung mà còn đi vào thực chất trong từng môn học và hoạt động giáo dục, cần 
+có sự cụ thể hóa ngay trong kế hoạch dạy học và kế hoạch tổ chức hoạt động giáo dục 
+của nhà trường. Theo tinh thần Thông tư 02/2025/TT -BGDĐT, Công văn 
+3456/BGDĐT-GDPT và hướng dẫn tại Công văn 2345/BGDĐT-GDTH, mỗi môn học 
+và hoạt động giáo dục đều phải tham chiếu trực tiếp đến các thành phần năng lực số (ghi 
+chú đánh số năng lực thành phần và mức độ) để đảm bảo tính khả thi, đồng bộ và có cơ 
+sở đánh giá. Phần dưới đây minh họa hai kế hoạch dạy học: (1) kế hoạch cho môn Tin 
+học, nhằm giúp giáo viên Tin học thấy rõ cách cụ thể hóa các thành phần năng lực số 
+vào kế hoạch dạy học của môn Tin học; và (2) kế hoạch cho một môn học khác, nhằm 
+--- Page 20 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+16 
+gợi ý cho giáo viên Tin h ọc cách hướng dẫn, đồng hành cùng đồng nghiệp trong việc 
+tích hợp năng lực số vào dạy học bộ môn. Những ví dụ này vừa có tính tham khảo, vừa 
+có thể được điều chỉnh linh hoạt tùy theo đặc thù của từng nhà trường, tổ/nhóm chuyên 
+môn và điều kiện thực tiễn. 
+3.1.1. Kế hoạch dạy học môn Tin học 3 
+Trong bảng phân phối chương trình, cột Nội dung điều chỉnh, bổ sung (nếu có) 
+sẽ ghi mã số chỉ báo năng lực số phát triển , tham chiếu trong bảng Khung năng 
+lực số và được kí hiệu theo cấu trúc như sau: 1.3.CB1a 
+Trong đó 
+ 1.3: Là năng lực Quản lý dữ liệu, thông tin và nội dung số 
+ CB1- Mức độ năng lực là Cơ bản 1- là mức độ cho học sinh khối lớp 1-2-3 
+ a: Chỉ báo "Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông 
+tin và nội dung một cách đơn giản trong môi trường số". 
+Sau đây là minh hoạ bảng phân phối chương trình môn Tin học lớp 3 
+--- Page 21 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 17 
+Tuần 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, 
+bổ sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị 
+dạy học và học liệu tham 
+khảo; xây dựng chủ đề học 
+tập, bổ sung tích hợp liên 
+môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú 
+Chủ đề/ 
+Mạch nội dung Tên bài học 
+Tiết 
+học/ 
+thời 
+lượng 
+  
+1 
+Chủ đề 1: Máy tính 
+và em 
+Bài 1. Thông tin và quyết định 2 1.3.CB1a  2 
+3 Bài 2. Xử lí thông tin 2 1.3.CB1a  
+4     
+5 Bài 3. Máy tính và em 2 4.1.CB1a  
+6 
+7 
+Bài 4: Làm việc với máy tính 3 4.3.CB1a 
+4.3.CB1b 
+ 
+8 
+9 
+10 
+Bài 5: Sử dụng bàn phím 3 4.3.CB1a 
+4.3.CB1b 
+ 
+11 
+12 
+--- Page 22 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+18 
+Tuần 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, 
+bổ sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị 
+dạy học và học liệu tham 
+khảo; xây dựng chủ đề học 
+tập, bổ sung tích hợp liên 
+môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú 
+Chủ đề/ 
+Mạch nội dung Tên bài học 
+Tiết 
+học/ 
+thời 
+lượng 
+  
+13 Chủ đề 2: Mạng máy 
+tính và Internet 
+Bài 6: Khám phá thông tin trên 
+internet 1 1.3.CB1a  
+14 Chủ đề 3: Tổ chức 
+lưu trữ, tìm kiếm và 
+trao đổi thông tin 
+Bài 7. Sắp xếp để dễ tìm kiếm 2 1.3.CB1a 
+1.3.CB1b 
+ 
+15 
+16  Ôn tập  1   
+17  Kiểm tra cuối học kì I 1   
+18 Chủ đề 3: Tổ chức lưu 
+trữ, tìm kiếm và trao 
+đổi thông tin 
+Bài 8. Sơ đồ hình cây. Tổ chức 
+thông tin trong máy tính 2 1.3.CB1a 
+1.3.CB1b 
+ 
+19 
+20 Chủ đề 3: Tổ chức 
+lưu trữ, tìm kiếm và 
+Bài 9: Thực hành với tệp và thư 
+mục trong máy tính 2 1.3.CB1a 
+1.3.CB1b 
+ 
+21 
+--- Page 23 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 19 
+Tuần 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, 
+bổ sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị 
+dạy học và học liệu tham 
+khảo; xây dựng chủ đề học 
+tập, bổ sung tích hợp liên 
+môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú 
+Chủ đề/ 
+Mạch nội dung Tên bài học 
+Tiết 
+học/ 
+thời 
+lượng 
+  
+trao đổi thông tin 
+22 Chủ đề 4: Đạo đức, 
+pháp luật và văn hóa 
+trong môi trường số 
+Bài 10. Bảo vệ thông tin khi 
+dùng máy tính 2 4.2.CB1a 
+4.2.CB1b 
+ 
+23 
+24 
+Chủ đề 5: Ứng dụng 
+Tin học 
+Bài 11. Bài trình chiếu của em 2 3.1.CB1a 
+3.1.CB1b 
+ 
+25 
+26 Bài 13. Luyện tập và sử dụng 
+chuột 2 4.1.CB1a  
+27 
+28 Chủ đề 6: Giải quyết 
+vấn đề với sự trợ giúp 
+của máy tính 
+Bài 14. Em thực hiện công việc 
+như thế nào? 2 3.4.CB1a  
+29 
+30 Bài 15. Công việc được thực 
+hiện theo điều kiện 2 3.4.CB1a  
+31 
+--- Page 24 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+20 
+Tuần 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, 
+bổ sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị 
+dạy học và học liệu tham 
+khảo; xây dựng chủ đề học 
+tập, bổ sung tích hợp liên 
+môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú 
+Chủ đề/ 
+Mạch nội dung Tên bài học 
+Tiết 
+học/ 
+thời 
+lượng 
+  
+32 Bài 16. Công việc của em và sự 
+trợ giúp của máy tính 2 3.4.CB1a  
+33 
+34  Ôn tập 1   
+35  Kiểm tra học kì II 1   
+--- Page 25 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 21 
+3.1.2. Kế hoạch dạy học môn Tin học 4 
+Trong bảng phân phối chương trình, cột Nội dung điều chỉnh, bổ sung (nếu có) sẽ ghi mã số chỉ báo năng lực số phát 
+triển, tham chiếu trong bảng Khung năng lực số và được kí hiệu theo cấu trúc như sau: 4.1.CB2a 
+Trong đó 
+ 4.1: Là năng lực Bảo vệ thiết bị 
+ CB2- Mức độ năng lực là Cơ bản 2- là mức độ cho học sinh khối lớp 4-5 
+ a: Chỉ báo "Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản". 
+Sau đây là minh hoạ bảng phân phối chương trình môn Tin học lớp 4 
+Tuần 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội dung, 
+thời lượng, thiết bị dạy học và 
+học liệu tham khảo; xây dựng 
+chủ đề học tập, bổ sung tích hợp 
+liên môn; thời gian và hình thức 
+tổ chức…) 
+Ghi 
+chú 
+Chủ đề/ 
+Mạch nội dung Tên bài học 
+Tiết học/ 
+thời 
+lượng 
+  
+1 
+Chủ đề 1: Máy tính và 
+em 
+Bài 1. Phần cứng và phần 
+mềm máy tính 2 
+4.1.CB2a 
+5.1.CB2a 
+ 
+2 
+3 Bài 2. Gõ bàn phím đúng 
+cách 2 4.1.CB2a 
+4.3.CB2a 
+ 
+4 
+--- Page 26 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+22 5.1.CB2a 
+5 Chủ đề 2: Mạng máy 
+tính và Internet 
+Bài 3. Thông tin trên 
+trang Web 2 4.3.CB2b  
+6 
+7 
+Chủ đề 3:  
+Tổ chức lưu trữ, tìm 
+kiếm và trao đổi thông 
+tin 
+Bài 4. Tìm kiếm thông 
+tin trên Internet 2 
+1.1.CB2a 
+1.1.CB2b 
+1.1.CB2c 
+ 
+8 
+9 
+Bài 5. Thao tác với tệp và 
+thư mục 2 
+1.3.CB2a 
+1.3.CB2b 
+4.1.CB2b 
+5.1.CB2a 
+ 
+10 
+11 Chủ đề 4: Đạo đức, 
+pháp luật và văn hoá 
+trong môi trường số 
+Bài 6. Sử dụng phần 
+mềm khi được phép 1 3.3.CB2a 
+ 
+12 
+Chủ đề 5: Ứng dụng tin 
+học 
+Bài 7. Tạo bài trình chiếu 2 3.1.CB2a 
+3.1.CB2b 
+ 
+13 
+14 Bài 8. Định dạng văn bản 
+trên trang chiếu 2 3.1.CB2a 
+3.1.CB2b 
+ 
+15 
+16  Ôn tập 1   
+17  Kiểm tra cuối học kì 1 1   
+18 
+Chủ đề 5: Ứng dụng tin 
+học 
+Bài 9. Hiệu ứng chuyển 
+trang 2 3.1.CB2a 
+3.1.CB2b 
+ 
+19 
+20 Bài 10. Phần mềm soạn 
+thảo văn bản 2 3.1.CB2a 
+3.1.CB2b 
+ 
+21 
+--- Page 27 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 23 
+22 Bài 11. Chỉnh sửa văn 
+bản 2 3.1.CB2a 
+3.1.CB2b 
+ 
+23 
+24 Bài 12B. Phần mềm 
+luyện tập gõ bàn phím 2 
+4.1.CB2a 
+4.3.CB2a 
+5.1.CB2a 
+ 
+25 
+26 
+Chủ đề 6: Giải quyết 
+vấn đề với sự trợ giúp 
+của máy tính 
+Bài 13. Chơi với máy 
+tính 2 3.4.CB2a  
+27 
+28 Bài 14. Khám phá môi 
+trường trực quan 2 3.4.CB2a  
+29 
+30 Bài 15. Sử dụng chương 
+trình để diễn tả ý tưởng 2 3.4.CB2a  
+31 
+32 Bài 16. Chương trình của 
+em 2 3.4.CB2a 
+3.1.CB2b 
+ 
+33 
+34  Ôn tập  1   
+35  Kiểm tra cuối học kì II 1   
+  
+--- Page 28 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+24 3.1.3. Kế hoạch dạy học môn Tin học 5 
+Trong bảng phân phối chương trình, cột Nội dung điều chỉnh, bổ sung (nếu có) sẽ ghi mã số chỉ báo năng lực số phát 
+triển, tham chiếu trong bảng Khung năng lực số và được kí hiệu theo cấu trúc như sau: 5.2.CB2b 
+Trong đó 
+ 5.2: Là năng lực Xác định nhu cầu và giải pháp công nghệ 
+ CB2- Mức độ năng lực là Cơ bản 2- là mức độ cho học sinh khối lớp 4-5 
+ b: Chỉ báo "Nhận ra được các công cụ số đơn giản và các giải pháp công nghệ có thể có để giải quyết những nhu cầu đó". 
+Sau đây là minh hoạ bảng phân phối chương trình môn Tin học lớp 5 
+Tuần 
+ 
+Chương trình và sách giáo khoa 
+ 
+Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội dung, 
+thời lượng, thiết bị dạy học và 
+học liệu tham khảo; xây dựng 
+chủ đề học tập, bổ sung tích hợp 
+liên môn; thời gian và hình thức 
+tổ chức…) 
+Ghi 
+chú 
+Chủ đề/ 
+Mạch nội dung Tên bài học 
+Tiết học/ 
+thời 
+lượng 
+  
+1 Chủ đề 1: Máy tính 
+và em 
+Bài 1: Em có th ể làm gì 
+với máy tính? 2 
+5.2.CB2a 
+5.2.CB2b  
+2 
+3 Chủ đề 2: Mạng 
+máy tính và Internet 
+Bài 2. Tìm kiếm thông tin 
+trên website 2 1.1.CB2a 
+1.1.CB2b  4 
+--- Page 29 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 25 
+1.1.CB2c 
+1.2.CB2a 
+2.1.CB2a 
+2.1.CB2b 
+2.2.CB2a 
+2.4.CB2a 
+5 
+Chủ đề 3: 
+Tổ chức lưu trữ, tìm 
+kiếm và trao đổi 
+thông tin 
+Bài 3. Tìm kiếm thông tin 
+trong giải quyết vấn đề 
+2 1.1.CB2a 
+1.1.CB2b 
+1.1.CB2c 
+1.2.CB2a 
+2.1.CB2a 
+2.1.CB2b 
+2.2.CB2a 
+2.4.CB2a 
+ 
+6 
+7 
+Bài 4. Cây thư mục 
+ 
+2 1.3.CB2a 
+1.3.CB2b 
+1.1.CB2a 
+1.1.CB2b 
+1.1.CB2c 
+ 
+ 
+8 
+9 Chủ đề 4: Đạo đức, 
+pháp luật và văn 
+hoá trong môi 
+Bài 5. B ản quy ền n ội 
+dung thông tin 
+ 
+2 3.3.CB2a 
+2.5.CB2a 
+ 
+10 
+--- Page 30 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+26 trường số 
+11 
+Chủ đề 5: Ứng dụng 
+tin học 
+Bài 6. Định dạng kí tự và 
+bố trí hình ảnh trong văn 
+bản 
+2 3.1.CB2a 
+3.1.CB2b 
+ 
+12  
+13 Bài 7. Th ực hành so ạn 
+thảo văn bản 
+2 3.1.CB2a 
+3.1.CB2b 
+ 
+14 
+15 Bài 8A. Làm quen v ới 
+phần mềm đồ hoạ 
+1 3.1.CB2a 
+3.1.CB2b 
+ 
+16  Ôn tập học kì I 1   
+17  Kiểm tra học kì I 1   
+18 Chủ đề 5: Ứng dụng 
+tin học 
+Bài 9A. Sử dụng phần 
+mềm đồ hoạ tạo sản 
+phẩm số 
+2 3.1.CB2a 
+3.1.CB2b 
+ 
+19 
+20 
+Chủ đề 6: Giải 
+quyết vấn đề với sự 
+trợ giúp của máy 
+tính 
+Bài 10. Cấu trúc tuần tự 2 3.4.CB2a  
+21 
+22 Bài 11. Cấu trúc lặp 
+ 2 3.4.CB2a  
+23 
+24 Bài 12. Thực hành sử 
+dụng lệnh lặp 2 3.4.CB2a  
+25 
+26 Bài 13. Cấu trúc rẽ nhánh 
+ 2 3.4.CB2a  
+27 
+28 2 3.4.CB2a  
+--- Page 31 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 27 
+29 Bài 14. Sử dụng biến 
+trong chương trình 
+30 Bài 15. Sử dụng biểu 
+thức trong chương trình 
+2 3.4.CB2a  
+31 
+32 Bài 16. Từ kịch bản đến 
+chương trình 
+2 3.4.CB2a  
+33 
+34  Ôn tập học kì II 1   
+35  Kiểm tra học kì II 1   
+ 
+  
+--- Page 32 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+28 3.1.4. Kế hoạch dạy học môn Đạo đức 
+Bảng minh họa phân phối chương trình môn Đạo đức 4 tích hợp năng lực số 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội dung, 
+thời lượng, thiết bị dạy học và 
+học liệu tham khảo; xây dựng 
+chủ đề học tập, bổ sung tích hợp 
+liên môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+1 
+Giáo dục 
+đạo đức 
+Bài 1. Người lao động quanh em (tiết 1) 1   
+2 Bài 1. Người lao động quanh em (tiết 2) 2   
+3 Bài 2. Em biết ơn người lao động (tiết 1) 3 
+1.1.CB2a 
+1.1.CB2b 
+1.2.CB2a 
+3.1.CB2a 
+ 
+4 Bài 2.  Em biết ơn người lao động (tiết 2) 4 
+1.1.CB2a 
+1.1.CB2b 
+1.2.CB2a 
+3.1.CB2a 
+ 
+5 Bài 3.  Em nhận biết sự cảm thông, giúp đỡ 
+người gặp khó khăn (tiết 1) 5   
+6 Bài 3.  Em nhận biết sự cảm thông, giúp đỡ 
+người gặp khó khăn (tiết 2) 6   
+7 Bài 4.  Em thể hiện sự cảm thông, giúp đỡ 7   
+--- Page 33 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 29 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội dung, 
+thời lượng, thiết bị dạy học và 
+học liệu tham khảo; xây dựng 
+chủ đề học tập, bổ sung tích hợp 
+liên môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+người gặp khó khăn (tiết 1) 
+8 Bài 4.  Em thể hiện sự cảm thông, giúp đỡ 
+người gặp khó khăn (tiết 2) 8   
+9 Bài 4.  Em thể hiện sự cảm thông, giúp đỡ 
+người gặp khó khăn (tiết 3) 9   
+10 Bài 5. Em yêu lao động (tiết 1) 10   
+11 Bài 5. Em yêu lao động (tiết 2) 11   
+12 Bài 6. Em tích cực tham gia lao động (tiết 1) 12   
+13 Bài 6. Em tích cực tham gia lao động (tiết 2) 13   
+14 Bài 7. Em tôn trọng tài sản của người khác 
+(tiết 1) 14 3.3.CB2a  
+15 Bài 7. Em tôn trọng tài sản của người khác 
+(tiết 2) 15 3.3.CB2a  
+16 Bài 7. Em tôn trọng tài sản của người khác 
+(tiết 3) 16 3.3.CB2a  
+17 Ôn tập 17   
+18 Kiểm tra cuối học kỳ I 18   
+19 Bài 8. Em bảo vệ của công (tiết 1) 19   
+--- Page 34 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+30 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội dung, 
+thời lượng, thiết bị dạy học và 
+học liệu tham khảo; xây dựng 
+chủ đề học tập, bổ sung tích hợp 
+liên môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+20 Bài 8. Em bảo vệ của công (tiết 2) 20   
+21 Bài 8. Em bảo vệ của công (tiết 3) 21   
+22 
+Giáo dục kĩ 
+năng sống 
+Bài 9. Em làm quen với bạn bè (tiết 1) 22   
+23 Bài 9. Em làm quen với bạn bè (tiết 2) 23   
+24 Bài 9. Em làm quen với bạn bè (tiết 3) 24   
+25 Bài 10. Em nuôi dưỡng quan hệ bạn bè (tiết 
+1) 25   
+26 Bài 10. Em nuôi dưỡng quan hệ bạn bè (tiết 
+2) 26   
+27 Bài 10. Em nuôi dưỡng quan hệ bạn bè (tiết 
+3) 27   
+28 Giáo dục 
+kinh tế 
+Bài 11. Em quý trọng đồng tiền (tiết 1) 28   
+29 Bài 11. Em quý trọng đồng tiền (tiết 2) 29   
+30 Bài 11. Em quý trọng đồng tiền (tiết 3) 30   
+31 Giáo dục 
+pháp luật 
+Bài 12. Em thực hiện quyền và bổn phận của 
+trẻ em (tiết 1) 31   
+32 Bài 12. Em thực hiện quyền và bổn phận của 
+trẻ em (tiết 2) 32 3.1.CB2a  
+--- Page 35 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 31 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội dung, 
+thời lượng, thiết bị dạy học và 
+học liệu tham khảo; xây dựng 
+chủ đề học tập, bổ sung tích hợp 
+liên môn; thời gian và hình thức 
+tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+33 Bài 12. Em thực hiện quyền và bổn phận của 
+trẻ em (tiết 3) 33 3.1.CB2a  
+34  Ôn tập 34   
+35  Kiểm tra cuối học kỳ II 35   
+ 
+  
+--- Page 36 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+32 3.1.5. Kế hoạch dạy học môn Công nghệ 
+Bảng minh họa phân phối chương trình môn Công nghệ 5 tích hợp năng lực số 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị dạy 
+học và học liệu tham khảo; xây 
+dựng chủ đề học tập, bổ sung 
+tích hợp liên môn; thời gian và 
+hình thức tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+1 
+Công 
+nghệ và 
+đời sống 
+Bài 1. Vai trò của công nghệ (tiết 1) 1   
+2 Bài 1. Vai trò của công nghệ (tiết 2) 2   
+3 Bài 2. Nhà sáng chế (tiết 1) 3   
+4 Bài 2. Nhà sáng chế (tiết 2) 4 1.1.CB2a 
+1.1.CB2b  
+5 Bài 2. Nhà sáng chế (tiết 3) 5   
+6 Bài 3. Tìm hiểu thiết kế (tiết 1) 6   
+7 Bài 3. Tìm hiểu thiết kế (tiết 2) 7   
+8 Bài 3. Tìm hiểu thiết kế (tiết 3) 8   
+9 Bài 4. Thiết kế sản phẩm (tiết 1) 9   
+10 Bài 4. Thiết kế sản phẩm (tiết 2) 10   
+11 Bài 4. Thiết kế sản phẩm (tiết 3) 11   
+12 Bài 4. Thiết kế sản phẩm (tiết 4) 12   
+13 Bài 5. Sử dụng điện thoại (tiết 1) 13   
+14 Bài 5. Sử dụng điện thoại (tiết 2) 14   
+--- Page 37 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 33 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị dạy 
+học và học liệu tham khảo; xây 
+dựng chủ đề học tập, bổ sung 
+tích hợp liên môn; thời gian và 
+hình thức tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+15 Bài 5. Sử dụng điện thoại (tiết 3) 15 
+4.2.CB2a 
+4.2.CB2a 
+4.2.CB2b 
+ 
+16 Bài 5. Sử dụng điện thoại (tiết 4) 16 
+4.2.CB2a 
+4.2.CB2a 
+4.2.CB2b 
+ 
+17 Ôn tập 17   
+18 Kiểm tra cuối học kỳ I 18   
+19 Bài 6. Sử dụng tủ lạnh (tiết 1) 19   
+20 Bài 6. Sử dụng tủ lạnh (tiết 2) 20   
+21 Bài 6. Sử dụng tủ lạnh (tiết 3) 21 4.3.CB2b 
+5.1.CB2a  
+22 
+Thủ công 
+– kĩ thuật 
+Bài 7. Lắp ráp mô hình xe điện chạy bằng 
+pin (tiết 1) 22   
+23 Bài 7. Lắp ráp mô hình xe điện chạy bằng 
+pin (tiết 2) 23   
+24 Bài 7. Lắp ráp mô hình xe điện chạy bằng 
+pin (tiết 3) 24   
+--- Page 38 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+34 
+Tuần, 
+tháng 
+Chương trình và sách giáo khoa 
+Nội dung điều chỉnh, bổ 
+sung (nếu có) 
+(Những điều chỉnh về nội 
+dung, thời lượng, thiết bị dạy 
+học và học liệu tham khảo; xây 
+dựng chủ đề học tập, bổ sung 
+tích hợp liên môn; thời gian và 
+hình thức tổ chức…) 
+Ghi chú Chủ đề/ 
+Mạch nội 
+dung 
+Tên bài học Tiết học/ 
+thời lượng 
+25 Bài 7. Lắp ráp mô hình xe điện chạy bằng 
+pin (tiết 4) 25   
+26 Bài 8. Mô hình máy phát điện gió (tiết 1) 26   
+27 Bài 8. Mô hình máy phát điện gió (tiết 2) 27   
+28 Bài 8. Mô hình máy phát điện gió (tiết 3) 28   
+29 Bài 8. Mô hình máy phát điện gió (tiết 4) 29   
+30 Bài 9. Mô hình điện mặt trời (tiết 1) 30   
+31 Bài 9. Mô hình điện mặt trời (tiết 2) 31   
+32 Bài 9. Mô hình điện mặt trời (tiết 3) 32   
+33 Bài 9. Mô hình điện mặt trời (tiết 4) 33   
+34  Ôn tập 34   
+35  Kiểm tra cuối học kỳ II 35   
+ 
+--- Page 39 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông , tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+ 
+35 
+3.2. Minh họa kế hoạch bài dạy phát triển/tích hợp phát triển năng lực số 
+3.2.1. Kế hoạch bài dạy minh hoạ môn Tin học phát triển năng lực số 
+BÀI 14. EM THỰC HIỆN CÔNG VIỆC NHƯ THẾ NÀO?  
+Môn: Tin học 3  
+Thời gian: 2 tiết 
+I. YÊU CẦU CẦN ĐẠT 
+1. Năng lực 
+Năng lực Tin học 
+- Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông: Nêu được 
+một số công việc hằng ngày có thể thực hiện theo từng bước, mỗi bước là một việc nhỏ, các 
+bước phải được sắp xếp theo thứ tự; Nhận biết được khi chia một việc lớn thành những 
+việc nhỏ hơn thì dễ hiểu và dễ thực hiện; Nêu được ví dụ về một việc có thể chia thành 
+những việc nhỏ hơn 
+Định hướng năng lực số 
+- 3.4.CB1a: Học sinh liệt kê được các hướng dẫn đơn giản để giải quyết một vấn 
+đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản. 
+Năng lực chung 
+- Giải quyết vấn đề và sáng tạo: Hình thành và rèn luyện kĩ năng giải quyết vấn 
+đề bằng cách chia nhỏ một việc thành từng bước để thực hiện. 
+2. Phẩm chất 
+- Chăm chỉ: Học sinh tham gia các hoạt động trong giờ học, vận dụng được 
+kiến thức đã học vào tình huống thực tế. 
+- Trách nhiệm: Có trách nhiệm khi tham gia các hoạt động nhóm; Có trách 
+nhiệm với bản thân, có ý thức sinh hoạt nề nếp. 
+II. ĐỒ DÙNG DẠY HỌC 
+Giáo viên 
+- Chuẩn bị sách giáo khoa Tin học. 
+- Bài giảng trình chiếu. 
+- Máy tính kết nối tivi (hoặc máy chiếu). 
+- Bảng kiểm để HS tự đánh giá 
+- Giấy A4 có in các bàn cờ để robot di chuyển 
+Học sinh 
+- Sách giáo khoa, vở ghi, bút, thước kẻ. 
+- Một vật dụng nhỏ để làm robot như tẩy, nắp bút, quân cờ… 
+  
+--- Page 40 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+36 
+I. CÁC HOẠT ĐỘNG DẠY HỌC CHỦ YẾU 
+HOẠT ĐỘNG 1 – KHỞI ĐỘNG (5 PHÚT) 
+1. Mục tiêu 
+- Học sinh hào hứng khi bắt đầu giờ học.  
+- Học sinh nêu được trình tự công việc thường làm trước khi đi học  
+- Hình thành tư duy thực hiện công việc theo trình tự các bước, là cơ sở của tư 
+duy thuật toán.  
+- 3.4.CB1a: Học sinh liệt kê được các hướng dẫn đơn giản để giải quyết một vấn 
+đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản. 
+2. Sản phẩm hoạt động của học sinh 
+- Câu trả lời: 1. Thức dậy; 2. Vệ sinh cá nhân; 3. Ăn sáng; 4. Thay quần áo; 5. Đi 
+giày dép. (Lưu ý: Mục 3 và 4 có thể đổi thứ tự cho nhau) 
+- Ý kiến chia sẻ của học sinh cho câu hỏi thứ 2 trong SGK. 
+3. Tổ chức hoạt động 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+- Giáo viên yêu cầu học sinh sắp 
+xếp thứ tự các công việc trong 
+hình 80 SGK và hoạt động cặp 
+đôi để kể cho nhau nghe về 
+những việc thường làm vào mỗi 
+buổi sáng trước khi đi học. 
+ 
+- Học sinh quan sát, lắng 
+nghe để hiểu rõ nhiệm 
+vụ. 
+- Học sinh thảo luận cặp 
+đôi về câu hỏi của giáo 
+viên. 
+- Giáo viên mời hai hoặc 
+ba học sinh chia sẻ câu 
+trả lời trước lớp.  
+- Giáo viên khích lệ 
+học sinh chia sẻ ý kiến 
+của mình, khen 
+thưởng học sinh có 
+câu trả lời tốt. 
+- Giáo viên tổng hợp ý 
+kiến, câu trả lời của 
+học sinh, đưa ra kiến 
+thức chốt và dẫn dắt 
+vào bài mới. 
+ 
+HOẠT ĐỘNG 2 – HÌNH THÀNH KIẾN THỨC MỚI (30 PHÚT) 
+HOẠT ĐỘNG 2.1. THỰC HIỆN CÔNG VIỆC THEO TỪNG BƯỚC (10 PHÚT) 
+1. Mục tiêu 
+- Học sinh nêu được một số công việc hằng ngày có thể thực hiện theo từng bước, 
+mỗi bước là một việc nhỏ, các bước phải được sắp xếp theo thứ tự 
+- 3.4.CB1a: Học sinh liệt kê được các hướng dẫn đơn giản để giải quyết một vấn 
+đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản. 
+2. Sản phẩm hoạt động của học sinh 
+--- Page 41 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+37 
+- Nội dung hộp kiến thức được ghi trong vở 
+- Câu trả lời cho câu hỏi củng cố 1 và 2 trong SGK: Câu 1. a) - Bước 3; b) - 
+Bước 4; c) – Bước 1; d) – Bước 2. Câu 2: a) Vẽ thân máy bay; b) Vẽ thêm 
+hai cánh; c) Vẽ đuôi máy bay; d) Tô màu. 
+3. Tổ chức hoạt động 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+- Giáo viên yêu cầu học sinh làm 
+việc cá nhân, đọc SGK và trả lời 
+hai câu hỏi củng cố 1 và 2. 
+- Giáo viên mời hai hoặc ba học 
+sinh chia sẻ câu trả lời trước lớp. 
+- Giáo viên mời các học sinh 
+khác nhận xét, phản biện câu trả 
+lời của bạn. 
+ 
+- HS đọc SGK, ghi vở 
+phần nội dung trong hộp 
+kiến thức và trả lời hai 
+câu hỏi củng cố 1 và 2. 
+ 
+Giáo viên nhấn mạnh 
+hai nội dung kiến thức 
+cần ghi nhớ: Công 
+việc thường được thực 
+hiện theo từng bước, 
+mỗi bước là một việc 
+nhỏ; Các bước phải 
+được sắp xếp theo một 
+thứ tự nhất định. 
+ 
+HOẠT ĐỘNG 2.2 – CHIA MỘT VIỆC THÀNH NHỮNG VIỆC NHỎ HƠN  
+(20 PHÚT) 
+1. Mục tiêu 
+- Học sinh nhận biết được khi chia một việc lớn thành những việc nhỏ hơn thì dễ 
+hiểu và dễ thực hiện  
+- 3.4.CB1a: Học sinh liệt kê được các hướng dẫn đơn giản để giải quyết một vấn 
+đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản. 
+2. Sản phẩm hoạt động của học sinh 
+- Câu trả lời của HS về các bước thực hiện việc đánh răng 
+- Câu trả lời của HS cho 2 câu h ỏi củng cố 1 và 2 trong SGK: Câu h ỏi 1. 
+Việc trực nhật có thể chia thành 1.1. Việc lau bảng, 1.2. Việc quét lớp; Lau bảng có thể 
+chia thành 1.1.1. Lấy giẻ, 1.1.2. Giặt giẻ sạch, 1.1.3. Lau hết bảng, 1.1.4. Giặt giẻ sạch, 
+1.1.5. Cất giẻ; Quét lớp có thể chia thành 1.2.1. L ấy chổi và hót rác, 1.2.2. Đ ể hót rác 
+ngoài cửa lớp, 1.2.3. Quét trong lớp, 1.2.4. Quét bục giảng, 1.2.5. Quét tất cả rác ra cửa 
+lớp, 1.2.6. Hót rác, 1.2.7. Cất chổi và đổ rác. 
+3. Tổ chức hoạt động 
+--- Page 42 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+38 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+- Giáo viên yêu cầu học sinh hoạt 
+động cặp đôi để nói về các bước 
+mình v ẫn th ực hi ện khi đánh 
+răng. Sau đó đọc và trả lời 2 câu 
+hỏi củng cố 1 và 2 trong SGK. 
+- Giáo viên mời hai hoặc ba cặp 
+học sinh chia sẻ câu trả lời trước 
+lớp.  
+- Giáo viên mời các học sinh 
+khác nhận xét, phản biện câu trả 
+lời của bạn. 
+- Giáo viên quan sát quá trình 
+thực hiện nhiệm vụ của học sinh 
+và hỗ trợ nếu cần.  
+- Từng cặp nhóm trao đổi 
+và thực hiện nhiệm vụ 
+theo yêu cầu.  
+ 
+Giáo viên khuyến 
+khích học sinh đưa ra 
+các phương án trả lời 
+khác nhau, khen 
+thưởng học sinh có 
+câu trả lời tốt, sau đó 
+tổng hợp và chốt kiến 
+thức cần ghi nhớ: Một 
+việc có thể chia thành 
+những việc nhỏ hơn; 
+Chia công việc thành 
+những việc nhỏ giúp 
+chúng ta dễ hiểu và dễ 
+thực hiện công việc. 
+ 
+HOẠT ĐỘNG 3 – LUYỆN TẬP (20 PHÚT) 
+1. Mục tiêu 
+- Học sinh HS luyện tập phân chia việc di chuyển của robot thành các bước nhỏ 
+theo tuần tự để biết có những công việc có thể chia thành những việc nhỏ hơn để dễ hiểu 
+và dễ thực hiện. 
+2. Sản phẩm hoạt động của học sinh 
+- Các bước di chuyển của robot được ghi lại vào vở sau khi chơi. Chẳng hạn: 
+2a. Cách 1: 1. Quay trái, 2. Tiến 1 bước, 3. Tiến 1 bước, 4. Quay trái, 5. Tiến 1 bước, 
+6. Tiến 1 bước. 2a. Cách 2: 1. Quay trái, 2. Quay trái, 3. Tiến 1 bước, 4. Tiến 1 bước, 
+5. Quay phải, 6. Tiến 1 bước, 7. Tiến 1 bước. 
+3. Tổ chức hoạt động 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+- GV nêu lu ật chơi c ủa trò chơi 
+đóng vai, m ột b ạn đóng vai 
+người chỉ dẫn, một bạn đóng vai 
+robot. B ạn đóng vai ngư ời ch ỉ 
+dẫn sẽ đọc các lệnh và bạn đóng 
+- Học sinh thực hiện trò 
+chơi đóng vai theo cặp 
+đôi 
+- Học sinh tự đánh giá 
+bằng bảng kiểm 
+ 
+- Giáo viên khuy ến 
+khích học sinh đưa ra 
+ý ki ến cá nhân, khen 
+thưởng h ọc sinh có 
+câu tr ả lời t ốt, t ổng 
+--- Page 43 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+39 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+vai robot s ẽ điều khiển robot đi 
+trên tờ giấy A4 đã vẽ sẵn.  
+- GV đưa thêm yêu c ầu cho các 
+cặp đôi t ự thay đ ổi v ị trí c ủa 
+robot để luyện tập. 
+- Giáo viên mời hai hoặc ba cặp 
+học sinh chia sẻ câu trả lời trước 
+lớp.  
+- Giáo viên m ời các h ọc sinh 
+khác nhận xét, phản biện câu trả 
+lời của bạn. 
+- Giáo viên quan sát quá trình 
+thực hiện nhiệm vụ của học sinh 
+và hỗ trợ nếu cần.  
+hợp ý ki ến c ủa h ọc 
+sinh và chốt kiến thức. 
+ 
+ 
+HOẠT ĐỘNG 4 – VẬN DỤNG (15 PHÚT) 
+1. Mục tiêu 
+- Học sinh vận dụng được kiến thức về chia công việc thành việc nhỏ hơn để chia 
+một số công việc thực tiễn thành các việc nhỏ hơn. 
+2. Sản phẩm hoạt động của học sinh 
+- Câu trả lời, ý kiến chia sẻ của học sinh cho các câu hỏi của giáo viên. 
+3. Tổ chức hoạt động 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+- Giáo viên yêu cầu học sinh làm 
+việc cá nhân để trả lời câu hỏi số 
+1 vào v ở và chia nhóm đ ể tổ 
+chức trò chơi theo ho ạt đ ộng 2 
+trong SGK. Mỗi câu trả lời đúng 
+sẽ được 10 đi ểm. Nhóm nào có 
+số điểm cao nh ất s ẽ là nhóm 
+chiến thắng. 
+- Giáo viên ghi lại các câu trả lời 
+của các nhóm để tạo thành sản 
+- Học sinh quan sát, lắng 
+nghe hướng dẫn thực 
+hiện yêu cầu.  
+- Học sinh trả lời câu hỏi 
+số 1 vào vở, sau đó thực 
+hiện trò chơi theo sự điều 
+khiển của giáo viên. 
+ 
+- Giáo viên tổng hợp 
+kết quả của các nhóm, 
+công bố nhóm chiến 
+thắng, khen thưởng và 
+tổng kết kiến thức của 
+bài học. 
+ 
+--- Page 44 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+40 
+GV tổ chức hoạt động Hoạt động của HS Kết quả/sản phẩm 
+học tập 
+phẩm chung cho cả lớp cùng 
+xem lại khi kết thúc trò chơi. 
+ 
+IV. ĐIỀU CHỈNH, BỔ SUNG 
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+PHÂN TÍCH PHÁT TRIỂN NLS CHO HỌC SINH 
+TT Tên hoạt động Tổ chức dạy học Năng lực số 
+1  Hoạt động khởi 
+động 
+HS sắp xếp thứ tự công việc 
+buổi sáng (thức dậy, vệ sinh 
+cá nhân, ăn sáng, thay quần 
+áo, đi học), thảo luận cặp 
+đôi và chia sẻ trước lớp. 
+3.4.CB1a: HS bắt đầu hình 
+thành khả năng liệt kê các 
+bước đơn giản trong một 
+công việc h ằng ngày theo 
+đúng thứ tự, qua đó tiếp cận 
+tư duy thuật toán. 
+2  
+Hoạt động hình 
+thành kiến thức 
+mới 2.1 – Thực 
+hiện công việc 
+theo từng bước 
+HS đọc SGK, trả lời câu hỏi 
+củng cố (xác định và sắp 
+xếp bước vẽ máy bay). GV 
+chốt kiến thức: công việc 
+được thực hiện theo các 
+bước nhỏ theo thứ tự. 
+3.4.CB1a: HS biết chia một 
+nhiệm vụ thành nhiều bước 
+nhỏ, sắp xếp các bước đúng 
+thứ tự và giải thích được lí do 
+sắp xếp. 
+3  
+Hoạt động hình 
+thành kiến thức 
+mới 2.2 – Chia 
+một việc thành 
+những việc nhỏ 
+hơn 
+HS thảo luận cặp đôi về việc 
+đánh răng và trực nhật, phân 
+tích thành các bước nhỏ. 
+GV chốt kiến thức: chia nhỏ 
+giúp dễ hiểu và dễ thực 
+hiện. 
+3.4.CB1a: HS nhận ra khi 
+chia một việc lớn thành nhiều 
+việc nhỏ sẽ giúp nhiệm vụ rõ 
+ràng, dễ thực hiện; biết đưa ví 
+dụ thực tế minh họa. 
+4  Hoạt động luyện 
+tập 
+HS tham gia trò chơi “người 
+chỉ dẫn – robot” trên bàn cờ, 
+ghi lại các bước di chuyển 
+3.4.CB1a: HS thực hành liệt 
+kê và sắp xếp dãy lệnh (quay 
+trái, tiến, quay phải…) để 
+robot di chuyển đú ng; hình 
+--- Page 45 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+41 
+robot vào vở; tự đánh giá 
+bằng bảng kiểm. 
+thành kỹ năng mô tả thuật 
+toán đơn giản. 
+5  Hoạt động vận 
+dụng 
+HS làm việc cá nhân, trả lời 
+câu hỏi SGK, tham gia trò 
+chơi nhóm chia công việc 
+thành các bước nhỏ; GV 
+tổng hợp kết quả và công bố 
+nhóm thắng cuộc. 
+3.4.CB1a: HS vận dụng kiến 
+thức đã học để chia một công 
+việc thực tiễn thành các bước 
+nhỏ, sắp xếp logic; thể hiện 
+khả năng giải quyết vấn đề 
+nhờ mô hình hóa công việc 
+thành chuỗi thao tác. 
+3.2.2. Kế hoạch bài dạy minh hoạ môn Đạo đức tích hợp năng lực số 
+BÀI 7. EM TÔN TRỌNG TÀI SẢN CỦA NGƯỜI KHÁC 
+Môn: Đạo đức 4 
+Thời gian: 3 tiết 
+I. YÊU CẦU CẦN ĐẠT 
+1. Năng lực đặc thù 
+- Năng lực phát triển bản thân: 
+ + Nêu được một số biểu hiện tôn trọng tài sản của người khác. 
+ + Biết vì sao phải tôn trọng tài sản của người khác. 
+- Năng lực điều chỉnh hành vi:  
+ + Thể hiện thái độ tôn trọng tài sản của người khác bằng những lời nói, việc 
+làm cụ thể phù hợp. 
+ + Nhắc nhở bạn bè, người thân tôn trọng tài sản của người khác. 
+2. Năng lực chung 
+- Hình thành năng lực tự chủ và tự học (qua hoạt động học tập)  
+- Hình thành năng lực giao tiếp và hợp tác (qua các hoạt động học tập nhóm, cả 
+lớp) 
+- Hình thành năng lực giải quyết vấn đề và sáng t ạo (qua sự tham gia tích cực, 
+sáng tạo trong các hoạt động học tập) 
+3. Phẩm chất 
+- Hình thành phẩm chất trung th ực (qua n ội dung bài h ọc tôn tr ọng tài s ản của 
+người khác) 
+- Hình thành phẩm chất trách nhiệm (qua các hoạt động học tập) 
+4.  Tích hợp phát triển năng lực số: 
+- 3.3.CB2a: Xác định được các quy tắc đơn giản về bản quyền và giấy phép áp 
+dụng cho dữ liệu, thông tin và nội dung số. 
+II. PHƯƠNG TIỆN DẠY HỌC 
+- SGK, SGV, SBT Đạo đức 4 (Bộ sách Cánh Diều). 
+--- Page 46 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+42 
+III. CÁC HOẠT ĐỘNG DẠY HỌC CHỦ YẾU 
+1. Hoạt động 1: KHỞI ĐỘNG  
+- HS chia sẻ quan điểm của bản thân về việc tôn trọng tài sản của người khác. 
+Gợi ý một số câu hỏi: 
+a. Em đã bao giờ tự ý sử dụng tài sản của người khácchưa? 
+b. Nếu được làm lại, em sẽ làm gì khi ấy? 
+- HS tham gia trả lời câu hỏi 
+- GV nhận xét, đánh giá, tổng kết hoạt động và dẫn nhập vào bài học. 
+- Dự kiến sản phẩm học tập: HS  chia sẻ được ý kiến của bản thân về việc sử dụng 
+tài sản của người khác (nếu có). 
+2. Hoạt động 2: KHÁM PHÁ 
+2.1 Hoạt động Quan sát tranh và trả lời câu hỏi  
+a. Mục tiêu: Tìm hiểu biểu hiện tôn tr ọng tài s ản của người khác; Xác đ ịnh được các 
+quy tắc đơn giản về bản quyền và giấy phép áp dụng cho dữ liệu, thông tin và nội dung 
+số. (3.3.CB2a) 
+b. Tiến trình tổ chức:  
+- HS quan sát tranh (04 bức tranh trong SGK và thực hiện yêu cầu trong SGK). 
+- HS thảo luận theo nhóm  
+- HS  báo cáo kết quả thảo luận nhóm 
+- Các  bạn trong lớp và GV nhận xét kết quả thảo luận của từng nhóm 
+- Dự kiến sản phẩm học tập: 
++ HS xác định được các biểu hiện tôn trọng tài sản của người khác được thể 
+hiện trong các tranh:1, 4. Trong đó: 
+Tranh 1:Bạn gái phát hiện hộp bút của Na bỏ quên và sẽ đem gửi lại cho bạn. 
+Tranh 4: Bạn gái đã có suy nghĩ đúng, nhật kí cũng là một tài sản của người 
+khác nên dù có thấy hay nhặt được cũng không được phép mở  ra xem. 
+- HS kể thêm được một số biểu hiện tôn trọng tài sản của người khác: nhặt được của 
+rơi, giao nộp công an, trả lại cho người mất; muốn mượn đồ dùng của bạn thì phải hỏi ý 
+kiến; mượn đồ dùng phải giữ gìn cẩn thận; muốn tham khảo bài làm của người khác thì 
+phải hỏi ý kiến, muốn sử dụng thông tin trên mạng thì phải ghi nguồn tham khảo... 
+2.2 Hoạt động Đọc câu chuyện và trả lời câu hỏi  
+a. Mục tiêu: Tìm hiểu vì sao phải tôn trọng tài sản của người khác 
+b. Tiến trình tổ chức: 
+- HS đọc câu chuyện Chiếc dây chuyền bị rơi và trả lời câu hỏi. 
++ Vì sao Nam được thầy Hiệu trưởng tuyên dương trước toàn trường? 
++ Việc làm của Nam có ý nghĩa gì? 
++ Theo em, vì sao cần tôn trọng tài sản của người khác? 
+- HS làm việc cá nhân và phát biểu câu trả lời. 
+--- Page 47 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+43 
+- Các bạn và GV nhận xét  
+- Dự kiến sản phẩm học tập: 
++ HS giải thích được vì sao Nam đư ợc thầy Hiệu trưởng tuyên dương trước 
+toàn trường: Nam đã ý thức, biết mang đồ vật mình nhặt được đến trụ sở công an nhờ trả 
+lại cho người bị mất và đã từ chối nhận quà khi chủ nhân của món đồ muốn cảm ơn. 
++ HS trả lời được ý nghĩa việc làm của Nam: thể hiện Nam là người biết tôn 
+trọng tài sản của người khác. 
++ HS trả lời được cần phải tôn trọng tài sản của người khác bởi vì: 
+ Đó là tài sản riêng của mỗi người. 
+ Rèn luyện được tính trung thực. 
+ Đem lại niềm vui cho người xung quanh và cho chính bản thân mình. 
+ Góp phần làm cộng đồng xã hội lành mạnh, vui tươi, an toàn. 
+3. Hoạt động 3: LUYỆN TẬP  
+3.1 Hoạt động Bày tỏ ý kiến 
+a. Mục tiêu: Thể hiện thái độ tôn trọng tài sản của người khác bằng những lời nói, việc 
+làm cụ thể phù hợp; Xác định được các quy tắc đơn giản về bản quyền và giấy phép áp 
+dụng cho thông tin và nội dung số như là bài trình chiếu của bạn, hình ảnh trên Internet,... 
+b. Tiến trình tổ chức: 
+- HS bày tỏ ý kiến đồng tình hay không đ ồng tình của mình với 05 ý kiến trong 
+SGK và bổ sung thêm (hoặc GV thay thế) 02 ý kiến: (f) Khi thấy bài trình chiếu của bạn 
+làm tốt, có thể sao chép lại để nộp mà không cần hỏi ý kiến bạn; (g) Sử dụng hình ảnh 
+tìm kiếm được trên Internet thì cần ghi nguồn thông tin. 
+- HS làm việc theo nhóm (đọc tình huống, thảo luận ý kiến đồng tình/ không đồng 
+tình). 
+- Các nhóm trình bày kết quả thảo luận. 
+- Các bạn và GV nhận xét. 
+- Dự kiến sản phẩm học tập: 
++ HS trả lời đồng tình với ý kiến a, c, e, g vì đó là những ý kiến thể hiện sự 
+tôn trọng tài sản của người khác. 
++ HS trả lời không đồng tình với ý kiến b, d, f vì dù là bạn bè, người lớn tuổi 
+hay ít tuổi hơn thì v ẫn luôn phải tôn trọng tài sản của họ. Bài trình chiếu, bức tranh vẽ, 
+hình ảnh… đều là tài sản của người tạo ra chúng. Muốn sử dụng tài sản của bất kì ai thì 
+cũng phải xin phép. 
+3.2. Hoạt động Nhận xét các hành động và đưa ra lời khuyên  
+a. Mục tiêu : Đưa ra các nhận xét về lời nói, việc làm trong từng tình huống và các lời 
+khuyên nhắc nhở bạn bè, người thân tôn trọng tài sản của người khác. 
+b. Tiến trình tổ chức: 
+--- Page 48 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+44 
+- HS làm vi ệc theo nhóm (đọc các tình hu ống, thảo luận ý ki ến và đưa ra l ời 
+khuyên phù hợp). 
+- Các nhóm trình bày kết quả thảo luận. 
+- Các bạn và GV nhận xét. 
+- Dự kiến sản phẩm học tập: 
++ Nhận xét hành đ ộng: Tất cả các hành đ ộng trên đ ều là hành đ ộng không 
+đúng, không  thể hiện sự tôn trọng tài sản của người khác. 
++ Đưa ra lời khuyên: 
+HS có thể đưa ra một số lời khuyên như: 
+ Trường hợp a: Khuyên bạn là muốn lấy đồ của ai thì trước hết phải xin phép và 
+được sự cho phép của họ mới được lấy. 
+ Trường hợp b: Đề nghị chị lần sau không được làm như vậy nữa vì đó là tài sản 
+riêng tư của mình và mình muốn được chị tôn trọng. 
+ Trường hợp c: Khuyên bạn lần sau cần phải hỏi mượn trước và được sự đồng ý, 
+sau đó mới sử dụng. 
+ Trường hợp d: Khuyên bạn nên đưa ví tiền lên trụ sở công an để trình báo hoặc 
+báo cho người lớn biết. 
+3.3 Hoạt động Xử lí tình huống 
+a. Mục tiêu: Luyện tập tôn trọng tài sản của người khác; Xác định được các quy tắc đơn 
+giản v ề bản quy ền và gi ấy phép áp d ụng cho d ữ liệu, thông tin và n ội dung s ố. 
+(3.3.CB2a). 
+b. Tiến trình tổ chức 
+- HS đọc 04 tình huống trong SGK và 01 tình huống bổ sung sau: 
+Tình huống 5: Giang tìm kiếm được một bức tranh chụp ảnh trường mình do thầy 
+Nam (giáo viên dạy Mỹ thuật) chụp và đăng tải trên trang cá nhân của thầy. Giang đưa 
+bức ảnh đó vào bài trình chiếu của mình mà không xin phép vì cho rằng ảnh đã đưa lên 
+mạng thì ai cũng có thể sử dụng. 
+(a) Em có đồng ý với việc làm của Giang không? Vì sao? 
+(b) Nếu là Giang, em sẽ xử lí như thế nào? 
+- HS làm việc theo nhóm (đọc tình huống, thảo luận ý kiến để đưa ra phương án 
+xử lý tình huống) 
+- Các nhóm trình bày kết quả thảo luận. 
+- Các bạn và GV nhậnxét. 
+- Dự  kiến sản phẩm học tập: 
++ Tình huống 1: Nếu là bạn của Nam, em sẽ khuyên Nam nên xin phép bác 
+Trang trước. Nếu bác ấy cho phép thì mới được hái táo. 
++ Tình huống 2: Nếu là bạn của Thắng, em sẽ khuyên bạn ấy đổi lại áo khoác 
+cho bạn Mạnh. 
+--- Page 49 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+45 
++ Tình huống 3: Nếu em là My, em s ẽ nói với Hồng: “Mặc dù xe là tài s ản 
+của Thanh nhưng bảo vệ tài sản cho bạn cũng là thể hiện sự tôn trọng tài sản của bạn”. 
++ Tình huống 4: 
+ Em không đồng ý với việc làm của Châu. Vì vở ghi là tài sản của 
+chị gái, Châu không được phép quyết định cho chị Thu mượn hay 
+không. 
+ Nếu là Châu, em sẽ hỏi chị và nếu được chị đồng ý thì mới đi tìm 
+và cho chị Thu mượn. 
++ Tình huống 5: 
+ Em không đồng ý với việc làm của Giang.Vì ảnh chụp đăng trên 
+trang cá nhân của thầy Nam là thuộc quyền sở hữu của thầy Nam  
+ Nếu là Giang, em sẽ đi gặp và xin phép thầy Nam để được sử dụng 
+bức ảnh đó. 
+3.4. Hoạt động Thuyết trình về ý nghĩa của việc tôn trọng tài sản của người 
+khác 
+a. Mục tiêu: Khắc sâu lợi ích của việc tôn trọng tài sản của người khác. 
+b. Tiến trình tổ chức 
+- HS thuyết trình về ý nghĩa của việc tôn trọng tài sản của người khác theo các 
+gợi ý: 
+(1) Tại sao phải tôn trọng tài sản của người khác? 
+(2) Việc xâm phạm tài sản của người khác có được coi là vi phạm pháp luật không? 
+(3) Em đã và sẽ làm gì để thể hiện thái độ tôn trọng tài sản của người khác? 
+- HS làm việc theo nhóm (chuẩn bị bài thuyết trình) 
+- Các nhóm trình bày kết quả thảo luận . 
+- Các bạn và GV nhậnxét. 
+- Dự kiến sản phẩm học tập: HS thể hiện các ý chính của nội dung cần trình bày 
+về việc tôn trọng tài sản của người khác: 
++ Ý nghĩa của việc tôn trọng tài sản của người khác: 
+ Tôn trọng tài sản giúp rèn luyện được tính trung thực. 
+ Tôn trọng tài sản giúp đem lại niềm vui cho người xung quanh và 
+cho chính bản thân mình. 
+ Tôn trọng tài sản góp phần làm cộng đồng xã hội lành mạnh, vui 
+tươi, an toàn. 
++ Việc xâm phạm tài sảncủa người khác là vi phạm pháp luật: 
+ Vì mỗi người có quyền sở hữu tài sản, ai xâm phạm sẽ bị xử phạt. 
+ Việc xử phạt sẽ tuỳ theo mức độ vi phạm. 
++ Những việc em đã và sẽ làm để thể hiện thái độ tôn trọng tài sản của người 
+khác: 
+ Bảo vệ tài sản của bạn khi mượn và sử dụng. 
+--- Page 50 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+46 
+ Nếu làm mất hay hư hỏng sẽ bồi thường. 
+ Nhặt được của rơi trả lại cho người làm mất. 
+ Trước khi mượn đồ dùng của ai đều phảixin phép. 
+ Bày tỏ lòng biết ơn khi người khác cho mượn đồ dùng. 
+4. Hoạt động 4: VẬN DỤNG  
+4.1 Hoạt động Chia sẻ với các bạn những việc em đã làm thể hiện việc tôn trọng 
+tài sản của người khác 
+a. Mục tiêu: Thể hiện những việc đã làm thể hiện việc tôn trọng tài sản của người khác. 
+b. Tiến trình tổ chức 
+- HS viết và trang trí lên bông hoa một số việc đã làm thể hiện việc tôn trọng tài 
+sản của người khác. 
+- HS chia sẻ. 
+- Các bạn và GV nhận xét, đánh giá. 
+- Dự kiến sản phẩm học tập : HS vẽ hoặc cắt dán được bông hoa; viết ra được một 
+số việc làm mà bản thân đã thực hiện thể hiện sự tôn trọng tài sản của người khác. 
+4.2. Hoạt động Nhắc nhở bạn bè, người thân tôn trọng tài sản của người khác 
+a. Mục tiêu: Vận dụng bài h ọc vào th ực tế luôn nhắc nhở bạn bè, ngư ời thân tôn 
+trọng tài sản của người khác 
+b. Tiến trình tổ chức 
+- HS về nhà thực hiện. 
+- HS nộp lại sản phẩm là cu ốn sổ nhỏ ghi lại những điều đã nh ắc nhở bạn bè, 
+người thân tôn trọng tài sản của người khác hoặc GV có thể mời 2 –3 HS chia sẻ trước 
+lớp (nếu được). 
+- GV nhận xét và khuyến khích HS tích cực hoàn thành nhiệm vụ được giao. 
+- Dự kiến sản phẩm học tập: HS nộp cuốn sổ nhỏ ghi chép lại những điều mà các 
+em đã nhắc nhở bạn bè, người thân tôn trọng tài sản của người khác. 
+- Kết luận: HS đọc lời khuyên trong SGK Đạo đức 4, trang 38. 
+PHÂN TÍCH PHÁT TRIỂN NLS CHO HỌC SINH 
+TT Tên hoạt động Tổ chức dạy học Năng lực số 
+1  Hoạt động khởi 
+động 
+- HS chia sẻ trải nghiệm cá nhân 
+về việc sử dụng tài sản của 
+người khác - GV gợi mở và dẫn 
+nhập bài học 
+3.3.CB2a: Xác định được 
+quy tắc đơn giản về bản 
+quyền, giấy phép áp dụng 
+cho nội dung số 
+2  Hoạt động 
+khám phá 
+- HS quan sát tranh, đọc chuyện, 
+thảo luận nhóm, báo cáo kết quả 
+- GV nhận xét, kết luận 
+3.3.CB2a: HS nhận biết 
+quy tắc tôn trọng tài sản, 
+liên hệ với bản quyền và 
+--- Page 51 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+47 
+giấy phép trong môi 
+trường số 
+3  Hoạt động 
+luyện tập 
+- HS bày tỏ ý kiến, xử lí tình 
+huống, đưa lời khuyên phù hợp 
+- HS thảo luận nhóm, trình bày, 
+GV nhận xét 
+3.3.CB2a: HS khẳng 
+định việc cần tuân thủ 
+bản quyền, không sao 
+chép nội dung số khi 
+chưa xin phép 
+4  Hoạt động vận 
+dụng 
+- HS viết, vẽ, thuyết trình hoặc 
+ghi nhật ký những việc làm, lời 
+nhắc nhở bạn bè và người thân - 
+GV đánh giá, khuyến khích HS 
+3.3.CB2a: HS vận dụng 
+quy tắc bản q uyền, giấy 
+phép vào thực tế học tập 
+và đời sống 
+3.2.3. Kế hoạch bài dạy minh họa môn Công nghệ tích hợp năng lực số 
+BÀI 9. SỬ DỤNG ĐIỆN THOẠI 
+Môn: Công nghệ 5 
+Thời gian: 4 tiết 
+I. Yêu cầu cần đạt 
+Sau bài học này, hoc sinh sẽ: 
+- Năng lực công nghệ: 
++ Trình bày được tác dụng của điện thoai. 
++ Nhận biết được các bộ phận cơ bản của điện thoại; nhận biết được các biểu 
+tượng thể hiện trang thái và chức năng hoat động của điện thoai. 
++ Ghi nhớ, thực hiện được cuộc gọi tới các số điện thoai của người thân và 
+các số điện thoai khẩn cấp khi cần thiết. 
++ Sử dụng điện thoại an toàn, tiết kiệm, hiệu quả và phù hợp với quy tắc giao 
+tiếp. 
+- Năng lực chung: nhận ra được ý nghĩa c ủa giao tiếp qua điện thoại trong việc 
+đáp ứng các nhu cầu trao đổi thông tin liên lạc của bản thân (giao tiếp và hợp tác); thu 
+nhận thông tin từ tình huống sử dụng điện thoại, nhận ra những vấn đề đơn giản và xử 
+lí được (giải quyết vấn  
+ - Phẩm chất: Chăm chỉ vận dụng kiến thức đã học về điện thoại vào cuộc sống 
+hàng ngày. 
+- Tích hợp phát triển năng lực số: 
++ Lựa chọn được những cách th ức đơn gi ản để bảo vệ dữ liệu cá nhân và 
+quyền riêng tư khi sử dụng điện thoại (4.2.CB2a) 
++ Phân biệt được các cách th ức đơn giản để tránh rủi ro và đe d ọa đến sức 
+khỏe thể chất và tinh thần khi sử dụng điện thoại (4.3.CB2a) 
++ Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ 
+trong môi trường internet khi sử dụng điện thoại (4.3.CB2b). 
+--- Page 52 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+48 
+II. Đồ dùng dạy học 
+- Tranh ảnh trong SGK. 
+III. Gợi ý tổ chức các hoạt động dạy học 
+1. Hoạt động 1:  Khởi động 
+a. Mục tiêu: Huy động sự hiểu biết, kinh nghiệm của học sinh liên quan tới điện thoại. 
+Gợi sự tò mò và tạo tâm thế học tập cho HS vào nội dung bài học. 
+b. Cách thức tiến hành:  
+- GV tổ chức cho HS tham gia trò chơi: “Ai nhanh hơn” với yêu cầu trong vòng 
+30 giây, HS lần lượt kể tên các cách để liên lạc/ truyền thông tin giữa các nơi có khoảng 
+cách xa nhau.  
+- HS suy nghĩ và trả lời:  
++ Các cách liên lạc: Kể chuyện truyền miệng, bồ câu đưa thư, phát thanh, 
+điện thoại, thư điện tử,…. 
++ So sánh về thời gian truyền thông ti n nhanh hay chậm, độ chính xác của 
+thông tin,... 
+- GV gọi 1-2 HS trả lời câu hỏi, HS khác nhận xét, góp ý.GV cho HS thảo luận 
+về ưu nhược điểm của các cách liên lạc. 
+- GV nhận xét và kết luận: Điện thoại là sản phẩm công nghệ được sử dụng rất phổ 
+biến hiện nay. Điện thoại mang lại rất nhiều lợi ích trong cuộc sống, nhưng cũng có thể 
+mang lại những tác động tiêu cực nếu sử dụng không đúng cách và dẫn dắt vào bài học. 
+2. Hoạt động 2: Tìm hiểu tác dụng của điện thoại 
+a. Mục tiêu: HS trình bày được tác dụng của điện thoại. 
+b. Cách thức tiến hành:  
+- GV yêu cầu HS quan sát một số hình ảnh thể hiện tác dụng của điện thoại (dùng 
+để liên lạc, để hỗ trợ học tập, để giải trí). 
+- HS quan sát hình ảnh và trả lời. 
+- GV tổ chức cho HS thảo luận chia sẻ thêm các tác dụng khác của điện thoại mà 
+HS biết.  
+- GV nhận xét và kết luận về tác dụng của điện thoại: dùng để liên lạc, để hỗ trợ 
+học tập, để giải trí. Ngoài ra điện thoại hiện đại còn có thêm các chức năng như định vị, 
+…GV chia sẻ thêm về lịch sử phát triển của điện thoại để HS nhận diện và biết được tác 
+dụng của mỗi loại điện thoại.  
+3. Hoạt động 3: Tìm hiểu về một số bộ phận cơ bản của điện thoại 
+a. Mục tiêu: HS nhận biết được các bộ phận cơ bản của điện thoại.  
+b. Cách thức tiến hành:  
+ - GV sử dụng tranh câm (tranh minh họa đầy đủ các bộ phận điện thoại cố định 
+và điện thoại di động), yêu cầu HS quan sát và gắn các thẻ tên của điện thoại vào các bộ 
+--- Page 53 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+49 
+phận tương ứng.  
+- HS quan sát hình ảnh, thảo luận và gắn thẻ tên lên tranh câm. 
+- GV đề nghị các nhóm treo tranh câm đã dán thẻ tên lên bảng, nhận xét câu trả 
+lời của các nhóm và nhấn mạnh mỗi loại điện thoại có thể có thêm các bộ phận khác 
+hoặc vị trí các bộ phận có thể khác nhau nhưng thông thường điện thoại cố định thường 
+gồm 2 bộ phận chính là ống nghe nói và bàn phím; điện thoại di động thường gồm: loa, 
+màn hình cảm ứng, nút tăng giảm âm lượng, camera; nút nguồn, loa và cổng sạc. 
+- GV nhận xét và kết luận. 
+4. Hoạt động 4: Tìm hiểu về biểu tượng trạng thái và cách thực hiện một cuộc gọi 
+bằng điện thoại 
+a. Mục tiêu: HS nhận biết được các biểu tượng thể hiện trang thái và chức năng hoạt 
+động của điện thoại; Trình bày được các bước để thực hiện một cuộc gọi điện thoại; Ghi 
+nhớ được cuộc gọi tới các số điện thoai của người thân và các số điện t hoại khẩn cấp 
+khi cần thiết. 
+ b. Cách thức tiến hành:  
+(1) Tìm hiểu về các biểu tượng trạng thái: 
+- GV phát phiếu học tập số 1 và yêu cầu học sinh thực hiện để tìm hiểu các biểu 
+tượng thể hiện trạng thái và chức năng hoạt động của điện thoại, có thể tổ chức thành 
+trò chơi ghép đôi. 
+- GV cho HS chia sẻ kết quả. Ở mỗi đáp án ghép nối, GV gợi ý để học sinh nêu 
+được ý nghĩa của biểu tượng hay trạng thái điện thoại đó. GV đưa ra một số hình ảnh 
+các tình huống có thể xảy ra trong thực tế và đề xuất HS thảo luận: trường hợp nào có 
+thể thực hiện được cuộc gọi điện thoại bình thường, giải thích tại sao? 
+ 
+- GV kết luận về ý nghĩa của các biểu tượng thể hiện trạng thái và chức năng hoạt 
+động của điện thoại. 
+(2) Tìm hiểu cách thực hiện một cuộc gọi bằng điện thoại: 
+ - GV yêu cầu HS: 
++ Chia sẻ các bước thực hiện để có thể thực hiện được một cuộc gọi điện 
+
+--- Page 54 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+50 
+thoại dựa trên kinh nghiệm của cá nhân (có thể tham khảo thêm trong SGK) 
++ Chia sẻ thêm các bước thực hiện cuộc gọi điện thoại trên điện thoại di động 
+khác mà em biết? 
+- GV cho HS thảo luận, chia sẻ thêm về một số cách thực hiện một cuộc gọi trên 
+điện thoại khác hoặc một số cách thực hiện khác (như cài đặt gọi số nhanh trên điện 
+thoại di động,…) và kết luận về các bước để thực hiện một cuộc gọi điện thoại. 
+- GV tổ chức cho HS đóng vai một số tình huống khẩn cấp để tìm hiểu về các số 
+điện thoại khẩn cấp và sự cần thiết phải nhớ số điện thoại của người thân và số điện 
+thoại khẩn cấp. 
+- HS thực hiện nhiệm vụ mà GV giao. 
+- GV nhận xét và kết luận. 
+5. Hoạt động 5: Tìm hiểu về một số lưu ý khi gọi điện thoại 
+a. Mục tiêu: HS sử dụng điện thoại an toàn, tiết kiệm, hiệu quả và phù hợp với quy tắc 
+giao tiếp; Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền 
+riêng tư khi s ử dụng điện thoại (4.2.CB2a); Phân bi ệt được các cách th ức đơn giản để 
+tránh r ủi ro và đe d ọa đ ến s ức kh ỏe th ể chất và tinh th ần khi s ử dụng đi ện tho ại 
+(4.3.CB2a);. 
+b. Cách thức tiến hành:  
+- GV yêu cầu HS quan sát hình ảnh hoặc GV xem và chỉ ra trong các video hoặc 
+cho HS đóng vai tình huống để phân tích các tình huống thể hiện việc sử dụng điện thoại 
+chưa an toàn, tiết kiệm cũng như cách sử dụng điện thoại hiệu quả và phù hợp với quy 
+tắc giao tiếp như: Sử dụng điện thoại hết pin dẫn tới s ập nguồn; vừa sử dụng vừa sạc 
+điện thoại; sử dụng điện thoại để buôn chuyện; chia sẻ thông tin cá nhân (số điện thoại, 
+địa chỉ nhà riêng, thông tin tài khoản học tập của cá nhân,…) trên môi trường internet 
+(Facebook, zalo,…) 
+- HS thực hiện nhiệm vụ theo gợi ý của GV. 
+- GV gọi HS chia sẻ câu trả lời, và gợi ý thêm một số tình huống khác thường 
+xảy ra trong khi sử dụng điện thoại. GV nhấn mạnh việc chia sẻ các thông tin cá nhân 
+trên môi trường mạng internet có thể bị người xấu lợi dụng và sử dụng thông tin nà y 
+vào mục đích xấu, vì vậy tuyệt tối không chia sẻ thông tin cá nhân trên môi trường số. 
+- GV nhận xét và kết luận. 
+6. Hoạt động 6: Luyện tập, thực hành 
+a. Mục tiêu: HS thực hiện được cuộc gọi tới các số điện thoai của người thân và các số 
+điện thoai khẩn cấp khi cần thiết; Sử dụng điện thoại an toàn, tiết kiệm, hiệu quả và phù 
+hợp với quy tắc giao tiếp; Lựa chọn được những cách thức đơn giản để bảo vệ bản thân 
+khỏi nguy cơ trong môi trường internet khi sử dụng điện thoại (4.3.CB2b). 
+b. Cách thức tiến hành:  
+--- Page 55 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+51 
+- GV yêu c ầu HS ho ạt động cập đôi, th ảo luận, đóng vai và x ử lí một số tình 
+huống GV đưa ra: 
++ Chia sẻ thông tin các nhân trên mạng xã hội như địa chỉ nhà, thói quen, … 
++ Chia sẻ và sử dụng hình ảnh của người khác lên mạng xã hội khi chưa được 
+cho phép. 
++ Khi ở nhà một mình nhưng có cuộc gọi tới điện thoại cố định từ người lạ và 
+hỏi các thông tin của gia đình. 
++… 
+- HS thực hiện nhiệm vụ. GV nhận xét và đi ều chỉnh thao tác và góp ý n ếu cần 
+thiết. 
+- GV gọi HS chia sẻ câu trả lời. GV thảo luận nhấn mạnh vào nguy cơ có thể xảy 
+ra ảnh hưởng tới bản thân khi sử dụng điện thoại trên môi trường số, từ đó phân tích để 
+HS hiểu và thực hiện được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ 
+trong môi trường internet khi s ử dụng điện thoại . GV có th ể gợi ý HS thảo luận thêm 
+về cách sử dụng điện thoại để an toàn, hi ệu quả trong học tập (thời gian sử dụng, các 
+trang web hữu ích dùng cho học tập,…) 
+- GV nhận xét, đánh giá quá trình hoạt động của các nhóm. 
+7. Hoạt động 7: Vận dụng 
+a. Mục tiêu: Giúp HS kết nối kiến thức đã học về sử dụng điện thoại vào thực tiễn trong 
+đời sống. Hoạt động này hướng tới mục tiêu hình thành và phát tri ển năng lực sử dụng 
+công nghệ của HS. 
+b. Cách thức tiến hành:  
+- Giáo viên giao HS về nhà thực hiện nhiệm vụ: 
++ Xin phép bố mẹ để thực hành sử dụng điện thoại với bố mẹ, người thân và bạn bè. 
++ Chia s ẻ với ngư ời thân trong gia đình v ề cách s ử dụng đi ện tho ại an toàn,  
+tiết kiệm, hiệu quả và phù hợp với quy tắc giao tiếp.  
+ Yêu cầu buổi học sau báo cáo kết quả của cá nhân.  
+PHÂN TÍCH PHÁT TRIỂN NLS CHO HỌC SINH 
+TT Tên hoạt động Tổ chức dạy học Năng lực số 
+1  Hoạt động khởi 
+động 
+HS tham gia trò 
+chơi, chia sẻ cách 
+liên lạc, GV dẫn dắt 
+ 
+2  
+Hoạt động tìm 
+hiểu tác dụng, bộ 
+phận, biểu tượng 
+và cách gọi điện 
+HS quan sát, thảo 
+luận, thực hành gọi 
+điện, GV kết luận 
+ 
+--- Page 56 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+52 
+TT Tên hoạt động Tổ chức dạy học Năng lực số 
+3  
+Hoạt động tìm 
+hiểu lưu ý khi 
+gọi điện thoại 
+HS phân tích tình 
+huống, thảo luận, 
+chia sẻ, GV nhấn 
+mạnh bảo vệ thông 
+tin cá nhân 
+4.2.CB2a: Lựa chọn được cách thức 
+đơn giản để bảo vệ dữ liệu cá nhân 
+và quyền riêng  tư khi sử dụng điện 
+thoại 
+4.3.CB2a: Phân biệt được cách thức 
+đơn giản để tránh rủi ro và đe doạ 
+sức khỏe khi sử dụng điện thoại 
+4  Hoạt động luyện 
+tập, thực hành 
+HS đóng vai xử lí 
+tình huống sử dụng 
+điện thoại, GV 
+nhận xét 
+4.3.CB2b: Lựa chọn được cách thức 
+đơn giản để bảo vệ bản thân khỏi 
+nguy cơ trong môi trường internet 
+khi sử dụng điện thoại 
+5  Hoạt động vận 
+dụng 
+HS thực hành cùng 
+người thân, chia sẻ 
+cách sử dụng an 
+toàn, tiết kiệm, GV 
+tổng kết 
+4.2.CB2a: Lựa chọn được cách thức 
+đơn giản để bảo vệ dữ liệu cá nhân 
+và quyền riêng tư khi s ử dụng điện 
+thoại 
+4.3.CB2a: Phân biệt được cách thức 
+đơn giản để tránh rủi ro và đe do ạ 
+sức khỏe khi sử dụng điện thoại 
+4.3.CB2b: Lựa chọn được cách thức 
+đơn gi ản đ ể bảo v ệ bản thân kh ỏi 
+nguy cơ trong môi trư ờng internet 
+khi sử dụng điện thoại 
+3.3. Minh họa và phân tích kế hoạch bài dạy tăng cường/câu lạc bộ 
+BÀI 1: DI CHUYỂN (LỚP 1) 
+I. YÊU CẦU CẦN ĐẠT 
+1. Năng lực số 
+- Lập trình: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết 
+một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản (3.4.CB1a). 
+2. Phẩm chất 
+- Chăm chỉ: Học sinh tham gia các hoạt động trong giờ học, vận dụng được kiến 
+thức đã học vào tình huống thực tế.   
+- Trách nhiệm: Học sinh có trách nhiệm khi tham gia các hoạt động nhóm và thực 
+hiện nhiệm vụ cá nhân theo yêu cầu của giáo viên. 
+II. ĐỒ DÙNG DẠY HỌC 
+Giáo viên 
+- Chuẩn bị kế hoạch bài dạy. 
+--- Page 57 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+53 
+- Bài giảng trình chiếu. 
+- Máy tính kết nối Tivi (hoặc máy chiếu). 
+- Tạo shortcut của các trang web học tập: https://studio.code.org/s/courseb-
+2023/lessons/3/levels/2 và https://studio.code.org/s/courseb-
+2021/lessons/2#activity-section-145 
+- Phiếu học tập sử dụng trong hoạt động Khám phá 
+Học sinh 
+- Vở ghi, bút, thước kẻ. 
+III. CÁC HOẠT ĐỘNG DẠY HỌC CHỦ YẾU 
+1. Hoạt động 1 – Khởi động (6 phút) 
+1.1. Mục tiêu 
+- Học sinh nêu được yêu cầu của trò chơi. 
+- Học sinh xác định và sửa được lỗi trong chương trình. 
+1.2. Sản phẩm hoạt động của học sinh 
+- Chương trình đã được sửa lỗi. 
+1.3. Tổ chức hoạt động 
+a. Chuyển giao nhiệm vụ  
+- Giáo viên hướng dẫn học sinh chơi trò chơi “Tôi sai ở đâu”. 
+   + Giáo viên chiếu hình ảnh ở phiếu học tập số 1 lên để cả lớp cùng xem và 
+đưa ra yêu cầu: Bắt đầu từ biểu tượng la bàn, làm từng bước theo chỉ dẫn và dừng lại tại 
+ví trí kho báu. 
+  + Chương trình đang hi ện là “Đông, Đông, B ắc”. T ại sao chương trình 
+không hoạt động được (La bàn không đến được vị trí kho báu). 
+b. Thực hiện nhiệm vụ 
+- Học sinh quan sát, lắng nghe để hiểu rõ nhiệm vụ. 
+- Học sinh thảo luận nhóm đôi để tìm ra lỗi ra. 
+- Giáo viên mời đại diện một hoặc hai nhóm thực hiện việc sửa lỗi chương trình 
+trước lớp.  
+- Giáo viên mời các nhóm khác nh ận xét, góp ý cho cách gi ải quyết của nhóm 
+bạn. 
+- Giáo viên quan sát quá trình thảo luận của các nhóm và hỗ trợ nếu cần. 
+c. Tổng kết nhiệm vụ 
+- Giáo viên khích lệ học sinh đưa ra các phương án gi ải quyết nhiệm vụ, khen 
+thưởng nhóm học sinh có cách thể hiện sáng tạo. 
+- Giáo viên nhận xét sản phẩm hoạt động của các nhóm và dẫn dắt vào bài mới.  
+--- Page 58 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+54 
+2. Hoạt động 2 – Hình thành kiến thức mới (10 phút) 
+2.1. Mục tiêu 
+- Học sinh sử dụng được các lệnh Đông, Tây, Nam, Bắc để di chuyển sang ô bên 
+phải, ô bên dưới, ô bên trái và ô bên trên đi đến kho báu. 
+- Học sinh rèn luyện và phát triển tư duy máy tính. 
+2.2. Sản phẩm hoạt động của học sinh 
+- Các phương án di chuyển La bàn để đi tới được kho báu. 
+2.3. Tổ chức hoạt động 
+a. Chuyển giao nhiệm vụ (giáo viên thực hiện)  
+- Giáo viên chia lớp thành các nhóm, mỗi nhóm 2 – 3 học sinh. 
+- Giáo viên hướng dẫn học sinh chơi trò chơi Đi tìm kho báu. Trong mỗi nhóm, 
+mỗi người chơi sẽ nhận một nhiệm vụ: 
++ Người chơi 1: Ch ọn/bố trí bản đồ để chơi từ các tờ giấy, tờ giấy có viên 
+ngọc (kho báu) thì úp xuống. 
++ Người chơi 2: Lập trình viên sẽ hướng dẫn người chơi 3 di chuyển từng bước 
+để đi đến kho báu bằng cách sử dụng các tín hiệu cánh tay đã cho trong phi ếu học tập. 
+Khi người chơi 2 đưa ra tín hiệu “DỪNG”, người chơi 3 sẽ lật tờ giấy mà họ đang đứng 
+lên. Nếu tờ giấy đó có một viên ngọc thì họ đã chinh phục mê cung thành công! 
++ Người chơi 3: Robot đi bộ, vị trí bắt đầu di chuyển là ô có biểu tượng la bàn. 
+b. Thực hiện nhiệm vụ 
+- Học sinh quan sát, lắng nghe để hiểu rõ nhiệm vụ. 
+- Học sinh thảo luận nhóm về yêu cầu của giáo viên. 
+- Học sinh thực hiện chơi trò chơi theo nhóm.  
+- Giáo viên quan sát quá trình thực hiện nhiệm vụ của các nhóm và hỗ trợ nếu cần.  
+c. Tổng kết nhiệm vụ 
+- Giáo viên khen thưởng các nhóm có câu trả lời đúng và chốt kiến thức: Để thực 
+hiện một nhiệm vụ, chúng ta cần xác định được các bước cần thực hiện.  
+3. Hoạt động 3 – Luyện tập (15 phút) 
+3.1. Mục tiêu 
+- HS truy cập được vào trò chơi Chú chim nóng tính trên trang web code.org bằng 
+shortcut (do giáo viên tạo sẵn). 
+- HS nhận biết được cách chơi trò chơi và chơi được trò chơi từ mức 2 đến 5. 
+- Học sinh rèn luyện và phát triển giải quyết vấn đề với sự trợ giúp của công nghệ 
+thông tin và truyền thông, tư duy máy tính. 
+3.2. Sản phẩm hoạt động của học sinh 
+--- Page 59 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+55 
+- Các chương trình giải quyết cho các nhiệm vụ được nêu trong mỗi mức. 
+3.3. Tổ chức hoạt động 
+a. Chuyển giao nhiệm vụ  
+- Giáo viên yêu cầu học sinh làm theo nhóm th ực hiện các nhi ệm vụ được nêu 
+trong mỗi mức.  
+b. Thực hiện nhiệm vụ 
+- Học sinh quan sát, lắng nghe hướng dẫn để thực hiện các nhiệm vụ thực hành.  
+- Giáo viên mời hai hoặc ba nhóm học sinh chia sẻ câu trả lời trước lớp.  
+- Giáo viên mời các nhóm khác nhận xét, phản biện câu trả lời của nhóm bạn. 
+- Giáo viên quan sát quá trình thực hiện nhiệm vụ của học sinh và hỗ trợ nếu cần. 
+c. Tổng kết nhiệm vụ 
+- Giáo viên khuyến khích học sinh đưa ra ý ki ến cá nhân, khen thư ởng học sinh 
+có câu trả lời và tổng hợp ý kiến của học sinh rồi chuyển sang hoạt động học tập tiếp 
+theo. 
+4. Hoạt động 4 – Vận dụng (5 phút) 
+4.1. Mục tiêu 
+- HS nhận biết được cách chơi trò chơi và chơi được trò chơi ở mức 6 và mức 7. 
+- Học sinh rèn luyện và phát triển giải quyết vấn đề với sự trợ giúp của công nghệ 
+thông tin và truyền thông, tư duy máy tính. 
+4.2. Sản phẩm hoạt động của học sinh 
+- Các chương trình giải quyết cho các nhiệm vụ được nêu trong mỗi mức. 
+4.3. Tổ chức hoạt động 
+a. Chuyển giao nhiệm vụ  
+- Giáo viên yêu cầu học sinh làm theo nhóm th ực hiện các nhi ệm vụ được nêu 
+trong mỗi mức.  
+b. Thực hiện nhiệm vụ 
+- Học sinh quan sát, lắng nghe hướng dẫn để thực hiện các nhiệm vụ thực hành.  
+- Giáo viên mời hai hoặc ba nhóm học sinh chia sẻ câu trả lời trước lớp.  
+- Giáo viên mời các nhóm khác nhận xét, phản biện câu trả lời của nhóm bạn. 
+- Giáo viên quan sát quá trình thực hiện nhiệm vụ của học sinh và hỗ trợ nếu cần. 
+c. Tổng kết nhiệm vụ 
+- Giáo viên khuyến khích học sinh đưa ra ý ki ến cá nhân, khen thư ởng học sinh 
+có kĩ năng thực hành tốt và đưa ra kiến thức chốt: 
++ Trong cuộc sống có một số công việc hàng ngày được thực hiện theo từng 
+bước, mỗi bước là một việc nhỏ hơn,các bước phải được sắp xếp thứ tự. 
+--- Page 60 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+56 
++ Để hệ thống máy tính có thể giải quyết được một vấn đề hoặc thực hiện một 
+nhiệm vụ ,chúng ta cần phải cung cấp cho hệ thống máy tính các bước cần thực hiện. 
+IV. ĐIỀU CHỈNH SAU BÀI DẠY 
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+ ....................................................................................................................................  
+PHÂN TÍCH PHÁT TRIỂN NLS CHO HỌC SINH 
+TT Tên hoạt động Tổ chức dạy học Năng lực số 
+1  Hoạt động khởi động 
+HS quan sát chương trình 
+“Đông, Đông, Bắc”, thảo 
+luận nhóm đôi để tìm lỗi và 
+sửa lỗi. GV gọi HS trình 
+bày, cả lớp góp ý. 
+3.4.CB1a: HS biết phát 
+hiện và liệt kê được các 
+bước sai trong một 
+chương trình đơn giản, 
+từ đó sửa lỗi để chương 
+trình hoạt động đúng 
+theo mục tiêu. 
+2  Hoạt động hình 
+thành kiến thức mới 
+HS tham gia trò chơi Đi tìm 
+kho báu: một bạn  đóng vai 
+“lập trình viên” đưa tín hiệu 
+chỉ đường, bạn khác đóng 
+vai “robot” di chuyển. 
+3.4.CB1a: HS xác định 
+và sắp xếp các lệnh di 
+chuyển (Đông, Tây, 
+Nam, Bắc) thành một 
+chuỗi hợp lý để đi tới 
+kho báu, hình thành tư 
+duy lập trình qua các 
+bước cụ thể. 
+3  Hoạt động luyện tập 
+HS truy cập trò chơi Chú 
+chim nóng tính trên 
+code.org (mức 2 –5), làm 
+nhiệm vụ theo nhóm, chia 
+sẻ kết quả. 
+3.4.CB1a: HS liệt kê và 
+thực hành các lệnh đơn 
+giản trong trò chơi để 
+giải quyết vấn đề; biết 
+điều chỉnh chuỗi lệnh 
+--- Page 61 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+57 
+TT Tên hoạt động Tổ chức dạy học Năng lực số 
+cho phù hợp với  yêu 
+cầu của từng mức. 
+4  Hoạt động vận dụng 
+HS tiếp tục chơi trò chơi 
+(mức 6–7), trình bày kết 
+quả, GV chốt ý nghĩa: công 
+việc hằng ngày cần thực 
+hiện theo từng bước, máy 
+tính cũng cần chuỗi lệnh để 
+giải quyết vấn đề. 
+3.4.CB1a: HS vận dụng 
+vào tình huống thực tế 
+của trò chơi, lập được 
+dãy bước đi đầy đủ và 
+chính xác hơn, qua đó 
+hiểu nguyên tắc: muốn 
+hệ thống máy tính giải 
+quyết được nhiệm vụ, 
+cần cung cấp các bước 
+cụ thể theo đúng thứ tự. 
+ 
+PHỤ LỤC 1: BẢNG MÃ CHỈ BÁO NĂNG LỰC SỐ (THEO CÔNG VĂN 
+3456/BGDĐT-GDPT) 
+PHỤ LỤC 1-  BẢNG MÔ TẢ CÁC NĂNG LỰC THÀNH PHẦN THEO CÁC BẬC 
+CỦA KHUNG NLS CHO HỌC SINH 
+1. Khai thác dữ liệu và thông tin 
+1.1. Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Xác định  
+được nhu cầu 
+thông tin, tìm 
+kiếm dữ liệu, 
+thông tin và 
+nội dung 
+thông qua tìm 
+kiếm đơn giản 
+trong môi 
+trường số, 
+b- Tìm được 
+cách truy cập 
+a- Xác định 
+được nhu cầu 
+thông tin. 
+b- Tìm được dữ 
+liệu, thông tin 
+và nội dung 
+thông qua tìm 
+kiếm đơn giản 
+trong môi 
+trường số, 
+c- Tìm được  
+cách truy cập 
+a-Giải thích 
+được nhu c ầu 
+thông tin, 
+b-Thực hi ện 
+được rõ ràng và 
+theo quy trình 
+các tìm kiếm để 
+tìm d ữ liệu, 
+thông tin và nội 
+dung trong môi 
+trường số, 
+a-Minh họa 
+được nhu cầu 
+thông tin, 
+b-Tổ chức 
+được tìm kiếm 
+dữ liệu, thông 
+tin và nội dung 
+trong môi 
+trường số, 
+c-Mô tả được 
+cách truy cập 
+những dữ liệu, 
+a- Đáp ứng 
+được nhu cầu 
+thông tin, 
+b- Áp dụng 
+được kỹ thuật 
+tìm kiếm để 
+lấy được dữ 
+liệu, thông tin 
+và nội dung 
+trong môi 
+trường số, 
+--- Page 62 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+58 
+những dữ liệu, 
+thông tin và 
+nội dung này 
+cũng như điều 
+hướng giữa 
+chúng, 
+b- Xác định  
+được các 
+chiến lược tìm 
+kiếm đơn 
+giản. 
+những dữ liệu, 
+thông tin và nội 
+dung này cũng 
+như điều hướng 
+giữa chúng, 
+d- Xác định 
+được các chiến 
+lược tìm kiếm 
+đơn giản. 
+c-Giải thích 
+được cách truy 
+cập và đi ều 
+hướng các k ết 
+quả tìm kiếm, 
+d-Giải thích 
+được rõ ràng và 
+theo quy trình 
+chiến lư ợc tìm 
+kiếm. 
+thông tin và nội 
+dung này cũng 
+như điều hướng 
+giữa chúng, 
+d-Tổ chức 
+được các chiến 
+lược tìm kiếm. 
+c- Chỉ cho 
+người khác 
+cách truy cập  
+những dữ liệu, 
+thông tin và 
+nội dung này 
+cũng như điều 
+hướng giữa 
+chúng. 
+d- Tự đề xuất 
+được chiến 
+lược tìm kiếm. 
+ 
+1. Khai thác dữ liệu và thông tin 
+1.2. Đánh giá dữ liệu, thông tin và nội dung số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a-Phát hiện 
+được độ tin 
+cậy và độ 
+chính xác của 
+các nguồn 
+chung của dữ 
+liệu, thông tin 
+và nội dung 
+số. 
+a-Phát hiện 
+được độ tin cậy 
+và độ chính xác 
+của các nguồn 
+chung của dữ 
+liệu, thông tin 
+và nội dung số. 
+a-Thực hi ện 
+phân tích, so 
+sánh, đánh giá 
+được độ tin cậy 
+và độ chính xác 
+của các ngu ồn 
+dữ liệu, thông 
+tin và n ội dung 
+số đã đư ợc t ổ 
+chức rõ ràng. 
+b-Thực hi ện 
+phân tích, di ễn 
+giải và đánh giá 
+được d ữ liệu, 
+thông tin và nội 
+dung s ố được 
+xác đ ịnh rõ 
+ràng. 
+a-Thực hi ện 
+phân tích, so 
+sánh và đánh 
+giá đư ợc các 
+nguồn d ữ liệu, 
+thông tin và nội 
+dung số. 
+b-Thực hi ện 
+phân tích, di ễn 
+giải và đánh giá 
+được d ữ liệu, 
+thông tin và nội 
+dung số. 
+a- Thực hi ện 
+đánh giá đư ợc 
+độ tin c ậy và 
+độ tin cậy của 
+các ngu ồn d ữ 
+liệu, thông tin 
+và n ội dung 
+số. 
+b-Tiến hành  
+đánh giá đư ợc 
+các d ữ liệu, 
+thông tin và 
+nội dung s ố 
+khác nhau. 
+--- Page 63 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+59 
+ 
+1. Khai thác dữ liệu và thông tin 
+1.3. Quản lý dữ liệu, thông tin và nội dung số 
+Tổ chức, lưu trữ và truy xuất được dữ liệu, thông tin và nội dung trong môi trường số. 
+Tổ chức và sắp xếp được chúng trong một môi trường có cấu trúc. 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Xác định 
+được cách tổ 
+chức, lưu trữ 
+và truy xuất dữ 
+liệu, thông tin 
+và nội dung 
+một cách đơn 
+giản trong môi 
+trường số. 
+b- Nhận biết 
+được nơi để 
+sắp xếp dữ 
+liệu, thông tin 
+và nội dung 
+một cách đơn 
+giản trong môi 
+trường có cấu 
+trúc. 
+a- Xác định 
+được cách tổ 
+chức, lưu trữ và 
+truy xuất dữ 
+liệu, thông tin 
+và nội dung một 
+cách đơn giản 
+trong môi 
+trường số. 
+b- Nhận biết 
+được nơi để sắp 
+xếp dữ  liệu, 
+thông tin và nội 
+dung một cách 
+đơn giản trong 
+môi trường có 
+cấu trúc. 
+a- Lựa ch ọn 
+được d ữ liệu, 
+thông tin và 
+nội dung để tổ 
+chức, lưu tr ữ 
+và truy xu ất 
+chúng m ột 
+cách thư ờng 
+xuyên trong 
+môi trường số. 
+b- Sắp x ếp 
+chúng một 
+cách tr ật t ự 
+trong một môi 
+trường có c ấu 
+trúc. 
+a- Sắp xếp được 
+thông tin, d ữ 
+liệu, nội dung để 
+dễ dàng lưu tr ữ 
+và truy xuất. 
+b- Tổ chức được 
+thông tin, d ữ 
+liệu và nội dung 
+trong m ột môi 
+trường có c ấu 
+trúc. 
+a- Thao tác 
+được thông 
+tin, dữ liệu và 
+nội dung để tổ 
+chức, lưu tr ữ 
+và truy xuất dễ 
+dàng hơn. 
+b- Triển khai 
+được vi ệc t ổ 
+chức và s ắp 
+xếp d ữ liệu, 
+thông tin và 
+nội dung trong 
+môi trường có 
+cấu trúc. 
+ 
+2. Giao tiếp và Hợp tác  
+2.1. Tương tác thông qua công nghệ số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Lựa ch ọn 
+được các công 
+nghệ số đơn 
+giản đ ể tương 
+tác. 
+a- Lựa ch ọn 
+được các công 
+nghệ số đơn 
+giản đ ể tương 
+tác. 
+a- Thực hi ện 
+được các tương 
+tác đư ợc xác 
+định rõ ràng và 
+thường xuyên 
+a- Lựa ch ọn 
+được nhi ều 
+công ngh ệ số 
+để tương tác. 
+b-Lựa ch ọn 
+được nhi ều 
+a- Sử dụng 
+được nhi ều 
+công ngh ệ số 
+để tương tác. 
+b-Cho ngư ời 
+khác th ấy 
+--- Page 64 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+60 
+b- Xác đ ịnh 
+được các 
+phương ti ện 
+giao ti ếp đơn 
+giản thích h ợp 
+cho m ột b ối 
+cảnh cụ thể. 
+b- Xác đ ịnh 
+được các 
+phương ti ện 
+giao ti ếp đơn 
+giản thích h ợp 
+cho m ột b ối 
+cảnh cụ thể. 
+với các công 
+nghệ số. 
+b- Lựa ch ọn 
+được các 
+phương ti ện 
+giao ti ếp s ố 
+phù hợp, đư ợc 
+xác đ ịnh rõ 
+ràng cho phù 
+hợp v ới b ối 
+cảnh nhất định. 
+phương ti ện 
+truyền thông số 
+cho phù h ợp 
+với b ối c ảnh 
+nhất định. 
+phương ti ện 
+giao tiếp số phù 
+hợp nh ất cho 
+một b ối c ảnh 
+cụ thể. 
+ 
+2. Giao tiếp và Hợp tác  
+2.2. Chia sẻ thông tin và nội dung thông qua công nghệ số  
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a-Nhận biết 
+được các công 
+nghệ số đơn 
+giản, phù hợp 
+để chia sẻ dữ 
+liệu, thông tin 
+và nội dung kỹ 
+thuật số. 
+b-Nhận biết 
+được phương 
+pháp trích dẫn 
+và ghi nguồn 
+cơ bản. 
+a- Nhận biết 
+được các công 
+nghệ số đơn 
+giản, phù hợp 
+để chia sẻ dữ 
+liệu, thông tin 
+và nội dung kỹ 
+thuật số. 
+b- Xác định 
+được phương 
+pháp trích dẫn 
+và ghi nguồn cơ 
+bản. 
+a- Lựa ch ọn 
+các công ngh ệ 
+số phù h ợp 
+được xác đ ịnh 
+rõ đ ể trao đ ổi 
+dữ liệu, thông 
+tin và nội dung 
+số. 
+b- Giải thích 
+cách thức hoạt 
+động như m ột 
+trung gian đ ể 
+chia s ẻ thông 
+tin và nội dung 
+thông qua các 
+công ngh ệ kỹ 
+thuật s ố được 
+xác đ ịnh rõ 
+a- Vận d ụng 
+được các công 
+nghệ số phù 
+hợp đ ể chia s ẻ 
+dữ liệu, thông 
+tin và n ội dung 
+số. 
+b- Giải thích 
+được cách đóng 
+vai trò trung 
+gian để chia s ẻ 
+thông tin và nội 
+dung thông qua 
+công nghệ số. 
+c- Áp d ụng 
+được các 
+phương pháp 
+tham chi ếu và 
+ghi chú nguồn. 
+a- Chia s ẻ dữ 
+liệu, thông tin 
+và n ội dung s ố 
+thông qua 
+nhiều công c ụ 
+số phù hợp, 
+b- Hướng d ẫn 
+người khác 
+cách đóng vai 
+trò trung gian 
+để chia s ẻ 
+thông tin và nội 
+dung thông qua 
+công nghệ số. 
+c-Áp d ụng 
+được nhi ều 
+phương pháp 
+tham chi ếu và 
+--- Page 65 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+61 
+ràng và 
+thường xuyên, 
+b- Minh họa rõ 
+ràng và thường 
+xuyên các 
+phương pháp 
+tham chi ếu và 
+ghi chú nguồn. 
+ghi nguồn khác 
+nhau. 
+2. Giao tiếp và Hợp tác  
+2.3. Sử dụng công nghệ số để thực hiện trách nhiệm công dân 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Xác định 
+được các dịch 
+vụ số đơn giản 
+để có thể tham 
+gia vào xã hội.  
+b- Nhận biết 
+được các công 
+nghệ số  đơn 
+giản, phù hợp 
+để nâng cao 
+năng lực cho 
+bản thân và 
+tham gia vào 
+xã hội với tư 
+cách là một 
+công dân. 
+a- Xác định 
+được các dịch 
+vụ số đơn giản 
+để có thể tham 
+gia vào xã hội.  
+b- Nhận biết 
+được các công 
+nghệ số đơn 
+giản, phù hợp 
+để nâng cao 
+năng lực cho 
+bản thân và 
+tham gia vào xã 
+hội với tư cách 
+là một công 
+dân. 
+a-Lựa ch ọn 
+được các d ịch 
+vụ số được xác 
+định rõ ràng và 
+phổ biến đ ể 
+tham gia vào 
+xã hội. 
+b-Xác đ ịnh 
+được các công 
+nghệ số rõ 
+ràng và thích 
+hợp để tự mình 
+trang b ị và 
+tham gia vào 
+xã hội như một 
+công dân. 
+a-Lựa ch ọn 
+được các d ịch 
+vụ số để tham 
+gia vào xã hội. 
+b-Thảo luận về 
+các công ngh ệ 
+số phù h ợp đ ể 
+nâng cao năng 
+lực c ủa b ản 
+thân và tham 
+gia vào xã h ội 
+với tư cách là 
+một công. 
+a-Đề xuất được 
+các d ịch v ụ số 
+khác nhau đ ể 
+tham gia vào xã 
+hội. 
+b-Sử dụng 
+được các công 
+nghệ số thích 
+hợp để tự mình 
+trang b ị và 
+tham gia vào xã 
+hội như m ột 
+công dân. 
+ 
+2. Giao tiếp và Hợp tác  
+2.4. Hợp tác thông qua công nghệ số  
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+--- Page 66 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+62 
+a-Chọn được 
+những công cụ 
+và công nghệ 
+số đơn giản 
+cho các quá 
+trình cộng tác. 
+a-Chọn được 
+những công cụ 
+và công nghệ 
+số đơn giản 
+cho các quá 
+trình cộng tác. 
+a-Lựa chọn 
+được các công 
+cụ và công 
+nghệ số được 
+xác định rõ 
+ràng và thường 
+xuyên cho các 
+quá trình hợp 
+tác. 
+a-Lựa chọn 
+được các công 
+cụ và công 
+nghệ số cho 
+các quá trình 
+hợp tác. 
+a-Đề xuất được 
+các công cụ và 
+công ngh ệ số 
+khác nhau cho 
+các quá trình 
+hợp tác. 
+ 
+2. Giao tiếp và Hợp tác  
+2.5. Quy tắc ứng xử trên mạng 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Phân biệt 
+được các 
+chuẩn mực 
+hành vi đơn 
+giản và biết 
+cách sử dụng 
+công nghệ số 
+và tương tác 
+trong môi 
+trường số.  
+b- Chọn được 
+các phương 
+thức và chiến 
+lược giao tiếp 
+đơn giản phù 
+hợp trong môi 
+trường số. 
+c-  Phân biệt 
+các khía cạnh 
+đơn giản của 
+a- Phân biệt 
+được các chuẩn 
+mực hành vi 
+đơn giản và bí 
+quyết sử dụng 
+công nghệ số  
+và tương tác 
+trong môi 
+trường số.  
+b- Chọn được 
+các phương 
+thức và chiến 
+lược giao tiếp 
+đơn giản phù 
+hợp tron g môi 
+trường số. 
+c- Phân biệt 
+các khía cạnh 
+đơn giản của 
+sự đa dạng về 
+a-Làm rõ đư ợc 
+các chuẩn mực 
+hành vi thường 
+xuyên và đư ợc 
+xác đ ịnh rõ 
+ràng cũng như 
+bí quyết  khi sử 
+dụng công 
+nghệ số và 
+tương tác trong 
+môi trường số. 
+b-Thể hiện 
+được các chiến 
+lược giao ti ếp 
+thường xuyên 
+và xác đ ịnh rõ 
+ràng phương 
+thức giao ti ếp 
+phù h ợp trong 
+môi trường số. 
+a-Thảo luận về 
+các chuẩn mực 
+hành vi và cách 
+sử dụng công 
+nghệ số và 
+tương tác trong 
+môi trường số. 
+b-Thảo lu ận 
+các chi ến lư ợc 
+giao ti ếp phù 
+hợp trong môi 
+trường số. 
+c-Thảo lu ận 
+các khía c ạnh 
+đa dạng về văn 
+hóa và th ế hệ 
+cần xem xét 
+trong mô i 
+trường số. 
+a-Áp dụng được 
+các chu ẩn m ực 
+hành vi và bí 
+quyết khác 
+nhau khi s ử 
+dụng công nghệ 
+số và tương tác 
+trong môi 
+trường số. 
+b-Áp d ụng 
+được các chi ến 
+lược giao ti ếp 
+khác nhau trong 
+môi trư ờng s ố 
+một cách phù 
+hợp. 
+c-Áp dụng được 
+các khía c ạnh 
+đa d ạng về văn 
+hóa và th ế hệ 
+--- Page 67 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+63 
+sự đa dạng về 
+văn hóa và thế 
+hệ cần  được 
+tính đến trong 
+môi trường số. 
+văn hóa và thế 
+hệ cần  được 
+tính đến trong 
+môi trường số. 
+c-Mô t ả các 
+khía c ạnh đa 
+dạng v ề văn 
+hóa và th ế hệ 
+được xác đ ịnh 
+rõ ràng và 
+thông thư ờng 
+cần xem xét 
+trong môi 
+trường số. 
+khác nhau đ ể 
+xem xét trong 
+môi trường số. 
+ 
+2. Giao tiếp và Hợp tác  
+2.6. Quản lý danh tính số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-
+L12 (NC1) 
+a-  Xác định 
+được danh tính 
+số. 
+b-  Mô tả được 
+những cách 
+đơn giản  để 
+bảo vệ danh 
+tiếng trực 
+tuyến của bản 
+thân. 
+c-  Nhận biết 
+được dữ liệu 
+đơn giản do 
+mình tạo ra 
+thông qua các 
+công cụ, môi 
+trường hoặc 
+dịch vụ số. 
+a- Xác định 
+được danh tính 
+số. 
+b- Mô tả được 
+những cách 
+đơn giản để 
+bảo vệ danh 
+tiếng trực 
+tuyến của bản 
+thân. 
+c-  Nhận biết 
+được dữ liệu 
+đơn giản do 
+mình tạo ra 
+thông qua các 
+công cụ, môi 
+trường hoặc 
+dịch vụ số. 
+a-Phân bi ệt đư ợc 
+một lo ạt các danh 
+tính s ố thông 
+thường và đư ợc 
+xác định rõ ràng. 
+b-Giải thích đư ợc 
+những cách đư ợc 
+xác định rõ ràng và 
+thường xuyên  để 
+bảo v ệ danh ti ếng 
+trực tuyến của bản 
+thân. 
+c-Mô t ả dữ liệu 
+được xác đ ịnh rõ 
+ràng mà b ạn 
+thường xuyên thu 
+được thông qua 
+các công c ụ, môi 
+trường ho ặc d ịch 
+vụ số. 
+a- Hiển th ị 
+được nhi ều 
+danh tính số cụ 
+thể, 
+b-Thảo lu ận 
+những cách c ụ 
+thể để bảo v ệ 
+danh tiếng trực 
+tuyến c ủa b ản 
+thân. 
+c-Thao tác d ữ 
+liệu cá nhân 
+tạo ra thông 
+qua các công 
+cụ, môi trường 
+hoặc d ịch v ụ 
+số. 
+a-Sử dụng 
+được nhi ều 
+danh tính s ố 
+khác nhau. 
+b-Áp d ụng 
+được các 
+cách khác 
+nhau để bảo 
+vệ danh tính 
+trực tuy ến 
+của b ản 
+thân. 
+c-Sử dụng 
+được dữ liệu 
+tạo ra thông 
+qua công cụ, 
+môi trư ờng 
+và m ột s ố 
+dịch vụ số. 
+--- Page 68 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+64 
+3. Sáng tạo nội dung số  
+3.1 Phát triển nội dung số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Xác định 
+được các cách 
+tạo và chỉnh 
+sửa nội dung 
+đơn giản ở các 
+định dạng đơn 
+giản, 
+b- Chọn được 
+cách thể hiện 
+bản thân thông 
+qua việc tạo ra 
+các nội dung 
+số đơn giản. 
+a- Xác định 
+được các cách 
+tạo và chỉnh 
+sửa nội dung 
+đơn giản ở các 
+định dạng đơn 
+giản, 
+b- Chọn được 
+cách thể hiện 
+bản thân thông 
+qua việc tạo ra 
+các nội dung số 
+đơn giản. 
+a-Chỉ ra đư ợc 
+cách t ạo và 
+chỉnh s ửa n ội 
+dung có khái 
+niệm cụ thể và 
+mang tính ph ổ 
+thông b ằng 
+những đ ịnh 
+dạng rõ ràng, 
+phổ biến, 
+b-Thể hiện 
+được b ản thân 
+thông qua vi ệc 
+tạo ra các nội 
+dung số thông 
+thường và 
+được xác đ ịnh 
+rõ ràng. 
+a-Chỉ ra đư ợc 
+cách t ạo và 
+chỉnh s ửa n ội 
+dung ở các 
+định dạng khác 
+nhau, 
+b-Thể hiện 
+được b ản thân 
+thông qua vi ệc 
+tạo ra các nội 
+dung số. 
+a-Áp dụng được 
+các cách t ạo và 
+chỉnh s ửa n ội 
+dung ở các định 
+dạng khác nhau, 
+b-Chỉ ra đ ược 
+những cách th ể 
+hiện b ản thân 
+thông qua vi ệc 
+tạo ra các nội 
+dung số. 
+ 
+ 
+3. Sáng tạo nội dung số  
+3.2. Tích hợp và tạo lập lại nội dung số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Chọn được 
+các cách sửa 
+đổi, tinh 
+chỉnh, cải 
+thiện và tích 
+hợp các mục 
+đơn giản có 
+a- Chọn được 
+các cách sửa 
+đổi, tinh chỉnh, 
+cải thiện và tích 
+hợp các mục 
+đơn giản có nội 
+dung và thông 
+a-Giải thích 
+được các cách 
+sửa đổi, tinh 
+chỉnh, cải 
+thiện và tích 
+hợp các mục 
+nội dung và 
+a-Thảo luận 
+các cách sửa 
+đổi, tinh chỉnh, 
+cải thiện và 
+tích hợp nội 
+dung và thông 
+tin mới để tạo 
+a-Làm việc với 
+các mục nội 
+dung và thông 
+tin mới khác 
+nhau, sửa đổi, 
+tinh chỉnh, cải 
+thiện và tích 
+--- Page 69 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+65 
+nội dung và 
+thông tin mới 
+để tạo ra 
+những nội 
+dung và thông 
+tin mới và độc 
+đáo. 
+tin mới để tạo ra 
+những nội dung 
+và thông tin mới 
+và độc đáo. 
+thông tin mới 
+được xác định 
+rõ ràng để tạo 
+ra những nội 
+dung và thông 
+tin mới và độc 
+đáo. 
+ra những nội 
+dung và thông 
+tin mới và độc 
+đáo. 
+hợp chúng để 
+tạo ra những 
+mục mới và độc 
+đáo. 
+ 
+3. Sáng tạo nội dung số  
+3.3. Thực thi bản quyền và giấy phép 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a-Xác định 
+được các quy 
+tắc đơn giản về 
+bản quyền và 
+giấy phép áp 
+dụng cho dữ 
+liệu, thông tin 
+và nội dung số. 
+a-Xác định 
+được các quy 
+tắc đơn giản về 
+bản quyền và 
+giấy phép áp 
+dụng cho dữ 
+liệu, thông tin 
+và nội dung số. 
+a-Chỉ ra được 
+các quy tắc 
+thông thường 
+và được xác 
+định rõ ràng về 
+bản quyền và 
+giấy phép áp 
+dụng cho dữ 
+liệu, thông tin  
+và nội dung số. 
+a-Thảo luận 
+các quy tắc về 
+bản quyền và 
+giấy phép áp 
+dụng cho thông 
+tin và nội dung 
+số. 
+a-Áp dụng 
+được các quy 
+định khác nhau 
+về bản quyền 
+và giấy phép 
+cho dữ liệu, 
+thông tin và nội 
+dung số. 
+ 
+3. Sáng tạo nội dung số  
+3.4. Lập trình 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a-Liệt kê được 
+các hướng dẫn 
+đơn giản để hệ 
+thống máy tính 
+giải quyết một 
+vấn đề đơn 
+a-Liệt kê được 
+các hướng dẫn 
+đơn giản để hệ 
+thống máy tính 
+giải quyết một 
+vấn đề đơn giản 
+a-Liệt kê được 
+các hướng dẫn 
+thông thường 
+và được xác 
+định rõ ràng 
+cho một hệ 
+a-Liệt kê được 
+các hướng dẫn 
+cho một hệ 
+thống máy tính 
+để giải quyết 
+một vấn đề nhất 
+a-Tự thao tác 
+được bằng các 
+hướng dẫn 
+dành cho hệ 
+thống máy tính 
+để giải quyết 
+--- Page 70 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+66 
+giản hoặc thực 
+hiện một 
+nhiệm vụ đơn 
+giản. 
+hoặc thực hiện 
+một nhiệm vụ 
+đơn giản. 
+thống máy tính 
+để giải quyết 
+các vấn đề 
+thường ngà y 
+hoặc thực hiện 
+các tác vụ 
+thường ngày. 
+định hoặc thực 
+hiện một nhiệm 
+vụ cụ thể. 
+một vấn đề  
+khác hoặc thực 
+hiện các nhiệm 
+vụ khác nhau. 
+ 
+4. An toàn  
+4.1. Bảo vệ thiết bị 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Nhận biết 
+được cách 
+bảo vệ thiết 
+bị và nội 
+dung số một 
+cách đơn 
+giản. 
+b- Phân biệt 
+được rủi ro 
+và mối đe 
+dọa đơn giản 
+trong môi 
+trường số. 
+c- Chọn lựa 
+được các 
+biện pháp an 
+toàn và bảo 
+mật đơn 
+giản. 
+d- Nhận biết 
+được những 
+cách thức 
+đơn giản để 
+a- Nhận biết 
+được cách bảo 
+vệ thiết bị và 
+nội dung số một 
+cách đơn giản. 
+b- Phân biệt 
+được rủi ro và 
+mối đe dọa đơn 
+giản trong môi 
+trường số. 
+c- Tuân theo 
+được các biện 
+pháp an toàn và 
+bảo mật đơn 
+giản. 
+d- Nhận biết 
+được những 
+cách thức đơn 
+giản để quan 
+tâm đến mức độ 
+tin cậy và 
+quyền riêng tư. 
+a-Chỉ ra đư ợc 
+những cá ch 
+thức cơ b ản và 
+phổ biến để bảo 
+vệ thiết b ị và 
+nội dung số. 
+b-Phân bi ệt 
+được những rủi 
+ro và m ối đe 
+dọa cơ b ản và 
+phổ biến trong 
+môi trường số. 
+c-Chọn l ựa 
+được các bi ện 
+pháp an toàn và 
+bảo mật rõ ràng 
+và thư ờng 
+xuyên. 
+d-Chỉ ra đư ợc 
+những cách 
+thức cơ b ản và 
+phổ biến đ ể 
+quan tâm đ ến 
+a-Thiết lập được 
+những cách thức 
+bảo vệ thiết bị và 
+nội dung số. 
+b-Phân bi ệt 
+được r ủi ro và 
+mối đe dọa trong 
+môi trường số. 
+c-Chọn lựa được 
+các biện pháp an 
+toàn và bảo mật. 
+d-Giải thích 
+được c ác cách 
+thức đ ể quan 
+tâm đến mức độ 
+tin cậy và quyền 
+riêng tư. 
+a-Áp d ụng 
+được các cách 
+khác nhau đ ể 
+bảo vệ thiết bị 
+và nội dung số. 
+b-Nhận th ức 
+được s ự đa 
+dạng c ủa các 
+rủi ro và đe 
+dọa trong môi 
+trường số. 
+c-Áp d ụng 
+được các bi ện 
+pháp an toàn 
+và bảo mật. 
+d-Sử dụng 
+được các cách 
+thức khác nhau 
+để quan tâm 
+đến mức độ tin 
+cậy và quy ền 
+riêng tư. 
+--- Page 71 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+67 
+quan tâm đến 
+mức độ tin 
+cậy và quyền 
+riêng tư. 
+mức đ ộ tin c ậy 
+và quy ền riêng 
+tư. 
+ 
+4. An toàn  
+4.2 Bảo vệ dữ liệu cá nhân và quyền riêng tư 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Lựa chọn 
+được những 
+cách thức 
+đơn giản để 
+bảo vệ dữ 
+liệu cá nhân 
+và quyền 
+riêng tư 
+trong môi 
+trường số. 
+b- Nhận biết 
+được các 
+cách sử dụng 
+và chia sẻ 
+thông tin 
+định danh cá 
+nhân một 
+cách an toàn, 
+có khả năng 
+bảo vệ bản 
+thân và 
+người khác. 
+c- Nhận diện 
+được các 
+tuyên bố cơ 
+bản trong 
+a- Lựa chọn 
+được những 
+cách thức đơn 
+giản để bảo vệ 
+dữ liệu cá nhân 
+và quyền riêng 
+tư trong môi 
+trường số. 
+b- Nhận biết 
+được các cách 
+sử dụng và chia 
+sẻ thông tin 
+định danh cá 
+nhân một cách 
+an toàn, có khả 
+năng bảo vệ 
+bản thân và 
+người khác. 
+c- Nhận diện 
+được các tuyên 
+bố cơ bản trong 
+chính sách 
+quyền riêng tư 
+về cách sử dụng 
+dữ liệu cá nhân 
+a. Gi ải thích 
+được các cách 
+thức cơ b ản và 
+phổ biến để bảo 
+vệ dữ liệu cá 
+nhân và quy ền 
+riêng tư trong 
+môi trường số. 
+b-Giải thích 
+được các cách 
+thức cơ b ản và 
+phổ biến đ ể sử 
+dụng và chia s ẻ 
+thông tin đ ịnh 
+danh cá nhân 
+một cách an 
+toàn. 
+c-Chỉ ra đư ợc 
+các tuyên bố cơ 
+bản và phổ biến 
+trong chính 
+sách quy ền 
+riêng tư về cách 
+sử dụng dữ liệu 
+cá nhân trong 
+các dịch vụ số. 
+a-Thảo lu ận v ề 
+cách b ảo v ệ dữ 
+liệu cá nhân và 
+quyền riêng tư 
+trong môi 
+trường số. 
+b-Thảo lu ận v ề 
+cách sử dụng và 
+chia sẻ thông tin 
+định danh cá 
+nhân m ột cách 
+an toàn. 
+c-Chỉ ra đư ợc 
+các tuyên b ố 
+trong chính sách 
+quyền riêng tư 
+về cách sử dụng 
+dữ liệu cá nhân 
+trong các d ịch 
+vụ số. 
+a-Áp d ụng 
+được các cách 
+thức khác nhau 
+để bảo v ệ dữ 
+liệu cá nhân và 
+quyền riêng tư 
+trong môi 
+trường số. 
+b-Áp d ụng 
+được các cách 
+thức đặc thù để 
+chia sẻ dữ liệu 
+cá nhân m ột 
+cách an toàn. 
+c-Giải th ích 
+được các tuyên 
+bố trong chính 
+sách quy ền 
+riêng tư v ề 
+cách s ử dụng 
+dữ liệu cá nhân 
+trong các d ịch 
+vụ số. 
+--- Page 72 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+68 
+chính sách 
+quyền riêng 
+tư về cách sử 
+dụng dữ liệu 
+cá nhân trong 
+dịch vụ số. 
+trong dịch vụ 
+số. 
+ 
+4. An toàn  
+4.3 Bảo vệ sức khỏe và an sinh số 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Phân biệt 
+được các 
+cách thức 
+đơn giản để 
+tránh rủi ro 
+và đe dọa đến 
+sức khỏe thể 
+chất và tinh 
+thần khi sử 
+dụng công 
+nghệ số. 
+b- Lựa chọn 
+được những 
+cách thức 
+đơn giản để 
+bảo vệ bản 
+thân khỏi 
+nguy cơ 
+trong môi 
+trường số. 
+c- Nhận biết 
+được những 
+công nghệ số 
+đơn giản cho 
+a- Phân biệt 
+được các cách 
+thức đơn giản 
+để tránh rủi ro 
+và đe dọa đến 
+sức khỏe thể 
+chất và tinh 
+thần khi sử 
+dụng công nghệ 
+số. 
+b- Lựa chọn 
+được những 
+cách thức đơn 
+giản để bảo vệ 
+bản thân khỏi 
+nguy cơ trong 
+môi trường số. 
+c- Nhận biết 
+được những 
+công nghệ số  
+đơn giản cho 
+tăng cường 
+thịnh vượng xã 
+hội và sự hòa 
+a-Giải thích 
+được nh ững 
+cách th ức cơ 
+bản và phổ biến 
+để tránh r ủi ro 
+và đe d ọa đ ối 
+với s ức kh ỏe 
+thể chất và tinh 
+thần khi s ử 
+dụng công nghệ 
+số. 
+b-Lựa ch ọn 
+được nh ững 
+cách th ức cơ 
+bản và phổ biến 
+để bảo v ệ bản 
+thân kh ỏi nguy 
+cơ trong môi 
+trường số. 
+c-Chỉ ra đư ợc 
+những công 
+nghệ số cơ bản 
+và ph ổ biến 
+giúp tăng 
+a-Giải thích 
+được nh ững 
+cách th ức đ ể 
+tránh nh ững s ự 
+đe dọa liên quan 
+đến việc sử dụng 
+công nghệ số đối 
+với sức khỏe thể 
+chất và tinh 
+thần. 
+b-Lựa ch ọn 
+được cách th ức 
+bảo vệ bản thân 
+và ngư ời khác 
+khỏi nguy cơ 
+trong môi 
+trường số. 
+c- Thảo lu ận v ề 
+những côn g 
+nghệ số giúp 
+tăng cư ờng 
+thịnh vư ợng xã 
+hội và s ự hòa 
+a-Trình bày 
+được các cách 
+thức khác nhau 
+để tránh rủi ro 
+và đe d ọa đ ến 
+sức kh ỏe th ể 
+chất và tinh 
+thần khi s ử 
+dụng công 
+nghệ số. 
+b-Áp d ụng 
+được các cách 
+thức khác nhau 
+để bảo v ệ bản 
+thân và ngư ời 
+khác kh ỏi 
+nguy cơ trong 
+môi trường số. 
+c-Trình bày 
+được các công 
+nghệ số khác 
+nhau giúp tăng 
+cường th ịnh 
+vượng xã h ội 
+--- Page 73 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+69 
+tăng cường 
+thịnh vượng 
+xã hội và sự 
+hòa hợp 
+trong xã hội. 
+hợp trong xã 
+hội. 
+cường th ịnh 
+vượng xã hội và 
+sự hòa h ợp 
+trong xã hội. 
+hợp trong xã 
+hội. 
+và s ự hòa h ợp 
+trong xã hội. 
+ 
+4. An toàn 
+4.4 Bảo vệ môi trường 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a.Nhận biết 
+được tác động 
+cơ bản của 
+công nghệ số 
+và việc sử 
+dụng công 
+nghệ số đối 
+với môi 
+trường. 
+a. Nhận biết 
+được tác động 
+cơ bản của 
+công nghệ số 
+và việc sử dụng 
+công nghệ số 
+đối với môi 
+trường. 
+a. Chỉ ra được 
+những tác động 
+cơ bản và phổ 
+biến của công 
+nghệ số và việc 
+sử dụng công 
+nghệ số đối với 
+môi trường. 
+a.Thảo luận về 
+các cách thức 
+bảo vệ môi 
+trường khỏi tác 
+động của công 
+nghệ số và việc 
+sử dụng công 
+nghệ số. 
+a.Trình bày 
+được các cách 
+thức khác nhau 
+để bảo vệ môi 
+trường khỏi tác 
+động của công 
+nghệ số và việc 
+sử dụng công 
+nghệ số. 
+ 
+5. Giải quyết vấn đề 
+5.1. Giải quyết các vấn đề kỹ thuật 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a. Xác định 
+được các vấn 
+đề kỹ thuật 
+đơn giản khi 
+vận hành thiết 
+bị và  sử dụng 
+môi trường số. 
+b. Xác định 
+được các giải 
+pháp đơn giản 
+a- Xác định 
+được các vấn 
+đề kỹ thuật đơn 
+giản khi vận 
+hành thiết bị và 
+sử dụng môi 
+trường số. 
+b- Xác định 
+được các giải 
+pháp đơn giản 
+a-Chỉ ra đư ợc 
+các v ấn đ ề kỹ 
+thuật thông 
+thường và được 
+xác đ ịnh rõ 
+ràng khi v ận 
+hành thiết bị và 
+sử dụng môi 
+trường số. 
+b-Chọn đư ợc 
+các gi ải pháp 
+a-Phân bi ệt 
+được các v ấn 
+đề kỹ thuật khi 
+vận hành thi ết 
+bị và s ử dụng 
+môi trường số. 
+b-Chọn đư ợc 
+giải pháp cho 
+chúng. 
+a-Đánh giá 
+được các v ấn 
+đề kỹ thuật khi 
+sử dụng môi 
+trường s ố và 
+vận hành các 
+thiết bị số. 
+b-Áp d ụng 
+được các gi ải 
+pháp khác nhau 
+cho chúng. 
+--- Page 74 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+70 
+để giải quyết 
+chúng. 
+để giải quyết 
+chúng. 
+được xác đ ịnh 
+rõ ràng và 
+thông thư ờng 
+cho chúng. 
+ 
+5. Giải quyết vấn đề 
+5.2 Xác định nhu cầu và giải pháp công nghệ 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Xác định 
+được nhu cầu 
+cá nhân. 
+b- Nhận ra 
+được các công 
+cụ số đơn giản 
+và các giải 
+pháp công 
+nghệ có thể có 
+để giải quyết 
+những nhu cầu 
+đó. 
+c- Chọn được 
+những cách 
+đơn giản để 
+điều chỉnh và 
+tùy chỉnh  môi 
+trường số theo 
+nhu cầu cá 
+nhân. 
+a- Xác định 
+được nhu cầu 
+cá nhân. 
+b- Nhận ra 
+được các công 
+cụ số đơn giản 
+và các giải 
+pháp công 
+nghệ có thể có 
+để giải quyết 
+những nhu cầu 
+đó. 
+c- Chọn được 
+những cách 
+đơn giản để 
+điều chỉnh và 
+tùy chỉnh  môi 
+trường số theo 
+nhu cầu cá 
+nhân. 
+a-Chỉ ra đư ợc 
+những nhu c ầu 
+được xác đ ịnh 
+rõ ràng và 
+thường xuyên, 
+và 
+b-Chọn đư ợc 
+các công c ụ số 
+thông thư ờng 
+và đư ợc xác 
+định rõ ràng 
+cũng như các 
+giải pháp cô ng 
+nghệ có thể có 
+để giải quy ết 
+những nhu c ầu 
+đó. 
+c-Chọn đư ợc 
+những cách 
+thông thư ờng 
+và đư ợc xác 
+định rõ ràng để 
+điều ch ỉnh và 
+tùy ch ỉnh môi 
+trường s ố theo 
+a-Giải thích 
+nhu c ầu cá 
+nhân, và 
+b-Lựa ch ọn 
+được các công 
+cụ số và các 
+giải pháp c ông 
+nghệ có thể có 
+để giải quy ết 
+những nhu c ầu 
+đó. 
+c-Chọn đư ợc 
+cách đi ều 
+chỉnh và tùy 
+chỉnh môi 
+trường s ố theo 
+nhu c ầu cá 
+nhân. 
+a-Đánh giá 
+được nhu cầu cá 
+nhân, 
+b-Áp d ụng 
+được các công 
+cụ số khác nhau 
+và các giải pháp 
+công ngh ệ có 
+thể có đ ể giải 
+quyết nh ững 
+nhu cầu đó. 
+c-Sử dụng được 
+các cách khác 
+nhau đ ể điều 
+chỉnh và tùy 
+chỉnh môi 
+trường s ố theo 
+nhu c ầu cá 
+nhân. 
+--- Page 75 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+71 
+nhu c ầu cá 
+nhân. 
+5. Giải quyết vấn đề 
+5.3 Sử dụng sáng tạo công nghệ số  
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Xác định 
+được các 
+công cụ và 
+công nghệ số 
+đơn giản có 
+thể được sử 
+dụng để tạo ra 
+kiến thức và 
+đổi mới quy 
+trình cũng 
+như sản 
+phẩm. 
+b- Thể hiện 
+được sự quan 
+tâm của cá 
+nhân và tập 
+thể đến quá 
+trình xử lý 
+nhận thức đơn 
+giản để hiểu 
+và giải quyết 
+các vấn đề 
+khái niệm đơn 
+giản và các 
+tình huống có 
+vấn đề trong 
+môi trường 
+số. 
+a- Xác định 
+được các công 
+cụ và công 
+nghệ số đơn 
+giản có thể 
+được sử dụng 
+để tạo ra kiến 
+thức và đổi 
+mới quy trình 
+cũng như sản 
+phẩm. 
+b-  Tuân theo 
+quy trình nhận 
+thức đơn giản 
+của cá nhân và 
+tập thể để hiểu 
+và giải quyết 
+các vấn đề 
+khái niệm đơn 
+giản và các 
+tình huống có 
+vấn đề trong 
+môi trường số. 
+ a-Chọn đư ợc 
+các công cụ và 
+công ngh ệ số 
+có thể được sử 
+dụng để tạo ra 
+kiến th ức rõ 
+ràng cũng như 
+các quy trình 
+và s ản ph ẩm 
+đổi m ới đư ợc 
+xác đ ịnh rõ 
+ràng. 
+b- Gắn k ết 
+được cá nhân 
+và tập thể vào 
+một s ố quá 
+trình x ử lý 
+nhận th ức đ ể 
+hiểu và gi ải 
+quyết các v ấn 
+đề mang tính 
+khái ni ệm và 
+tình hu ống có 
+vấn đ ề thông 
+thường và 
+được xác đ ịnh 
+rõ ràng trong 
+môi trường số. 
+a-Phân biệt được 
+các công c ụ và 
+công nghệ số có 
+thể được s ử 
+dụng đ ể tạo ra 
+kiến thức và đ ổi 
+mới quy trình và 
+sản phẩm. 
+b- Gắn kết được 
+cá nhân và t ập 
+thể vào quá trình 
+xử lý nh ận th ức 
+để hiểu và gi ải 
+quyết các vấn đề 
+khái ni ệm và 
+tình hu ống có 
+vấn đề trong môi 
+trường số. 
+a-Áp dụng được 
+các công c ụ và 
+công ngh ệ số 
+khác nhau để tạo 
+ra ki ến th ức 
+cũng như các 
+quy trình và s ản 
+phẩm đổi mới. 
+b- Áp d ụng x ử 
+lý nhận thức của 
+cá nhân và t ập 
+thể để giải quyết 
+các v ấn đ ề khái 
+niệm và tình 
+huống có vấn đề 
+khác nhau trong 
+môi trường số. 
+ 
+ 
+ 
+--- Page 76 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+72 
+5. Giải quyết vấn đề 
+5.4 Xác định các vấn đề cần cải thiện về NLS 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Nhận ra 
+được NLS 
+của tôi cần 
+được cải thiện 
+hoặc cập nhật 
+ở đâu.  
+b- Xác định 
+được nơi để 
+tìm kiếm cơ 
+hội phát triển 
+bản thân và 
+cập nhật sự 
+phát triển 
+công nghệ số. 
+a- Nhận ra 
+được NLS của 
+tôi cần được 
+cải thiện hoặc 
+cập nhật ở 
+đâu.  
+b- Xác định 
+được nơi để 
+tìm kiếm cơ 
+hội phát triển 
+bản thân và 
+cập nhật sự 
+phát triển công 
+nghệ số. 
+a-Giải thích 
+được NLS của 
+bản thân c ần 
+được cải thiện 
+hoặc c ập nh ật 
+ở đâu, 
+b-Chỉ ra đư ợc 
+nơi đ ể tìm 
+kiếm các cơ 
+hội đư ợc xác 
+định rõ ràng 
+để phát tri ển 
+bản thân và 
+cập nh ật s ự 
+phát triển công 
+nghệ số. 
+a-Thảo luận về 
+lĩnh v ực NLS 
+của b ản thân 
+cần đư ợc c ải 
+thiện hoặc cập 
+nhật, 
+b-Chỉ ra đư ợc 
+cách h ỗ trợ 
+người khác 
+phát triển NLS 
+của họ. 
+c-Chỉ ra đư ợc 
+nơi để tìm kiếm 
+cơ hội phát triển 
+bản thân và cập 
+nhật s ự phát 
+triển công nghệ 
+số. 
+a-Chứng minh 
+được NLS c ủa tôi 
+cần được cải thiện 
+hoặc c ập nh ật ở 
+đâu, 
+b-Minh h ọa đư ợc 
+những cách khác 
+nhau đ ể hỗ trợ 
+người khác phá t 
+triển NLS của họ. 
+c-Đề xuất đư ợc 
+các cơ h ội khác 
+nhau để phát triển 
+bản thân và c ập 
+nhật s ự phát tri ển 
+công nghệ số. 
+ 
+6. Ứng dụng trí tuệ nhân tạo 
+6.1 Hiểu biết về trí tuệ nhân tạo 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+ a- Xác định 
+được các khái 
+niệm cơ bản 
+của AI. 
+b- Nhớ lại 
+được các ứng 
+dụng đơn giản 
+của AI trong 
+a- Giải thích 
+được nguyên 
+tắc hoạt động 
+cơ bản của AI. 
+b- Diễn giải 
+được các thuật 
+ngữ và khái 
+a-Áp d ụng 
+được các 
+nguyên t ắc cơ 
+bản của AI đ ể 
+giải quyết vấn 
+đề đơn giản. 
+b-Thực hi ện 
+được các thao 
+a- Phân tích được 
+cách AI hoạt động 
+trong các ứng 
+dụng cụ thể. 
+b- So sánh được 
+các hệ thống AI 
+khác nhau và cách 
+--- Page 77 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+73 
+cuộc sống 
+hàng ngày. 
+niệm liên quan 
+đến AI. 
+tác cơ bản trên 
+các công c ụ 
+AI. 
+ 
+chúng xử lý dữ 
+liệu. 
+  
+6. Ứng dụng trí tuệ nhân tạo 
+6.2 Sử dụng trí tuệ nhân tạo 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Nhận diện 
+được các 
+công cụ AI 
+đơn giản. 
+b- Thực hiện 
+được các thao 
+tác cơ bản với 
+các công cụ 
+AI. 
+c- Nhận thức 
+được cơ bản 
+về các vấn đề 
+đạo đức và 
+pháp lý liên 
+quan đến AI.  
+a- Áp dụng 
+được các công 
+cụ AI để giải 
+quyết vấn đề 
+đơn giản. 
+b- Tương tác 
+được với các 
+hệ thống AI cơ 
+bản. 
+c- Tuân thủ 
+các quy định 
+pháp luật cơ 
+bản khi sử 
+dụng AI. 
+a- Sử dụng 
+được các công 
+cụ AI trong 
+công việc và 
+học tập hàng 
+ngày. 
+b- Thực hành 
+được các kỹ 
+năng sử dụng 
+AI thông qua 
+các bài tập và 
+dự án nhỏ. 
+c- Xem xét các 
+khía cạnh đạo 
+đức khi sử dụng 
+AI, bảo đảm 
+không vi phạm 
+quyền riêng tư 
+và bảo mật dữ 
+liệu. 
+a- Tối ưu hóa 
+việc sử dụng 
+các công cụ AI 
+để đạt hiệu 
+quả cao hơn. 
+b- Quản lý 
+được việc 
+triển khai các 
+công cụ AI 
+trong các dự 
+án nhỏ. 
+c- Bảo vệ 
+được dữ liệu 
+cá nhân và 
+tuân thủ các 
+quy định pháp 
+luật về bảo 
+mật thông tin 
+khi sử dụng 
+AI. 
+a- Phát triển được 
+các ứng dụng A I 
+tùy chỉnh  để giải 
+quyết các vấn đề 
+cụ thể. 
+b- Điều chỉnh 
+được các hệ thống 
+AI để phù hợp với 
+nhu cầu cụ thể. 
+c- Đánh giá và 
+giảm thiểu được 
+các rủi ro đạo đức 
+và pháp lý liên 
+quan đến việc sử 
+dụng AI. 
+ 
+6. Ứng dụng trí tuệ nhân tạo 
+6.3 Đánh giá trí tuệ nhân tạo 
+L1-L2-L3 
+(CB1) 
+L4-L5  (CB2) L6-L7 (TC1)  L8-L9 (TC2) L10-L11-L12 
+(NC1) 
+a- Nhận diện 
+được một số 
+vật dụng/trò 
+a- Nhận diện 
+được các yếu 
+tố cơ bản của 
+a- Giải thích 
+được cách 
+thức hoạt động 
+a- Phân tích 
+được hiệu quả 
+của hệ thống 
+a- Đánh giá được 
+độ chính xác và tin 
+--- Page 78 ---
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước khi 
+ban hành chính thức 
+ 
+74 
+chơi thông 
+minh có sử 
+dụng AI 
+b- Nhớ được 
+rằng không 
+phải mọi 
+thông tin từ 
+máy móc đều 
+đúng 
+hệ thống AI 
+cần được đánh 
+giá. 
+b- Mô tả được 
+các chức năng 
+chính của hệ 
+thống AI. 
+của các hệ 
+thống AI đơn 
+giản. 
+b- Tóm tắt được 
+các đặc điểm và 
+ứng dụng của hệ 
+thống AI. 
+AI trong v iệc 
+giải quyết các 
+vấn đề cụ thể. 
+b- So sánh 
+được hiệu suất 
+của các hệ 
+thống AI khác 
+nhau. 
+cậy của các hệ 
+thống AI. 
+b- Xem xét được 
+các kết quả và đưa 
+ra nhận xét về hiệu 
+quả của hệ thống 
+AI. 
+--- Page 79 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+75 
+PHỤ LỤC 2: MỘT SỐ GỢI Ý CHO CÁC TÌNH HUỐNG SƯ PHẠM 
+Lĩnh vực năng lực 1: Thông tin và kiến thức dữ liệu  
+1.1 Duyệt, tìm kiếm, lọc dữ liệu, thông tin và nội dung số 
+Diễn đạt nhu cầu thông tin, tìm kiếm dữ liệu, thông tin và nội dung trong môi trường số, truy cập và điều hướng giữa các nội dung đó. Tạo và 
+cập nhật chiến lược tìm kiếm cá nhân. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Tổ chức trò chơi "Truy tìm kho báu" : Giao cho học sinh một bộ hình ảnh đơn giản (ví dụ: quả bóng, bông hoa) và khuyến 
+khích các em chọn từ khóa để tìm những hình ảnh tương tự (thông qua việc đọc cho giáo viên nghe để nhập liệu). 
+- Hình thành một yêu cầu để sử dụng trong công cụ tìm kiếm (bằng giọng nói hoặc do giáo viên nhập). 
+- Thử nghiệm với các từ khóa khác nhau để xem từ khóa nào mang lại kết quả tốt nhất. 
+- Tìm kiếm bằng hình ảnh: điều hướng qua kết quả của một truy vấn hình ảnh và chọn hình phù hợp theo nhu cầu. 
+- Tìm kiếm và truy cập các ứng dụng quen thuộc trên thiết bị (máy tính, máy tính bảng). 
+L4-L5 
+ 
+- Tổ chức trò chơi "Truy tìm kho báu" : Cung cấp một bộ từ đơn giản và yêu cầu các em tự nhập những từ đó để tìm hình ảnh 
+phù hợp (sử dụng công cụ tìm kiếm chung). 
+- Tập truy cập thường xuyên các trang báo, tạp chí trực tuyến dành cho thiếu nhi (ví dụ: Báo Thiếu niên Tiền phong và Nhi đồng 
+điện tử) và theo dõi các chủ đề cụ thể bằng các từ khóa. 
+L6-L7 
+ 
+- Tổ chức trò chơi "Truy tìm kho báu": giao cho học sinh một loạt nhiệm vụ tìm kiếm  cụ thể  để thực hiện (ví dụ: tìm hình ảnh 
+cờ của 3 nước ASEAN) bằng cách sử dụng công cụ tìm kiếm chung hoặc một trang web chuyên biệt. 
+- Làm quen với các nguồn tài nguyên trực tuyến thông dụng như Wikipedia. 
+- Thực hành tìm kiếm thông tin trên một trang web cụ thể bằng công cụ tìm kiếm nội bộ của trang đó. 
+- So sánh và xếp hạng kết quả thu được bằng các từ khóa khác nhau do giáo viên cung cấp. 
+L8-L9 
+ 
+- Tổ chức trò chơi "Truy tìm kho báu": Giao nhiệm vụ tìm kiếm phức tạp hơn (ví dụ: tìm ý nghĩa của Lá cờ đỏ sao vàng và ngày 
+Quốc khánh Việt Nam). 
+- Sử dụng web để tìm các thông tin khoa học phục vụ môn học (ví dụ: thông tin về Vịnh Hạ Long, Vườn quốc gia Cúc Phương). 
+--- Page 80 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+76 L10-L11-
+L12 
+ 
+- Tổ chức trò chơi "Truy tìm kho báu" : Giao nhiệm vụ tìm kiếm phức tạp, đòi hỏi sự so sánh (ví dụ: tìm 3 tỉnh có dân số đông 
+nhất Việt Nam; kiểm tra xem thứ hạng đó có giống với 10 năm và 20 năm trước không). 
+- Yêu cầu học sinh sử dụng các tùy chọn tìm kiếm nâng cao trong công cụ tìm kiếm (ví dụ: theo khoảng thời gian, ngôn ngữ, 
+quốc gia, ...). 
+ 
+Lĩnh vực năng lực 1: Thông tin và kiến thức dữ liệu 
+1.2 Đánh giá dữ liệu, thông tin và nội dung số 
+Phân tích, so sánh và đánh giá một cách phản biện độ tin cậy và độ xác thực của các nguồn dữ liệu, thông tin và nội dung số. Phân tích, diễn 
+giải và đánh giá một cách phản biện dữ liệu, thông tin và nội dung số. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Trong một hoạt động tìm kiếm, giới thiệu các nguồn thông tin khác nhau và yêu cầu học sinh chọn nguồn mà các em tin tưởng 
+nhất (ví dụ: tìm kiếm thông tin về động vật châu Phi: so sánh một trang web truyện tranh về "động vật", một trang web vườn 
+thú, và một trang web của tổ chức bảo vệ động vật . 
+L4-L5 
+ 
+- Trong khuôn khổ một nhu cầu tìm kiếm, yêu cầu học sinh suy nghĩ về các nguồn thông tin khác nhau (ví dụ: khi tìm kiếm hình 
+ảnh với từ khóa "Vua Hùng", xác định đâu là hình ảnh mang tính minh họa, tưởng tượng và đâu là hình ảnh di tích có thật). 
+- Cùng học sinh xuất bản một nội dung nào đó (ví dụ: đăng một bài viết lên blog của lớp) để cho các em nhận ra rằng bất kì ai 
+cũng  có thể đăng tải thông tin lên internet. Tạo th ông tin “giả” cùng các em (ví dụ: "Trường sắp cho nghỉ học thêm một tuần") 
+để thảo luận về cách kiểm chứng thông tin.  
+- Với sự hỗ trợ của giáo viên, thay đổi từ khóa tìm kiếm để có kết quả tốt hơn 
+L6-L7 
+ 
+- Tìm kiếm một chủ đề cụ thể, yêu cầu học sinh so sánh hai hoặc ba kết quả từ nhiều nguồn khác nhau (một trang của cơ quan 
+nhà nước, một bách khoa toàn thư mở như Wikipedia, một trang blog cá nhân....). 
+- Trong khuôn khổ nhu cầu tìm kiếm, hãy yêu cầu học sinh suy nghĩ  về các nguồn thông tin và chọn nguồn đáng tin cậy nhất (ví 
+dụ: nội dung được viết bởi nhiều loại người dùng khác nhau: người nghiệp dư, chuyên gia, trẻ em đăng bài tập lớp ...) .   
+- Xây dựng lại truy vấn bằng cách sửa đổi các từ khóa để có được kết quả tốt hơn. 
+L8-L9 
+ 
+- Trong khuôn khổ một nhu cầu tìm kiếm, yêu cầu học sinh so sánh cách trình bày về cùng một sự kiện hoặc dữ liệu (ví dụ: khởi 
+nghĩa Tây Sơn) giữa các nguồn khác nhau (một bài nghiên cứu trên tạp chí Lịch sử, một bài trên Wikipedia, một video diễn giải  
+trên YouTube...). 
+--- Page 81 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+77 
+- Hướng dẫn  học sinh tạo một khảo sát đơn giản bằng biểu mẫu trực tuyến (ví dụ: Google Forms)  và xuất kết quả ra bảng tính. 
+L10-L11-
+L12 
+ 
+- Trong khuôn khổ một nhu cầu tìm kiếm, yêu cầu học sinh so sánh cách trình bày cùng một sự kiện hoặc dữ liệu từ các nguồn 
+khác nhau, sau đó yêu cầu học sinh giải thích tại sao nguồn này lại đáng tin cậy hơn nguồn khác.. 
+- Hướng dẫn học sinh phân tích nguồn tin dựa trên các tiêu chí (độ tin cậy hoặc lỗi thời của nguồn, mức độ liên quan của thông 
+tin, ...). 
+- Yêu cầu học sinh tạo khảo sát, phân tích dữ liệu và tạo biểu đồ trực quan hóa dữ liệu trong bảng tính. 
+- Thực hiện các hoạt động với bảng tính (ví dụ: lập ngân sách tạm thời, theo dõi tốc độ phản ứng hóa học...). 
+- Phân tích tên miền của trang web để xác định  mối liên hệ với nội dung của trang web đó (ví dụ: gov, edu, com, eu…). 
+- Sử dụng các hệ thống thông tin địa lý (ví dụ: Google Maps, uMap) để nhập và trực quan hóa dữ liệu. 
+  
+Lĩnh vực năng lực 1: Thông tin và kiến thức dữ liệu 
+1.3 Quản lý dữ liệu, thông tin và nội dung số 
+Tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung trong môi trường số. Tổ chức và xử lý chúng trong một môi trường có cấu trúc.  
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Sử dụng giao diện đơn giản trên thiết bị cảm ứng (máy tính bảng), yêu cầu học sinh lưu bài làm của mình (ví dụ: một bức vẽ) 
+bằng cách nhấp vào biểu tượng thích hợp, sau đó hướng dẫn các em cách mở lại bài đã lưu đó 
+L4-L5 
+ 
+- Sử dụng giao diện đơn giản trên thiết bị cảm ứng, yêu cầu học sinh lưu và đặt tên cho bài làm của mình bằng một từ quen thuộc, 
+sau đó yêu cầu các em tìm và mở lại bài làm đã lưu đó. 
+L6-L7 
+ 
+- Sử dụng nhiều loại giao diện và thiết bị khác nhau, yêu cầu học sinh lưu và đặt tên cho bài làm của mình, lưu trữ vào đúng thư 
+mục/thư viện phù hợp đã được tạo sẵn và sau đó truy xuất lại (bằng cách duyệt thư mục tệp và/hoặc sử dụng công cụ tìm kiếm 
+của máy tính). 
+- Tìm kiếm, sử dụng và lưu các tài liệu do giáo viên cung cấp vào thư mục của lớp trên máy tính hoặc Google Drive. 
+L8-L9 
+ 
+- Sử dụng nhiều loại giao diện và thiết bị, yêu cầu học sinh lưu và đặt tên cho bài làm của mình, đồng thời di chuyển trong một 
+hệ thống tổ chức dữ liệu số hiện có (thư mục và thư mục con) để lưu trữ và truy xuất bài làm. 
+- Thực hành thao tác đó trên một dịch vụ lưu trữ đám mây (Google Drive, OneDrive...). 
+L10-L11-
+L12 
+- Sử dụng nhiều loại giao diện và thiết bị, yêu cầu học sinh  lưu và đặt tên cho bài làm của mình, tự tạo một cấu trúc thư mục và 
+thư mục con hợp lý để lưu trữ và quản lý các tệp bài làm của mình. 
+--- Page 82 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+78  - Thực hành thao tác đó trên một dịch vụ lưu trữ đám mây (Google Drive, OneDrive...). 
+- Tạo một thư mục hoặc tài liệu dùng chung (shared folder/document) để làm việc nhóm trực tuyến. 
+- Nén (zip) và giải nén (unzip) một thư mục để gửi đi hoặc tải về. 
+- Lưu hoặc xuất tệp dưới định dạng phù hợp, tùy thuộc vào tình huống và đối tượng sử dụng (ví dụ: xuất sang PDF để gửi đi, lưu 
+dưới dạng .PNG để giữ nền trong suốt, lưu trữ cục bộ hay từ xa tùy vào kích thước tệp và tốc độ mạng; định dạng âm thanh hoặc 
+video phù hợp để nghe trên mọi thiết bị, ...). 
+- Thiết lập các quy tắc (rules) để tự động lọc và sắp xếp email trong hòm thư. 
+ 
+   Lĩnh vực năng lực 2: Giao tiếp và cộng tác 
+2.1 Tương tác thông qua công nghệ số 
+Để diễn đạt nhu cầu thông tin, tìm kiếm dữ liệu, thông tin và nội dung trong môi trường số, truy cập và điều hướng giữa các thông tin đó. Tạo 
+và cập nhật các chiến lược tìm kiếm cá nhân. 
+ 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Nếu học sinh cần đặt câu hỏi cho một người cụ thể ngoài lớp học (cho một dự án hoặc thông tin thực tế liên quan đến cuộc 
+sống hàng ngày), hãy để các em suy nghĩ về cách tốt nhất để nhận được câu trả lời của mình (ví dụ: đọc e -mail, cuộc gọi video 
+hoặc âm thanh...).  
+- Tham gia vào một hoạt động giao tiếp nhóm, ví dụ như blog của lớp (chọn hình ảnh, ghi âm lời bình  luận …). 
+- Đọc lời nhắn hoặc lời mời tham gia một sự kiện lớp học. 
+- Gửi tin nhắn thoại hoặc video cho ai đó. 
+- Hồ sơ học tập số. 
+- Giao tiếp qua tin nhắn tức thời hoặc hội nghị truyền hình với một lớp học khác trong trường. 
+L4-L5 
+ 
+- Nếu học sinh cần đặt câu hỏi cho một người cụ thể ngoài lớp học (cho một dự án hoặc thậm chí là thông tin thực tế liên quan 
+đến cuộc sống hàng ngày), hãy yêu cầu các em suy nghĩ về cách tốt nhất để có được câu trả lời (ví dụ đọc cho giáo viên viết 
+email, gọi video, gọi thoại...). 
+- Viết một tin nhắn đơn giản và trả lời một tin nhắn đơn giản (trên nền tảng an toàn của trường). 
+- Tham gia kể chuyện bằng cách chọn hình ảnh và ghi âm lời kể của mình.. 
+- Giao tiếp qua tin nhắn tức thời hoặc hội nghị truyền hình với một lớp học khác trong trường 
+--- Page 83 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+79 
+L6-L7 
+ 
+- Khi cần một thông tin cụ thể từ một người bên ngoài lớp học (câu trả lời cho một câu hỏi, một bức ảnh...), hãy yêu cầu các em 
+lựa chọn cách tương tác phù hợp nhất tùy theo bản chất của thông tin đó và thực hiện việc tương tác với sự trợ giúp nếu cần. 
+- Viết và trả lời các tin nhắn đơn giản trên nền tảng an toàn do nhà trường cung cấp (ví dụ: Azota, OLM.vn...). 
+- Tham gia kể chuyện bằng cách chọn hình ảnh và ghi âm lời kể. 
+- Viết những thông điệp đơn giản và chọn hình ảnh minh họa để giáo viên đăng lên các kênh truyền thông của lớp/trường (dưới 
+tài khoản của lớp). Trả lời các bình luận theo cách tương tự. 
+- Lựa chọn cách hành xử khi truy cập vào nội dung không phù hợp hoặc phản cảm trong video clip. 
+- Cùng học sinh xây dựng quy ước sử dụng Internet và mạng xã hội một cách phù hợp trong lớp học (tuân thủ Quy tắc sử dụng 
+CNTT của nhà trường). 
+L8-L9 
+ 
+- Viết bài đăng cho blog của lớp bằng trình soạn thảo văn bản và chụp ảnh (sau khi được duyệt, giáo viên sẽ đăng nội dung).  
+- Viết và trả lời các bình luận (có sự kiểm duyệt của giáo viên). 
+- Sử dụng diễn đàn hoặc công cụ bình chọn trực tuyến (Google Forms, Mentimeter) để bầu ban cán sự lớp.. 
+- Tổ chức một buổi hội nghị truyền hình (video conference) với một chuyên gia hoặc một lớp học ở địa phương khác để trao đổi 
+về một chủ đề học tập 
+L10-L11-
+L12 
+ 
+- Viết bài đăng cho blog lớp bằng trình xử lý văn bản và chụp ảnh (sau khi được chấp thuận, giáo viên sẽ đăng nội dung).  
+- Viết và trả lời bình luận (dưới sự kiểm duyệt của giáo viên). 
+- Viết và gửi email bằng ngôn ngữ nước ngoài cho học sinh ở các trường khác. 
+- Sử dụng diễn đàn hoặc công cụ bình chọn trực tuyến (Google Forms, Mentimeter) để bầu ban cán sự lớp.. 
+- Tổ chức một buổi hội nghị truyền hình (video conference) với một chuyên gia hoặc một lớp học ở địa phương khác để trao đổi 
+về một chủ đề học tập 
+  
+   Lĩnh vực năng lực 2: Giao tiếp và cộng tác 
+2.2 Chia sẻ thông qua công nghệ số 
+Chia sẻ dữ liệu, thông tin và nội dung số với người khác thông qua các công nghệ số phù hợp. Đóng vai trò trung gian, hiểu về việc trích dẫn 
+và quy tắc ghi nguồn. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 - Để chia sẻ sản phẩm với cha mẹ, yêu cầu học sinh suy nghĩ về công nghệ phù hợp với tính chất nội dung (ví dụ: dùng máy tính 
+--- Page 84 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+80  bảng chụp ảnh một bức vẽ, hay ghi âm lời kể về bức ảnh đó). 
+- Khi chia sẻ, hướng dẫn học sinh cách để người xem biết tác phẩm đó là của ai (ví dụ: viết tên mình lên sản phẩm, chèn tên vào 
+ảnh). 
+- Cùng nhau đóng góp sản phẩm vào một góc trưng bày trực tuyến của lớp hoặc trường (ví dụ: một bảng chung trên Padlet, một 
+album ảnh trên Zalo nhóm lớp). 
+L4-L5 
+ 
+- Tập thói quen ký tên hoặc thêm tên mình vào sản phẩm số. 
+- Nhận diện được sản phẩm thuộc sở hữu của người khác, ví dụ: tìm đúng bức tranh do bạn cùng lớp vẽ, hoặc video do cô giáo 
+quay. 
+- Làm việc nhóm với bạn trên một sản phẩm số chung (ví dụ: cù ng viết một câu chuyện trên  Google Docs, làm một bài trình 
+chiếu trên Canva). 
+- Ghi lại bình luận hoặc video tự đánh giá về sản phẩm để tạo hồ sơ học tập (portfolio) số của cá nhân. 
+L6-L7 
+ 
+- Tạo các sản phẩm quảng bá đa phương tiện (ví dụ: poster, video ngắn) về một dự án của lớp, kết quả của một thí nghiệm, hoặc 
+quá trình tổ chức một sự kiện. 
+- Viết bài và đăng tải lên blog của lớp, tuân thủ quy định bản quyền khi đăng tải (ví dụ:  ghi rõ nguồn/tác giả khi sử dụng hình 
+ảnh hoặc thông tin tham khảo). 
+L8-L9 
+ 
+- Hướng dẫn học sinh cách thiết lập các quyền phù hợp khi chia sẻ tài liệu (ví dụ: phân biệt quyền  xem, nhận xét, và chỉnh 
+sửa trên Google Drive). 
+- Quảng bá trên mạng xã hội về dự án lớp học, kết quả thí nghiệm hoặc quá trình tổ chức sự kiện một cá ch có văn hóa và trách 
+nhiệm. 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh lựa chọn các phương tiện khác nhau (ví dụ: Google Drive, Trello, blog, Padlet...) để chia sẻ tài liệu hoặc công 
+bố sản phẩm học tập. 
+- Yêu cầu học sinh áp dụng cài đặt chia sẻ phù hợp (quyền truy cập và chỉnh sửa). 
+- Yêu cầu học sinh sử dụng siêu liên kết (hyperlink) và giải thích kỹ thuật quản lý tệp phù hợp. Ví dụ: một số hệ thống lưu trữ  
+đám mây (như Google Drive) sẽ tự động cập nhật đường link khi tệp được di chuyển, trong khi các hệ thống khác thì không, có 
+thể dẫn tới lỗi hỏng liên kết. 
+--- Page 85 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+81 
+- Sử dụng các quy ước ngôn ngữ khác nhau tùy theo ngữ cảnh giao tiếp. Yêu cầu học sinh tạo ra các phiên bản khác nhau của 
+cùng một thông điệp để phù hợp với các đối tượng khác nhau (ví dụ: một email trang trọng gửi cho ban giám hiệu và một tin 
+nhắn thân mật gửi cho bạn bè). 
+     
+Lĩnh vực năng lực 2: Giao tiếp và cộng tác 
+2.3 Tham gia vào quyền công dân thông qua công nghệ số 
+Tham gia vào xã hội thông qua việc sử dụng các dịch vụ công và tư kỹ thuật số. Tìm kiếm cơ hội để tự trao quyền và tham gia công dân thông 
+qua các công nghệ số phù hợp. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Trong một dự án cộng đồng của trường (ví dụ: phong trào "Kế hoạch nhỏ", quyên góp từ thiện), yêu cầu học sinh suy nghĩ về 
+cách tốt nhất để dùng công nghệ để chuẩn bị và quảng bá (ví dụ: làm video kêu gọi, thiết kế poster đơn giản). 
+L4-L5 
+ 
+- Trong một dự án cộng đồng của trường (ví dụ: quyên góp ủng hộ đồng bào lũ lụt, hoạt động bảo vệ môi trường), yêu cầu học 
+sinh suy nghĩ về cách tốt nhất để dùng công nghệ để chuẩn bị và quảng bá (ví dụ: làm video, đoạn ghi âm, trình chiếu để kêu 
+gọi, thông tin về dự án). 
+L6-L7 
+ 
+- Trong một dự án cộng đồng của trường (ví dụ: quyên góp ủng hộ đồng bào lũ lụt, hoạt động bảo vệ môi trường), yêu cầu học 
+sinh suy nghĩ về cách tốt nhất để dùng công nghệ để chuẩn bị và quảng bá (ví dụ: làm video, đoạn ghi âm, trình chiếu để kêu 
+gọi, thông tin về dự án). 
+- Suy ngẫm về các hashtag (#) phù hợp có thể được sử dụng để thảo luận, lan tỏa thông điệp về một vấn đề xã hội, kinh tế hoặc 
+môi trường (ví dụ: #baovemoitruong, #tietkiemdien). 
+L8-L9 
+ 
+- Yêu cầu học sinh thiết kế poster điện tử (infographic) cho một dự án hoặc chiến dịch của lớp/trường. 
+- Yêu cầu học sinh tổ chức các cuộc thăm dò ý kiến và bình chọn trực tuyến (sử dụng Google Forms, Mentimeter), hoặc các hoạt 
+động huy động sự tham gia của cộng đồng. 
+L10-L11-
+L12 
+- Sản xuất các video thông tin hoặc phòng chống các vấn đề xã hội (ví dụ: an toàn giao thông, quyền riêng tư trên mạng, phòng 
+chống bắt nạt học đường...). 
+--- Page 86 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+82  - Xác định các nguồn thông tin đáng tin cậy trên mạng xã hội liên quan đến một vấn đề xã hội (ví dụ:  fanpage của các cơ quan 
+chính phủ, các tổ chức uy tín). 
+- Yêu cầu học sinh tổ chức các cuộc tranh luận trực tuyến trong và giữa các lớp (trên các diễn đàn do giáo viên tạo ra như Google 
+Classroom, Microsoft Teams). Yêu cầu học sinh đóng vai trò là người điều phối (moderator) cuộc tranh luận. 
+  
+Lĩnh vực năng lực 2: Giao tiếp và cộng tác 
+2.4 Hợp tác thông qua công nghệ số 
+Sử dụng công cụ và công nghệ số cho các quy trình hợp tác, đồng kiến tạo và cùng tạo ra dữ liệu, tài nguyên và tri thức. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Khi cùng nhau sáng tác một câu chuyện, yêu cầu học sinh làm việc nhóm theo các nhiệm vụ cụ thể và rõ ràng (ví dụ: nhóm viết 
+nội dung, nhóm vẽ minh họa, nhóm chụp ảnh, nhóm thu âm lời kể…). 
+L4-L5 
+ 
+- Cùng nhau soạn thảo văn bản trực tuyến  thông qua các dịch vụ cho phép nhiều người cùng chỉnh sửa (ví dụ:  Google Docs, 
+Padlet). 
+L6-L7 
+ 
+- Viết bài cho một bách khoa toàn thư cộng tác dành cho trẻ em (ví dụ: Vikidia - phiên bản Wikipedia đơn giản hơn cho lứa tuổi 
+8-13). 
+L8-L9 
+ 
+- Viết mới hoặc chỉnh sửa một bài viết trên bách khoa toàn thư cộng tác như Wikipedia. 
+- Sử dụng các công cụ theo dõi dự án trực tuyến như bảng phân công việc (Trello), sơ đồ tư duy (MindMeister) để quản lý công 
+việc nhóm. 
+- Hướng dẫn học sinh sử dụng chức năng bình luận (comment) trong các ứng dụng trực tuyến để góp ý cho sản phẩm của bạn. 
+L10-L11-
+L12 
+ 
+- Cùng nhau chia sẻ và đóng góp tài nguyên tìm được trên Internet vào một không gian làm việc chung (ví dụ: thư mục trên Google 
+Drive, sổ tay lớp học trên OneNote). 
+- Sử dụng thành thạo chế độ Theo dõi thay đổi (Track Changes) và chế độ Soạn thảo/Đề xuất (Revision/Suggestion Mode). 
+- Cùng học sinh khám phá và lựa chọn công cụ hợp tác phù hợp nhất để thực hiện một dự án học tập. 
+- Cùng học sinh khám phá cách lập kế hoạch dự án bằng các công cụ số (lịch chung, kế hoạch công việc, sơ đồ tư duy…). 
+--- Page 87 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+83 
+    
+Lĩnh vực năng lực 2: Giao tiếp và cộng tác 
+2.5 Ứng xử trên môi trường số (Netiquette) 
+Nhận thức được các quy tắc ứng xử và cách hành xử khi sử dụng công nghệ số và tương tác trong môi trường số. Điều chỉnh chiến lược giao 
+tiếp phù hợp với đối tượng cụ thể và nhận thức được sự đa dạng về văn hóa và thế hệ trong môi trường kỹ thuật số. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Cùng cả lớp xây dựng "Nội quy giao tiếp" và giúp học sinh hiểu rằng các quy tắc này áp dụng cả khi nói chuyện trực tiếp và 
+trực tuyến (ví dụ: không nói tục, không trêu chọc bạn, lắng nghe khi bạn nói...). 
+- Điều chỉnh nội dung thông điệp phù hợp với người nhận (ví dụ: lời nhắn cho bố mẹ sẽ khác với lời nhắn cho bạn bè). 
+L4-L5 
+ 
+- Cho các ví dụ về tin nhắn/bình luận và yêu cầu học sinh phân loại theo mức độ lịch sự. 
+- Giúp học sinh hiểu rằng cách giao tiếp với bạn bè và với người lớn (thầy cô, phụ huynh) là khác nhau. 
+L6-L7 
+ 
+- Giúp học sinh hiểu rằng có sự khác biệt về văn hóa và cần tôn trọng các quy tắc đó khi giao tiếp số với bạn bè quốc tế hoặc 
+người từ các vùng miền khác. 
+L8-L9 
+ 
+- Học các yếu tố để soạn thảo một email chuyên nghiệp, đúng chuẩn (dòng tiêu đề rõ ràng, lời chào phù hợp, cách dùng 
+CC/BCC, chữ ký...). 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh thảo luận và lựa chọn phương thức giao tiếp hiệu quả nhất cho một dự án cụ thể (ví dụ: để xin tài trợ từ một 
+doanh nghiệp, nên dùng email trang trọng hay một cuộc gọi video?). 
+- Yêu cầu học sinh xây dựng hồ sơ cá nhân trên một mạng lưới chuyên nghiệp (ví dụ: LinkedIn) để phục vụ mục tiêu định 
+hướng nghề nghiệp hoặc ứng tuyển vào đại học. 
+     
+Lĩnh vực năng lực 2: Giao tiếp và cộng tác 
+2.6 Quản lý danh tính số 
+Tạo và quản lý một hoặc nhiều danh tính số, nhằm bảo vệ danh tiếng cá nhân, xử lý dữ liệu được tạo ra thông qua nhiều công cụ số, môi trường 
+và dịch vụ kỹ thuật số. 
+--- Page 88 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+84 Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Trên một nền tảng số của lớp, hướng dẫn học sinh chọn hoặc tạo một danh tính số (gồm tên hiển thị và ảnh đại diện - avatar). 
+- Giúp học sinh nhận thức rằng danh tính này đang đại diện cho chính các em và thể hiện thông tin về các em trước người khác. 
+L4-L5 
+ 
+- Giúp học sinh hiểu rằng những gì các em đăng tải bằng tài khoản của mình sẽ tạo nên “dấu vết số” (digital footprint) và nó thể 
+hiện con người của các em trên mạng. 
+L6-L7 
+ 
+- Các hoạt động về danh tính số: tạo  ảnh đại diện chung cho cả lớp; phân công nhau viết tiểu sử hoặc cập nhật tin tức cho tài 
+khoản mạng xã hội của lớp; thảo luận để phân biệt giữa tài khoản cá nhân và tài khoản chung của lớp. 
+L8-L9 
+ 
+- Phân biệt rõ ràng giữa tài khoản cá nhân và tài khoản phục vụ học tập; lập bảng so sánh các điểm khác biệt. 
+- Yêu cầu học sinh tự khám phá và kiểm tra các cài đặt bảo mật, quyền riêng tư trên các ứng dụng và thiết bị các em đang dùng. 
+- Tìm hiểu về các quy định cơ bản liên quan đến bảo vệ dữ liệu (ví dụ: Luật An ninh mạng của Việt Nam quy định về trách nhiệm 
+của các công ty trong việc bảo vệ dữ liệu người dùng). 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh đưa ra quyết định khi nào nên để chế độ công khai, khi nào để riêng tư khi chia sẻ tài liệu cá nhân (ví dụ: CV 
+trực tuyến, báo cáo thực tế...). 
+- Giải thích cho học sinh về siêu dữ liệu (metadata) của một bức ảnh có thể tiết lộ các thông tin nhạy cảm như ngày, giờ và vị trí 
+chụp. 
+- Thảo luận về nền kinh tế Internet: hiểu cách các nền tảng (Facebook, Google, TikTok) thu thập dữ liệu người dùng để cá nhân 
+hóa nội dung và hiển thị quảng cáo. 
+ 
+ Lĩnh vực năng lực 3: Tạo nội dung số 
+3.1 Phát triển nội dung số 
+Tạo và chỉnh sửa nội dung số ở nhiều định dạng khác nhau, để thể hiện bản thân thông qua phương tiện kỹ thuật số. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 - Tạo “sách” kỹ thuật số đơn giản (sử dụng công cụ tạo trình chiếu như PowerPoint, Canva). 
+--- Page 89 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+85 
+ Ví dụ: Trong hoạt động "Săn chữ cái", học sinh chụp ảnh tất cả những thứ bắt đầu bằng một chữ cái rồi tạo thành một cuốn sách 
+ảnh. 
+- Ghi âm các bài hát, bài thơ đã học và tạo một bộ sưu tập âm thanh để chia sẻ với phụ huynh (ví dụ: đăng lên  Zalo nhóm lớp, 
+hoặc một thư mục chia sẻ trên Google Drive). 
+- Chụp ảnh một đồ vật hoặc quá trình làm một sản phẩm thủ công để làm tư liệu cho hồ sơ năng lực số. 
+L4-L5 
+ 
+- Sử dụng công cụ ghi âm/chỉnh sửa âm thanh đơn giản (như  Audacity, Vocaroo) để ghi âm, cắt ghép và xuất bản một  bản tin 
+radio ngắn của lớp. 
+- Làm việc nhóm, tạo các sản phẩm số đa dạng về cùng một chủ đề: một nhóm làm video, một nhóm làm bài trình chiếu có ảnh 
+và chú thích... 
+L6-L7 
+ 
+- Tạo nội dung số (ví dụ: slide trình chiếu, infographic đơn giản) để hỗ trợ bài thuyết trình miệng trên lớp. 
+- Tạo video hướng dẫn từng bước của một quy trình (ví dụ: video hướng dẫn giải một bài toán, các bước gấp một hình origami). 
+- Chuẩn bị báo cáo đa phương tiện về một chuyến đi ngoại khóa, kết hợp văn bản, ảnh và video. 
+- Tạo sản phẩm nghệ thuật bằng công cụ số: phần mềm làm nhạc (GarageBand), ứng dụng vẽ kỹ thuật số (Autodesk Sketchbook). 
+- Tạo phim hoạt hình dạng stop-motion (dùng các ứng dụng như Stop Motion Studio). 
+L8-L9 
+ 
+- Yêu cầu học sinh tạo một tờ rơi (flyer) hoặc poster kỹ thuật số về một chủ đề cụ thể (sử dụng Canva, PowerPoint). 
+- Yêu cầu học sinh thiết kế một bài trình chiếu hiệu quả và thẩm mỹ để phục vụ cho bài thuyết trình miệng. 
+- Yêu cầu học sinh thiết kế sơ đồ tư duy số (mindmap bằng MindMeister, XMind) để hệ thống hóa kiến thức hoặc lập kế hoạch 
+cho một dự án. 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh thiết kế sơ đồ tư duy số (mindmap bằng MindMeister, XMind) để hệ thống hóa kiến thức hoặc lập kế hoạch 
+cho một dự án. 
+- Sản xuất video hướng dẫn (tutorial video) để giải thích một phương pháp, một khái niệm phức tạp trong môn học (ví dụ: hướng 
+dẫn các bước khảo sát và vẽ đồ thị hàm số trong môn Toán). 
+- Hướng dẫn học sinh thiết kế tài liệu dạng siêu văn bản, chèn các siêu liên kết (hyperlink) để điều hướng trong cùng một tài liệu 
+hoặc dẫn tới các tài nguyên bên ngoài. 
+- Dạy học sinh cách sử dụng các  kiểu định dạng tự động (Styl es) và mẫu trình bày (Templates) trong Word, PowerPoint để tạo 
+ra các tài liệu chuyên nghiệp, nhất quán. 
+--- Page 90 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+86 
+ 
+Lĩnh vực năng lực 3: Tạo nội dung số 
+3.2 Tích hợp và phát triển lại nội dung số 
+Chỉnh sửa, tinh lọc, cải tiến và tích hợp thông tin, nội dung vào một hệ thống tri thức hiện có nhằm tạo ra những nội dung và tri thức mới, độc 
+đáo và phù hợp. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Với một chủ đề đơn giản (ví dụ: con mèo), yêu cầu học sinh tìm hình ảnh con mèo, sau đó tìm một đoạn âm thanh tiếng mèo 
+kêu, và ghép chúng lại trong một slide trình chiếu hoặc một ứng dụng đơn giản. 
+L4-L5 
+ 
+- Cho một chủ đề, yêu cầu học sinh tìm kiếm thông tin từ 2 -3 nguồn khác nhau, sau đó tổng hợp và trình bày lại theo cách của 
+riêng mình (ví dụ: làm một bài trình chiếu về một loài động vật). 
+- Tạo các "viên nang kiến thức": các video rất ngắn giải thích lại một khái niệm hoặc một quy trình đã học (ví dụ: video 1 phút 
+giải thích quy tắc nhân hai số thập phân) để củng cố kiến thức. 
+L6-L7 
+ 
+- Biến đổi định dạng nội dung: Yêu cầu học sinh chuyển một văn bản thông thường thành một định dạng khác hấp dẫn hơn (ví 
+dụ: chuyển một bài thơ thành một poster có hình minh họa, chuyển một bài học Lịch sử thành một  dòng thời gian (timeline) có 
+hình ảnh). 
+L8-L9 
+ 
+- Tạo một video clip từ những hình ảnh tìm được trên mạng và thêm nhạc nền từ một thư viện âm nhạc miễn phí. 
+- Thêm nhạc nền từ một thư viện nhạc miễn phí bản quyền. 
+L10-L11-
+L12 
+ 
+- Quét (scan) tài liệu giấy bằng ứng dụng trên điện thoại di động (ví dụ: chức năng scan của Google Drive, Microsoft Lens). 
+- Chuyển đổi tài liệu sang định dạng không thể chỉnh sửa (ví dụ: PDF) để đảm bảo tính toàn vẹn khi chia sẻ. 
+- Thêm phụ đề tiếng Việt cho một video tiếng Anh có nội dung học thuật phù hợp. 
+    
+Lĩnh vực năng lực 3: Tạo nội dung số 
+3.3 Bản quyền và giấy phép 
+--- Page 91 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+87 
+Mục tiêu: Hiểu cách bản quyền và các loại giấy phép áp dụng cho dữ liệu, thông tin và nội dung số. 
+Hoạt động giảng dạy và học tập 
+L1-L2-
+L3 
+- Khi học sinh tạo ra một sản phẩm, yêu cầu các em ký tên để khẳng định quyền tác giả. Trao đổi với các em về ý nghĩa của 
+việc ký tên và giải thích rằng không thể lấy tác phẩm của bạn khác rồi nhận là của mình. 
+L4-L5 
+ 
+- Khi tạo nội dung, yêu cầu học sinh ghi tên và ngày tháng. Giải thích tầm quan trọng của việc này. 
+- Khi tái sử dụng ý tưởng, yêu cầu học sinh ghi nguồn tác giả (ví dụ: khi vẽ tranh theo phong cách của họa sĩ Bùi Xuân Phái, 
+cần ghi rõ "phỏng theo phong cách của..."). 
+L6-L7 
+ 
+- Yêu cầu học sinh thử xác định ai là người sở hữu bản quyền đối với các tài nguyên khác nhau trên mạng (một bức ảnh, một 
+bài hát...). 
+L8-L9 
+ 
+- Hướng dẫn học sinh xác định các quyền liên quan đến việc sử dụng một tài liệu (văn bản, hình ảnh, video...). 
+- Giải thích các quy định cơ bản của Luật Sở hữu trí tuệ, giúp học sinh hiểu bản quyền là một hệ thống pháp lý bảo vệ người 
+sáng tạo. 
+- Hướng dẫn học sinh tìm kiếm các nội dung được phép tái sử dụng miễn phí (ví dụ: tìm kiếm hình ảnh có giấy phép Creative 
+Commons). 
+L10-L11-
+L12 
+ 
+- Hướng dẫn học sinh lựa chọn giấy phép Creative Commons phù hợp để tự xuất bản sản phẩm của mình. 
+- Khuyến khích học sinh tìm hiểu khía cạnh đạo đức và pháp lý của việc vi phạm bản quyền và đạo văn (plagiarism), nhấn 
+mạnh rằng đây là hành vi thiếu trung thực và vô trách nhiệm. 
+   
+Lĩnh vực năng lực 3: Tạo nội dung số 
+3.4 Lập trình 
+Lên kế hoạch và phát triển một chuỗi các hướng dẫn dễ hiểu cho một hệ thống máy tính để giải quyết một vấn đề cụ thể hoặc thự c hiện một 
+nhiệm vụ cụ thể. 
+Hoạt động giảng dạy và học tập 
+--- Page 92 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+88 L1-L2-L3 
+ 
+- Chơi các trò chơi làm theo chỉ dẫn (ví dụ: "Simon says..."). 
+- Sử dụng các robot giáo dục có thể lập trình đơn giản bằng nút bấm (ví dụ: Bee-bots). 
+- Các hoạt động lập trình không dùng máy tính (unplugged): di chuyển trên lưới ô vuông, sắp xếp các thẻ lệnh để chỉ đường cho 
+một bạn khác, làm theo công thức nấu ăn... 
+L4-L5 
+ 
+- Quan sát và lập trình chuyển động của robot giáo dục (ví dụ: LEGO WeDo, VEX GO). 
+- Thực hiện một chương trình đơn giản bằng các phần mềm lập trình kéo-thả phù hợp với lứa tuổi. 
+L6-L7 
+ 
+- Làm quen với tư duy lập trình khối (block programming). 
+- Khám phá một hệ thống kỹ thuật (ví dụ: một mô hình đèn giao thông) và thử thay đổi chương trình điều khiển của nó. 
+- Phát triển một trò chơi hoặc một câu chuyện tương tác đơn giản trên Scratch. 
+L8-L9 
+ 
+- Hướng dẫn học sinh học ngôn ngữ lập trình trực quan với Scratch. 
+- Yêu cầu học sinh tạo các quy tắc định dạng có điều kiện trong bảng tính (ví dụ: tự động tô màu đỏ cho các ô có giá trị dưới 5). 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh thiết lập các quy tắc tự động trong hòm thư điện tử (ví dụ:  tạo bộ lọc trong Gmail để tự động gắn nhãn cho 
+thư từ giáo viên hoặc chuyển thư quảng cáo vào một thư mục riêng). 
+- Trong môn Vật lý hoặc Công nghệ, hướng dẫn học sinh lập trình để một hệ thống (ví dụ: mạch  Arduino) phản ứng với các tín 
+hiệu đầu vào từ cảm biến (ví dụ: đèn tự động bật sáng khi cảm biến ánh sáng nhận thấy trời tối). 
+ 
+Lĩnh vực năng lực 4: An toàn  
+4.1 Thiết bị bảo vệ 
+Bảo vệ thiết bị và nội dung số, hiểu được các rủi ro và mối đe dọa trong môi trường số. Nắm được các biện pháp an toàn và bảo  mật, đồng 
+thời chú ý đến độ tin cậy và quyền riêng tư. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 - Sử dụng phép ẩn dụ về “ngôi nhà”, giúp học sinh hiểu giá trị của việc bảo vệ không gian riêng tư bằng cách “khóa cửa”. Liên 
+hệ một cách trực quan giữa chìa khóa nhà và mật khẩu, xác định điểm giống và khác nhau. 
+--- Page 93 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+89 
+L4-L5 
+ 
+- Vẫn dùng phép ẩn dụ “chìa khóa”, giúp học sinh hiểu rằng tạo mật khẩu số cũng giống như tạo ra một chiếc khóa riêng cho mình. 
+- Hoạt động: Mỗi học sinh tạo một mật khẩu; các bạn khác thử đoán. Sau đó, cùng nhau ôn tập các tiêu chí của một  mật 
+khẩu mạnh (dài, có chữ hoa, chữ thường, số, ký tự đặc biệt). 
+L6-L7 
+ 
+- Phát triển phép ẩn dụ “chìa khóa nhà”, giúp học sinh hiểu tầm quan trọng của việc không chia sẻ "chìa khóa" của mình. Đồng 
+thời giúp học sinh nhận ra rằng chìa khóa sẽ vô dụng nếu không “đóng cửa” (tức là đăng xuất/log out khỏi tài khoản sau mỗi lần 
+sử dụng). 
+- Hình thành thói quen tôn trọng sự riêng tư của người khác (ví dụ: quay đi khi bạn đang nhập mật khẩu). 
+- Hiểu về các rủi ro và biện pháp bảo vệ cơ bản: mất dữ liệu, hỏng thiết bị, bị tấn công bởi phần mềm độc hại (virus, mã độc). 
+L8-L9 - Thực hành kiểm tra và cài đặt bản cập nhật cho phần mềm và ứng dụng. 
+- Sử dụng các công cụ trực tuyến để đánh giá độ mạnh của mật khẩu. 
+L10-L11-
+L12 
+- Kiểm tra các bản cập nhật của hệ điều hành và các phần mềm bảo vệ (ví dụ: phần mềm diệt virus). 
+- Xác định các tình huống rủi ro khi sử dụng thiết bị: hệ thống chưa cập nhật, mở các tệp đính kèm email đáng ngờ, nguy cơ từ 
+mã độc "Trojan horse" (một loại mã độc ngụy trang thành phần mềm hợp pháp). 
+- Học cách nhận biết một trang web an toàn dựa vào các dấu hiệu như  giao thức https và biểu tượng ổ khóa  trên thanh địa chỉ 
+trình duyệt. 
+- Thiết lập truy cập an toàn cho tài khoản trực tuyến bằng cách sử dụng xác thực hai yếu tố (ví dụ: nhập mật khẩu và sau đó nhập 
+mã OTP được gửi về điện thoại). 
+    
+Lĩnh vực năng lực 4: An toàn  
+4.2 Bảo vệ dữ liệu cá nhân và quyền riêng tư 
+Bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số. Hiểu cách  sử dụng và chia sẻ thông tin định danh cá nhân sao cho an toàn, để 
+bảo vệ bản thân và người khác khỏi những nguy cơ gây hại. Hiểu rằng các dịch vụ kỹ thuật số sử dụng “chính sách quyền riêng tư” để thông 
+báo về cách dữ liệu cá nhân được sử dụng. 
+Hoạt động giảng dạy và học tập 
+--- Page 94 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+90 L1-L2-L3 
+ 
+- Thảo luận: Thông tin cá nhân là gì? (tên đầy đủ, ngày sinh, địa chỉ nhà, số điện thoại...). Tại sao không nên chia sẻ những thông 
+tin này trên mạng? Phân loại thông tin nào có thể chia sẻ, thông tin nào không. 
+- Phân biệt giữa người quen và người lạ trên mạng. Liên hệ với các quy tắc an toàn ngoài đời thực:  "Không nói chuyện hay đi 
+theo người lạ" cũng được áp dụng trên Internet. 
+L4-L5 
+ 
+- Trò chơi đóng vai:  Một số học sinh "cải trang" (dùng tên và ảnh đại diện khác). Các học sinh khác sẽ nói chuyện với những 
+người bạn "cải trang" này. Hoạt động giúp các em nhận ra rằng trên Internet, không phải ai cũng là người như họ thể hiện và rất 
+dễ để che giấu danh tính thật. 
+L6-L7 
+ 
+- Xác định hậu quả của việc bị lộ dữ liệu cá nhân và các cách để bảo vệ. 
+- Sau một buổi truy cập Internet, yêu cầu học sinh  xem lại lịch sử duyệt web  của mình để nhận biết các  "dấu vết số" (digital 
+footprint) đã để lại. 
+L8-L9 
+ 
+- Tạo mật khẩu mạnh và an toàn. 
+- Xem lại và phân tích lịch sử duyệt web để nhận biết các "dấu vết số". 
+- Điều chỉnh các cài đặt quyền riêng tư trên trình duyệt hoặc các mạng xã hội phổ biến (Facebook, TikTok). 
+L10-L11-
+L12 
+ 
+- Quản lý lịch sử duyệt web và cookie. 
+- Sử dụng chế độ duyệt web riêng tư (ẩn danh). 
+- Thảo luận về các rủi ro tiềm ẩn khi cài đặt phần mềm, đặc biệt là phần mềm miễn phí (có thể chứa virus hoặc phần mềm gián 
+điệp). 
+- Khám phá cách các trang web và công ty thu thập dữ liệu để cá nhân hóa nội dung và quảng cáo.  Tình huống: Tại sao em vừa 
+tìm kiếm một đôi giày thì quảng cáo về giày lại xuất hiện khắp nơi? 
+- Xem xét và quản lý lịch sử vị trí (định vị địa lý) trên thiết bị di động. 
+ 
+Lĩnh vực năng lực 4: An toàn  
+4.3 Bảo vệ sức khỏe và hạnh phúc 
+Biết cách tránh các rủi ro về sức khỏe và những đe dọa đến thể chất và tinh thần khi sử dụng công nghệ số. Biết cách tự bảo v ệ bản thân và 
+người khác khỏi các nguy cơ có thể xảy ra trong môi trường số (ví dụ: bắt nạt trên mạng). Nhận thức được vai trò của công nghệ số đối với 
+--- Page 95 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+91 
+sức khỏe xã hội và sự hòa nhập xã hội. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Sử dụng ẩn dụ “kẹo” để giúp trẻ hiểu rằng sử dụng màn hình quá nhiều cũng giống như ăn quá nhiều kẹo, có thể không tốt cho 
+sức khỏe. 
+- Nhấn mạnh rằng lời nói trên mạng cũng có thể làm tổn thương người khác y như lời nói trực tiếp. 
+L4-L5 
+ 
+- Hoạt động "Bản đồ cơ thể": Tô màu lên hình vẽ cơ thể người những bộ phận bị ảnh hưởng bởi việc ngồi máy tính nhiều (mắt, 
+lưng, cổ...) và so sánh với các bộ phận được vận động khi chơi thể thao. 
+- Liệt kê các hậu quả có thể xảy ra do sử dụng thiết bị điện tử quá nhiều (mỏi mắt, đau lưng, mất ngủ...). 
+L6-L7 
+ - Vẽ một bức tranh biếm họa về một người dành toàn bộ thời gian trước màn hình sẽ trông như thế nào. 
+L8-L9 
+ 
+- Tổ chức hoạt động nâng cao nhận thức về tiết kiệm năng lượng (ví dụ: đếm số thiết bị đang cắm điện nhưng ở chế độ chờ tại 
+nhà/trường). 
+- Yêu cầu học sinh làm poster hoặc thuyết trình về tư thế ngồi đúng khi học và làm việc với máy tính. 
+- Thảo luận về bắt nạt trên mạng (cyberbullying) và quy trình xử lý của nhà trường (báo cho ai: giáo viên chủ nhiệm, phòng tư 
+vấn tâm lý học đường, gia đình...). 
+- Tìm hiểu các khía cạnh pháp lý liên quan đến hành vi trên mạng theo Luật An ninh mạng Việt Nam. 
+L10-L11-
+L12 
+ 
+- Hướng dẫn học sinh cách sàng lọc thông tin để tránh bị quá tải (ví dụ: bỏ theo dõi các trang không cần thiết, sắp xếp email...). 
+- Yêu cầu học sinh sử dụng tính năng theo dõi  thời gian sử dụng thiết bị (screen time)  trên điện thoại và tự phả n ánh về thói 
+quen của mình. 
+- Thảo luận về mặt tích cực và tiêu cực của việc chỉnh sửa ảnh, cũng như tác động của nó đến tâm lý và áp lực về ngoại hình. 
+- Trong môn Vật lý, thảo luận về các loại sóng điện từ phát ra từ các thiết bị kết nối và các biện pháp an toàn liên quan. 
+- Hiểu trách nhiệm pháp lý và tác động môi trường liên quan đến việc xử lý rác thải điện tử. 
+    
+--- Page 96 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+92 Lĩnh vực năng lực 4: An toàn  
+4.4 Bảo vệ môi trường 
+Nhận thức được tác động môi trường của công nghệ số và việc sử dụng chúng. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Liên hệ việc xử lý rác thải điện tử (pin cũ, thiết bị hỏng) với các hành động quen thuộc như phân loại rác hằng ngày trong lớp 
+học. 
+L4-L5 
+ 
+- Nhận diện và thực hành một số hành động giúp giảm tiêu thụ năng lượng của thiết bị (ví dụ: tắt màn hình khi không dùng, giảm 
+độ sáng). 
+L6-L7 
+ 
+- Kể hoặc vẽ câu chuyện về "Vòng đời của một viên pin", từ lúc sản xuất, sử dụng cho đến khi được thải bỏ và tái chế. 
+- Góp phần giảm tác động môi trường bằng cách thực hành các thói quen tiết kiệm năng lượng. 
+L8-L9 
+ 
+- Thảo luận dựa trên các số liệu thực tế về tác động môi trường của ngành CNTT. Câu hỏi gợi mở: Làm thế nào để mỗi chúng ta 
+có thể góp phần giảm lượng khí thải CO₂ từ việc sản xuất và sử dụng thiết bị công nghệ? 
+L10-L11-
+L12 
+ 
+- Giới thiệu khái niệm “Kết thúc vòng đời” (End-of-Life) của một sản phẩm công nghệ. Tổ chức hoạt động tìm hiểu:  Điều gì sẽ 
+xảy ra với các thiết bị điện tử của nhà trường hoặc cá nhân khi chúng không còn được sử dụng nữa? Các điểm thu hồi rác thải 
+điện tử ở đâu? 
+ 
+Lĩnh vực năng lực 5: Giải quyết vấn đề 
+5.1 Giải quyết các vấn đề kỹ thuật 
+Xác định các sự cố kỹ thuật khi vận hành thiết bị và sử dụng môi trường số, đồng thời giải quyết các sự cố đó (từ khắc phục đơn giản đến xử 
+lý các vấn đề phức tạp hơn) 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 - Khám phá các chức năng của các nút bấm trên thiết bị (ví dụ: nút nguồn, nút âm lượng). 
+--- Page 97 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+93 
+ - Sử dụng bàn phím và chuột: nhấp chuột, nhấp đúp, kéo và thả. 
+- Thử nghiệm với các lệnh đơn giản trên thiết bị, ví dụ: lệnh "hoàn tác" (undo) và "làm lại" (redo). 
+L4-L5 
+ 
+- Thực hành làm theo, mô tả và thể hiện lại  chuỗi các bước (thuật toán) cần thiết để giải quyết các vấn đề đơn giản (ví dụ: làm 
+theo một chuỗi hướng dẫn được biểu diễn bằng các mũi tên để đi đến đích). 
+L6-L7 
+ 
+- Mô tả các bước để giải quyết một vấn đề bằng văn bản, hình ảnh hoặc ký hiệu. 
+- Áp dụng phương pháp khoa học để tìm và sửa lỗi (gỡ lỗi - debug): liệt kê tất cả các nguyên nhân có thể xảy ra, kiểm tra từng 
+nguyên nhân bằng cách chỉ thay đổi một yếu tố mỗi lần. 
+- Học cách lập trình chuyển động của robot và sửa lỗi trong chương trình đã viết. 
+L8-L9 
+ 
+- Hướng dẫn học sinh cách khôi phục một tệp đã lỡ xóa từ Thùng rác (Recycle Bin). 
+- Hướng dẫn học sinh cách tìm và sử dụng mục  Trợ giúp (Help)  có sẵn trong các phần mềm và menu chuột phải (menu ngữ 
+cảnh). 
+- Yêu cầu học sinh viết một bản hướng dẫn các bước khôi phục mật khẩu tài khoản trường học cho các bạn khác. 
+L10-L11-
+L12 
+ 
+- Hướng dẫn học sinh cách tìm kiếm trợ giúp kỹ thuật trên Internet và đánh giá độ tin cậy của các nguồn hướng dẫn đó. 
+- Yêu cầu học sinh vẽ một sơ đồ khối (flowchart) để mô tả các bước hoạt động hoặc đầu ra của một quy trình. 
+- Hướng dẫn học sinh xây dựng một tài liệu Câu hỏi thường gặp (FAQ) nhằm giải quyết một số sự cố kỹ thuật phổ biến cho các 
+học sinh khác. 
+ 
+Lĩnh vực năng lực 5: Giải quyết vấn đề 
+5.2 Xác định nhu cầu và phản ứng công nghệ 
+Đánh giá nhu cầu và xác định, đánh giá, lựa chọn và sử dụng các công cụ số cũng như các phản hồi công nghệ phù hợp để giải qu yết vấn đề. 
+Điều chỉnh và tùy biến môi trường số phù hợp với nhu cầu cá nhân (ví dụ: khả năng truy cập). 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ - Học các chức năng cơ bản của thiết bị: bật, tắt, đăng nhập/đăng xuất. 
+--- Page 98 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+94 - Nhận biết các thiết bị số quen thuộc trong lớp và ở nhà cùng với mục đích sử dụng của chúng (ví dụ: máy tính để bàn, máy tính 
+xách tay, máy tính bảng, điện thoại thông minh...). 
+L4-L5 - Liên kết các thiết bị số đã biết với một mục đích sử dụng cụ thể, ví dụ: dùng máy tính xách tay để soạn thảo văn bản, dùng máy 
+tính bảng để chụp ảnh, quay video. 
+L6-L7 
+ 
+- Lựa chọn và sử dụng các thiết bị ngoại vi phù hợp để thực hiện nhiệm vụ và giải thích lý do lựa chọn (ví dụ: tại sao dùng máy 
+ảnh kỹ thuật số sẽ cho ảnh chất lượng tốt hơn camera của máy tính bảng). 
+- Lựa chọn ứng dụng hoặc phần mềm phù hợp với nhiệm vụ. Ví dụ:  Để làm việc nhóm, nên dùng công cụ nào? Để viết và chia 
+sẻ một cuốn sách kỹ thuật số, nên dùng công cụ nào? 
+L8-L9 
+ 
+- Yêu cầu học sinh khám phá và tùy chỉnh giao diện hoặc cài đặt chế độ xem trên các thiết bị và ứng dụng thường dùng. 
+- Yêu cầu học sinh xây dựng một dòng thời gian (timeline) về lịch sử phát triển của máy tính. 
+- Yêu cầu học sinh chọn các cài đặt phù hợp trong trình soạn thảo văn bản (ví dụ: ngôn ngữ kiểm tra chính tả, đơn vị đo lường). 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh xây dựng một khảo sát (dùng Google Forms) để xác định nhu cầu sử dụng thiết bị số của các bạn trong lớp. 
+- Yêu cầu học sinh so sánh các phiên bản khác nhau (web, di động, máy tính để bàn) của một ứng dụng phổ biến, ví dụ 
+như Microsoft Word/Google Docs. 
+- Yêu cầu học sinh trình bày sự khác biệt và các ưu/nhược điểm giữa phần mềm mã nguồn mở (ví dụ: LibreOffice, GIMP) và phần 
+mềm độc quyền (ví dụ: Microsoft Office, Adobe Photoshop). 
+- Yêu cầu học sinh lựa chọn và đánh giá các ứng dụng tốt nhất để quản lý một dự án học tập, chẳng hạn như các công cụ để học 
+nhóm ôn thi. 
+    
+Lĩnh vực năng lực 5: Giải quyết vấn đề 
+5.3 Sử dụng công nghệ số một cách sáng tạo 
+Sử dụng các công cụ và công nghệ số để tạo ra tri thức và đổi mới  quy trình cũng như sản phẩm. Tham gia một cách cá nhân và tập thể vào 
+quá trình xử lý tư duy để hiểu và giải quyết các vấn đề khái niệm và tình huống vấn đề trong môi trường số. 
+--- Page 99 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+95 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+     
+L4-L5 - Tham gia vào một dự án tri thức quốc tế bằng cách viết bài cho bách khoa toàn thư mở Vikidia (một phiên bản Wikipedia đơn 
+giản hơn, phù hợp cho lứa tuổi 8-13). 
+L6-L7 - Tham gia vào một dự án tri thức quốc tế bằng cách viết bài cho bách khoa toàn thư mở Wikipedia. 
+L8-L9 
+ 
+- Yêu cầu học sinh sử dụng bảng trắng kỹ thuật số cộng tác (như Jamboard, Miro, Padlet) để cùng nhau động não (brainstorm) 
+và chia sẻ ý tưởng. 
+- Yêu cầu học sinh đặt câu hỏi và trả lời trên các diễn đàn của khóa học (ví dụ: mục "Hỏi-Đáp" trên Google Classroom). 
+- Thiết kế và tạo ra các vật thể thật bằng máy in 3D (cần phối hợp với giáo viên Tin học/Công nghệ). 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh tạo một trang thuật ngữ hoặc Câu hỏi thường gặp (FAQ) có chèn siêu liên kết đến các tài nguyên tham khảo. 
+- Yêu cầu học sinh tạo bản đồ tư duy số để lập kế hoạch cho một chuyến đi thực tế hoặc hệ thống kiến thức ôn thi. 
+- Yêu cầu học sinh đề xuất chỉnh sửa văn bản hoặc mã nguồn trên các nền tảng lưu trữ mở (ví dụ: GitHub - dành cho các dự án 
+lập trình). 
+ 
+  Lĩnh vực năng lực 5: Giải quyết vấn đề 
+5.4   Xác định khoảng cách NLS 
+Hiểu được những mặt còn thiếu trong NLS của bản thân để có thể cải thiện hoặc cập nhật. Có khả năng hỗ trợ người khác trong việc phát triển 
+NLS. Tìm kiếm cơ hội để phát triển bản thân và cập nhật theo sự tiến hóa số. 
+Hoạt động giảng dạy và học tập 
+L1-L2-L3 
+ 
+- Tổ chức hoạt động "Đôi bạn cùng tiến": học sinh lớp lớn hơn (hoặc bạn đã thành thạo) hướng dẫn các em nhỏ (hoặc bạn chưa 
+biết) cách sử dụng một công cụ số đơn giản. 
+L4-L5 
+ 
+- Yêu cầu mỗi học sinh hoàn thành một bảng tự đánh giá đơn giản về mức độ thành thạo các công cụ số. Sau đó, các em có thể 
+viết "phiếu yêu cầu trợ giúp" từ bạn bè hoặc giáo viên. 
+--- Page 100 ---
+ 
+ 
+Tài liệu sử dụng tại Hội nghị tập huấn phát triển năng lực số cho học sinh phổ thông, tiếp tục hoàn thiện trước 
+khi ban hành chính thức 
+96 L6-L7 
+ 
+- Trong hồ sơ học tập (portfolio)  số, học sinh tự đánh giá kiến thức và kỹ năng  của mình về công nghệ số và nêu rõ những gì 
+mình muốn học hỏi thêm. 
+L8-L9 
+ 
+- Yêu cầu học sinh thực hành viết email mô tả một sự cố kỹ thuật  (có thể đính kèm ảnh chụp màn hình) và yêu cầu sự giúp đỡ 
+một cách rõ ràng, lịch sự. 
+- Yêu cầu học sinh xác định và lập danh sách những người bạn có thể hỗ trợ mình về một vấn đề kỹ thuật cụ thể. 
+- Tập thói quen “Ba trước khi hỏi thầy”: học sinh phải chứng minh rằng mình đã thử tìm kiếm giải pháp ít nhất từ ba nguồn (ví 
+dụ: mục Trợ giúp, Google, hỏi bạn) trước khi nhờ giáo viên. 
+L10-L11-
+L12 
+ 
+- Yêu cầu học sinh thành lập một “Bàn hỗ trợ kỹ thuật” (Help Desk) trực tuyến (ví dụ: một nhóm chat, một diễn đàn) để hỗ trợ 
+các bạn khác trong lớp/trường. 
+- Yêu cầu học sinh xây dựng một bảng khảo sát để đánh giá chất lượng của "bàn hỗ trợ" do các em lập ra. 
+- Trong các hoạt động hướng nghiệp, yêu cầu học sinh xác định các NLS cần thiết cho từng lĩnh vực nghề nghiệp cụ thể. 
+- Yêu cầu học sinh tự tìm kiếm và lựa chọn các khóa học hoặc video hướng dẫn trực tuyến (trên YouTube, Coursera, Udemy...) 
+để giải quyết một vấn đề kỹ thuật hoặc học một kỹ năng mới. 
+ 

@@ -1,0 +1,2652 @@
+[
+  {
+    "code": "1.1.CB1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được nhu cầu thông tin, tìm kiếm"
+  },
+  {
+    "code": "1.1.CB1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Tìm được cách truy cập những dữ liệu, thông tin và nội dung này cũng như điều hướng giữa chúng."
+  },
+  {
+    "code": "1.1.CB1c",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Xác định được các chiến lược tìm kiếm đơn giản."
+  },
+  {
+    "code": "1.1.CB2a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được nhu cầu thông tin."
+  },
+  {
+    "code": "1.1.CB2b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+  },
+  {
+    "code": "1.1.CB2c",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Tìm được cách truy cập những dữ liệu, thông tin và nội dung này cũng như điều hướng giữa chúng."
+  },
+  {
+    "code": "1.1.CB2d",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "d. Xác định được các chiến lược tìm kiếm đơn giản."
+  },
+  {
+    "code": "1.1.TC1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được nhu cầu thông tin."
+  },
+  {
+    "code": "1.1.TC1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Thực hiện được rõ ràng và theo quy trình"
+  },
+  {
+    "code": "1.1.TC1c",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Giải thích được cách truy cập và điều"
+  },
+  {
+    "code": "1.1.TC1d",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "d. Giải thích được rõ ràng và theo quy trình"
+  },
+  {
+    "code": "1.1.TC2a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Minh họa được nhu cầu thông tin."
+  },
+  {
+    "code": "1.1.TC2b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Tổ chức được tìm kiếm dữ liệu, thông tin"
+  },
+  {
+    "code": "1.1.TC2c",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Mô tả được cách truy cập những dữ"
+  },
+  {
+    "code": "1.1.TC2d",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "d. Tổ chức được các chiến lược tìm kiếm."
+  },
+  {
+    "code": "1.1.NC1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Đáp ứng được nhu cầu thông tin."
+  },
+  {
+    "code": "1.1.NC1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được kỹ thuật tìm kiếm để lấy"
+  },
+  {
+    "code": "1.1.NC1c",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Chỉ cho người khác cách truy cập những"
+  },
+  {
+    "code": "1.1.NC1d",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.1",
+    "componentName": "Duyệt, tìm kiếm và lọc dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "d. Tự đề xuất được chiến lược tìm kiếm."
+  },
+  {
+    "code": "1.2.CB1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Phát hiện được độ tin cậy và độ chính"
+  },
+  {
+    "code": "1.2.CB2a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Phát hiện được độ tin cậy và độ chính"
+  },
+  {
+    "code": "1.2.TC1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Thực hiện phân tích, so sánh, đánh giá"
+  },
+  {
+    "code": "1.2.TC1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Thực hiện phân tích, diễn giải và đánh"
+  },
+  {
+    "code": "1.2.TC2a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thực hiện phân tích, so sánh và đánh"
+  },
+  {
+    "code": "1.2.TC2b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thực hiện phân tích, diễn giải và đánh"
+  },
+  {
+    "code": "1.2.NC1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Thực hiện đánh giá được độ tin cậy và độ"
+  },
+  {
+    "code": "1.2.NC1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.2",
+    "componentName": "Đánh giá dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Tiến hành đánh giá được các dữ liệu,"
+  },
+  {
+    "code": "1.3.CB1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được cách tổ chức, lưu trữ và"
+  },
+  {
+    "code": "1.3.CB1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Nhận biết được nơi để sắp xếp dữ liệu,"
+  },
+  {
+    "code": "1.3.CB2a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được cách tổ chức, lưu trữ và"
+  },
+  {
+    "code": "1.3.CB2b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Nhận biết được nơi để sắp xếp dữ liệu,"
+  },
+  {
+    "code": "1.3.TC1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Lựa chọn được dữ liệu, thông tin và nội"
+  },
+  {
+    "code": "1.3.TC1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Sắp xếp chúng một cách trật tự trong một"
+  },
+  {
+    "code": "1.3.TC2a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Sắp xếp được thông tin, dữ liệu, nội"
+  },
+  {
+    "code": "1.3.TC2b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Tổ chức được thông tin, dữ liệu và"
+  },
+  {
+    "code": "1.3.NC1a",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Thao tác được thông tin, dữ liệu và"
+  },
+  {
+    "code": "1.3.NC1b",
+    "domainCode": "1",
+    "domainName": "Khai thác dữ liệu và thông tin",
+    "componentCode": "1.3",
+    "componentName": "Quản lý dữ liệu, thông tin và nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Triển khai được việc tổ chức và sắp"
+  },
+  {
+    "code": "2.1.CB1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Lựa chọn được các công nghệ số đơn"
+  },
+  {
+    "code": "2.1.CB1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Xác định được các phương tiện giao tiếp"
+  },
+  {
+    "code": "2.1.CB2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Lựa chọn được các công nghệ số đơn"
+  },
+  {
+    "code": "2.1.CB2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Xác định được các phương tiện giao tiếp"
+  },
+  {
+    "code": "2.1.TC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Thực hiện được các tương tác được"
+  },
+  {
+    "code": "2.1.TC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Lựa chọn được các phương tiện giao tiếp"
+  },
+  {
+    "code": "2.1.TC2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Lựa chọn được nhiều công nghệ số để"
+  },
+  {
+    "code": "2.1.TC2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Lựa chọn được nhiều phương tiện"
+  },
+  {
+    "code": "2.1.NC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Sử dụng được nhiều công nghệ số để tương tác."
+  },
+  {
+    "code": "2.1.NC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.1",
+    "componentName": "Tương tác thông qua công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Cho người khác thấy phương tiện giao tiếp số phù hợp nhất cho một bối cảnh cụ"
+  },
+  {
+    "code": "2.2.CB1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Nhận biết được các công nghệ số đơn"
+  },
+  {
+    "code": "2.2.CB1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Nhận biết được phương pháp trích"
+  },
+  {
+    "code": "2.2.CB2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Nhận biết được các công nghệ số đơn"
+  },
+  {
+    "code": "2.2.CB2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Xác định được phương pháp trích"
+  },
+  {
+    "code": "2.2.TC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Lựa chọn các công nghệ số phù hợp"
+  },
+  {
+    "code": "2.2.TC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Giải thích cách thức hoạt động như một"
+  },
+  {
+    "code": "2.2.TC1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Minh họa rõ ràng và thường xuyên các"
+  },
+  {
+    "code": "2.2.TC2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Vận dụng được các công nghệ số phù hợp"
+  },
+  {
+    "code": "2.2.TC2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Giải thích được cách đóng vai trò"
+  },
+  {
+    "code": "2.2.TC2c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Áp dụng được các phương pháp tham"
+  },
+  {
+    "code": "2.2.NC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Chia sẻ dữ liệu, thông tin và nội dung"
+  },
+  {
+    "code": "2.2.NC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Hướng dẫn người khác cách đóng vai trò"
+  },
+  {
+    "code": "2.2.NC1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.2",
+    "componentName": "Chia sẻ thông tin và nội dung thông qua công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Áp dụng được nhiều phương pháp"
+  },
+  {
+    "code": "2.3.CB1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được các dịch vụ số đơn giản để"
+  },
+  {
+    "code": "2.3.CB1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Nhận biết được các công nghệ số đơn"
+  },
+  {
+    "code": "2.3.CB2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được các dịch vụ số đơn giản để"
+  },
+  {
+    "code": "2.3.CB2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Nhận biết được các công nghệ số đơn"
+  },
+  {
+    "code": "2.3.TC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Lựa chọn được các dịch vụ số được xác"
+  },
+  {
+    "code": "2.3.TC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Xác định được các công nghệ số rõ ràng"
+  },
+  {
+    "code": "2.3.TC2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Lựa chọn được các dịch vụ số để tham gia"
+  },
+  {
+    "code": "2.3.TC2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thảo luận về các công nghệ số phù hợp"
+  },
+  {
+    "code": "2.3.NC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Đề xuất được các dịch vụ số khác nhau"
+  },
+  {
+    "code": "2.3.NC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.3",
+    "componentName": "Sử dụng công nghệ số để thực hiện trách nhiệm công dân",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Sử dụng được các công nghệ số thích"
+  },
+  {
+    "code": "2.4.CB1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.4",
+    "componentName": "Hợp tác thông qua công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Chọn được những công cụ và công nghệ"
+  },
+  {
+    "code": "2.4.CB2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.4",
+    "componentName": "Hợp tác thông qua công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Chọn được những công cụ và công nghệ"
+  },
+  {
+    "code": "2.4.TC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.4",
+    "componentName": "Hợp tác thông qua công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Lựa chọn được các công cụ và công nghệ"
+  },
+  {
+    "code": "2.4.TC2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.4",
+    "componentName": "Hợp tác thông qua công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Lựa chọn được các công cụ và công nghệ"
+  },
+  {
+    "code": "2.4.NC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.4",
+    "componentName": "Hợp tác thông qua công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Đề xuất được các công cụ và công nghệ"
+  },
+  {
+    "code": "2.5.CB1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Phân biệt được các chuẩn mực hành vi"
+  },
+  {
+    "code": "2.5.CB1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Chọn được các phương thức và chiến"
+  },
+  {
+    "code": "2.5.CB1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Phân biệt các khía cạnh đơn giản của sự"
+  },
+  {
+    "code": "2.5.CB2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Phân biệt được các chuẩn mực hành vi"
+  },
+  {
+    "code": "2.5.CB2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Chọn được các phương thức và chiến"
+  },
+  {
+    "code": "2.5.CB2c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Phân biệt các khía cạnh đơn giản của sự"
+  },
+  {
+    "code": "2.5.TC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Làm rõ được các chuẩn mực hành vi"
+  },
+  {
+    "code": "2.5.TC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Thể hiện được các chiến lược giao tiếp"
+  },
+  {
+    "code": "2.5.TC1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Mô tả các khía cạnh đa dạng về văn hóa và"
+  },
+  {
+    "code": "2.5.TC2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thảo luận về các chuẩn mực hành vi và"
+  },
+  {
+    "code": "2.5.TC2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thảo luận các chiến lược giao tiếp phù hợp"
+  },
+  {
+    "code": "2.5.TC2c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Thảo luận các khía cạnh đa dạng về văn"
+  },
+  {
+    "code": "2.5.NC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Áp dụng được các chuẩn mực hành vi và"
+  },
+  {
+    "code": "2.5.NC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được các chiến lược giao tiếp"
+  },
+  {
+    "code": "2.5.NC1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.5",
+    "componentName": "Thực hiện quy tắc ứng xử trên mạng",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Áp dụng được các khía cạnh đa dạng về"
+  },
+  {
+    "code": "2.6.CB1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được danh tính số."
+  },
+  {
+    "code": "2.6.CB1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Mô tả được những cách đơn giản để bảo"
+  },
+  {
+    "code": "2.6.CB1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Nhận biết được dữ liệu đơn giản do mình"
+  },
+  {
+    "code": "2.6.CB2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được danh tính số."
+  },
+  {
+    "code": "2.6.CB2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Mô tả được những cách đơn giản để bảo"
+  },
+  {
+    "code": "2.6.CB2c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Nhận biết được dữ liệu đơn giản do mình"
+  },
+  {
+    "code": "2.6.TC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Phân biệt được một loạt các danh tính số"
+  },
+  {
+    "code": "2.6.TC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Giải thích được những cách được xác"
+  },
+  {
+    "code": "2.6.TC1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Mô tả dữ liệu được xác định rõ ràng mà"
+  },
+  {
+    "code": "2.6.TC2a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Hiển thị được nhiều danh tính số cụ thể."
+  },
+  {
+    "code": "2.6.TC2b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thảo luận những cách cụ thể để bảo vệ"
+  },
+  {
+    "code": "2.6.TC2c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Thao tác dữ liệu cá nhân tạo ra thông qua"
+  },
+  {
+    "code": "2.6.NC1a",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Sử dụng được nhiều danh tính số"
+  },
+  {
+    "code": "2.6.NC1b",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được các cách khác nhau để"
+  },
+  {
+    "code": "2.6.NC1c",
+    "domainCode": "2",
+    "domainName": "Giao tiếp và hợp tác trong môi trường số",
+    "componentCode": "2.6",
+    "componentName": "Quản lý danh tính số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Sử dụng được dữ liệu tạo ra thông qua"
+  },
+  {
+    "code": "3.1.CB1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được các cách tạo và chỉnh sửa"
+  },
+  {
+    "code": "3.1.CB1b",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Chọn được cách thể hiện bản thân"
+  },
+  {
+    "code": "3.1.CB2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được các cách tạo và chỉnh sửa"
+  },
+  {
+    "code": "3.1.CB2b",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Chọn được cách thể hiện bản thân"
+  },
+  {
+    "code": "3.1.TC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chỉ ra được cách tạo và chỉnh sửa nội"
+  },
+  {
+    "code": "3.1.TC1b",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Thể hiện được bản thân thông qua việc"
+  },
+  {
+    "code": "3.1.TC2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Chỉ ra được cách tạo và chỉnh sửa nội"
+  },
+  {
+    "code": "3.1.TC2b",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thể hiện được bản thân thông qua việc"
+  },
+  {
+    "code": "3.1.NC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Áp dụng được các cách tạo và chỉnh sửa"
+  },
+  {
+    "code": "3.1.NC1b",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.1",
+    "componentName": "Phát triển nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Chỉ ra được những cách thể hiện bản thân"
+  },
+  {
+    "code": "3.2.CB1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.2",
+    "componentName": "Tích hợp và tạo lập lại nội dung số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Chọn được các cách sửa đổi, tinh"
+  },
+  {
+    "code": "3.2.CB2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.2",
+    "componentName": "Tích hợp và tạo lập lại nội dung số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Chọn được các cách sửa đổi, tinh"
+  },
+  {
+    "code": "3.2.TC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.2",
+    "componentName": "Tích hợp và tạo lập lại nội dung số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được các cách sửa đổi, tinh"
+  },
+  {
+    "code": "3.2.TC2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.2",
+    "componentName": "Tích hợp và tạo lập lại nội dung số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thảo luận các cách sửa đổi, tinh chỉnh, cải"
+  },
+  {
+    "code": "3.2.NC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.2",
+    "componentName": "Tích hợp và tạo lập lại nội dung số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Làm việc với các mục nội dung và"
+  },
+  {
+    "code": "3.3.CB1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.3",
+    "componentName": "Thực thi bản quyền và giấy phép",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được các quy tắc đơn giản về"
+  },
+  {
+    "code": "3.3.CB2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.3",
+    "componentName": "Thực thi bản quyền và giấy phép",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được các quy tắc đơn giản về"
+  },
+  {
+    "code": "3.3.TC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.3",
+    "componentName": "Thực thi bản quyền và giấy phép",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chỉ ra được các quy tắc thông thường"
+  },
+  {
+    "code": "3.3.TC2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.3",
+    "componentName": "Thực thi bản quyền và giấy phép",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thảo luận các quy tắc về bản quyền và"
+  },
+  {
+    "code": "3.3.NC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.3",
+    "componentName": "Thực thi bản quyền và giấy phép",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Áp dụng được các quy định khác nhau về"
+  },
+  {
+    "code": "3.4.CB1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.4",
+    "componentName": "Lập trình",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Liệt kê được các hướng dẫn đơn giản"
+  },
+  {
+    "code": "3.4.CB2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.4",
+    "componentName": "Lập trình",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Liệt kê được các hướng dẫn đơn giản"
+  },
+  {
+    "code": "3.4.TC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.4",
+    "componentName": "Lập trình",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Liệt kê được các hướng dẫn thông"
+  },
+  {
+    "code": "3.4.TC2a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.4",
+    "componentName": "Lập trình",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Liệt kê được các hướng dẫn cho một"
+  },
+  {
+    "code": "3.4.NC1a",
+    "domainCode": "3",
+    "domainName": "Sáng tạo nội dung số",
+    "componentCode": "3.4",
+    "componentName": "Lập trình",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Tự thao tác được bằng các hướng dẫn"
+  },
+  {
+    "code": "4.1.CB1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Nhận biết được cách bảo vệ thiết bị và"
+  },
+  {
+    "code": "4.1.CB1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Phân biệt được rủi ro và mối đe dọa đơn"
+  },
+  {
+    "code": "4.1.CB1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Chọn lựa được các biện pháp an toàn và"
+  },
+  {
+    "code": "4.1.CB1d",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "d. Nhận biết được những cách thức đơn"
+  },
+  {
+    "code": "4.1.CB2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Nhận biết được cách bảo vệ thiết bị và"
+  },
+  {
+    "code": "4.1.CB2b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Phân biệt được rủi ro và mối đe dọa đơn"
+  },
+  {
+    "code": "4.1.CB2c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Tuân theo được các biện pháp an toàn và"
+  },
+  {
+    "code": "4.1.CB2d",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "d. Nhận biết được những cách thức đơn"
+  },
+  {
+    "code": "4.1.TC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chỉ ra được những cách thức cơ bản và"
+  },
+  {
+    "code": "4.1.TC1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Phân biệt được những rủi ro và mối đe"
+  },
+  {
+    "code": "4.1.TC1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Chọn lựa được các biện pháp an toàn và"
+  },
+  {
+    "code": "4.1.TC1d",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "d. Chỉ ra được những cách thức cơ bản và"
+  },
+  {
+    "code": "4.1.TC2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thiết lập được những cách thức bảo"
+  },
+  {
+    "code": "4.1.TC2b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Phân biệt được rủi ro và mối đe dọa trong"
+  },
+  {
+    "code": "4.1.TC2c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Chọn lựa được các biện pháp an toàn và"
+  },
+  {
+    "code": "4.1.TC2d",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "d. Giải thích được các cách thức để quan"
+  },
+  {
+    "code": "4.1.NC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Áp dụng được các cách khác nhau để"
+  },
+  {
+    "code": "4.1.NC1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Nhận thức được sự đa dạng của các rủi ro"
+  },
+  {
+    "code": "4.1.NC1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Áp dụng được các biện pháp an toàn và"
+  },
+  {
+    "code": "4.1.NC1d",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.1",
+    "componentName": "Bảo vệ thiết bị",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "d. Sử dụng được các cách thức khác nhau"
+  },
+  {
+    "code": "4.2.CB1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Lựa chọn được những cách thức đơn"
+  },
+  {
+    "code": "4.2.CB1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Nhận biết được các cách sử dụng và chia"
+  },
+  {
+    "code": "4.2.CB1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Nhận diện được các tuyên bố cơ bản"
+  },
+  {
+    "code": "4.2.CB2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Lựa chọn được những cách thức đơn"
+  },
+  {
+    "code": "4.2.CB2b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Nhận biết được các cách sử dụng và chia"
+  },
+  {
+    "code": "4.2.CB2c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Nhận diện được các tuyên bố cơ bản"
+  },
+  {
+    "code": "4.2.TC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được các cách thức cơ bản và"
+  },
+  {
+    "code": "4.2.TC1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Giải thích được các cách thức cơ bản và"
+  },
+  {
+    "code": "4.2.TC1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Chỉ ra được các tuyên bố cơ bản và"
+  },
+  {
+    "code": "4.2.TC2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thảo luận về cách bảo vệ dữ liệu cá"
+  },
+  {
+    "code": "4.2.TC2b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thảo luận về cách sử dụng và chia sẻ"
+  },
+  {
+    "code": "4.2.TC2c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Chỉ ra được các tuyên bố trong chính"
+  },
+  {
+    "code": "4.2.NC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Áp dụng được các cách thức khác nhau"
+  },
+  {
+    "code": "4.2.NC1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được các cách thức đặc thù để"
+  },
+  {
+    "code": "4.2.NC1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.2",
+    "componentName": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Giải thích được các tuyên bố trong chính"
+  },
+  {
+    "code": "4.3.CB1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Phân biệt được các cách thức đơn giản để"
+  },
+  {
+    "code": "4.3.CB1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Lựa chọn được những cách thức đơn"
+  },
+  {
+    "code": "4.3.CB1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Nhận biết được những công nghệ số"
+  },
+  {
+    "code": "4.3.CB2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Phân biệt được các cách thức đơn giản để"
+  },
+  {
+    "code": "4.3.CB2b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Lựa chọn được những cách thức đơn"
+  },
+  {
+    "code": "4.3.CB2c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Nhận biết được những công nghệ số"
+  },
+  {
+    "code": "4.3.TC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được những cách thức cơ"
+  },
+  {
+    "code": "4.3.TC1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Lựa chọn được những cách thức cơ"
+  },
+  {
+    "code": "4.3.TC1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Chỉ ra được những công nghệ số cơ bản"
+  },
+  {
+    "code": "4.3.TC2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Giải thích được những cách thức để"
+  },
+  {
+    "code": "4.3.TC2b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Lựa chọn được cách thức bảo vệ bản"
+  },
+  {
+    "code": "4.3.TC2c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Thảo luận về những công nghệ số giúp"
+  },
+  {
+    "code": "4.3.NC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Trình bày được các cách thức khác nhau"
+  },
+  {
+    "code": "4.3.NC1b",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được các cách thức khác nhau"
+  },
+  {
+    "code": "4.3.NC1c",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.3",
+    "componentName": "Bảo vệ sức khỏe và an sinh số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Trình bày được các công nghệ số khác"
+  },
+  {
+    "code": "4.4.CB1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.4",
+    "componentName": "Bảo vệ môi trường",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Nhận biết được tác động cơ bản của công"
+  },
+  {
+    "code": "4.4.CB2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.4",
+    "componentName": "Bảo vệ môi trường",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Nhận biết được tác động cơ bản của công"
+  },
+  {
+    "code": "4.4.TC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.4",
+    "componentName": "Bảo vệ môi trường",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chỉ ra được những tác động cơ bản và"
+  },
+  {
+    "code": "4.4.TC2a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.4",
+    "componentName": "Bảo vệ môi trường",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thảo luận về các cách thức bảo vệ môi"
+  },
+  {
+    "code": "4.4.NC1a",
+    "domainCode": "4",
+    "domainName": "An toàn",
+    "componentCode": "4.4",
+    "componentName": "Bảo vệ môi trường",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Trình bày được các cách thức khác nhau"
+  },
+  {
+    "code": "5.1.CB1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được các vấn đề kỹ thuật đơn"
+  },
+  {
+    "code": "5.1.CB1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Xác định được các giải pháp đơn giản để"
+  },
+  {
+    "code": "5.1.CB2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được các vấn đề kỹ thuật đơn"
+  },
+  {
+    "code": "5.1.CB2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Xác định được các giải pháp đơn giản để"
+  },
+  {
+    "code": "5.1.TC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chỉ ra được các vấn đề kỹ thuật thông"
+  },
+  {
+    "code": "5.1.TC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Chọn được các giải pháp được xác định rõ"
+  },
+  {
+    "code": "5.1.TC2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Phân biệt được các vấn đề kỹ thuật khi"
+  },
+  {
+    "code": "5.1.TC2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Chọn được giải pháp cho chúng."
+  },
+  {
+    "code": "5.1.NC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Đánh giá được các vấn đề kỹ thuật khi sử"
+  },
+  {
+    "code": "5.1.NC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.1",
+    "componentName": "Giải quyết các vấn đề kỹ thuật",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được các giải pháp khác nhau"
+  },
+  {
+    "code": "5.2.CB1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được nhu cầu cá nhân."
+  },
+  {
+    "code": "5.2.CB1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Nhận ra được các công cụ số đơn giản"
+  },
+  {
+    "code": "5.2.CB1c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Chọn được những cách đơn giản để điều"
+  },
+  {
+    "code": "5.2.CB2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được nhu cầu cá nhân."
+  },
+  {
+    "code": "5.2.CB2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Nhận ra được các công cụ số đơn giản"
+  },
+  {
+    "code": "5.2.CB2c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Chọn được những cách đơn giản để điều"
+  },
+  {
+    "code": "5.2.TC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chỉ ra được những nhu cầu được xác"
+  },
+  {
+    "code": "5.2.TC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Chọn được các công cụ số thông"
+  },
+  {
+    "code": "5.2.TC1c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Chọn được những cách thông thường và"
+  },
+  {
+    "code": "5.2.TC2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Giải thích nhu cầu cá nhân."
+  },
+  {
+    "code": "5.2.TC2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Lựa chọn được các công cụ số và các giải"
+  },
+  {
+    "code": "5.2.TC2c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Chọn được cách điều chỉnh và tùy"
+  },
+  {
+    "code": "5.2.NC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Đánh giá được nhu cầu cá nhân."
+  },
+  {
+    "code": "5.2.NC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng được các công cụ số khác nhau"
+  },
+  {
+    "code": "5.2.NC1c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.2",
+    "componentName": "Xác định nhu cầu và giải pháp công nghệ",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Sử dụng được các cách khác nhau để"
+  },
+  {
+    "code": "5.3.CB1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Xác định được các công cụ và công nghệ"
+  },
+  {
+    "code": "5.3.CB1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Thể hiện được sự quan tâm của cá nhân"
+  },
+  {
+    "code": "5.3.CB2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được các công cụ và công nghệ"
+  },
+  {
+    "code": "5.3.CB2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Tuân theo quy trình nhận thức đơn giản"
+  },
+  {
+    "code": "5.3.TC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Chọn được các công cụ và công nghệ"
+  },
+  {
+    "code": "5.3.TC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Gắn kết được cá nhân và tập thể vào"
+  },
+  {
+    "code": "5.3.TC2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Phân biệt được các công cụ và công nghệ"
+  },
+  {
+    "code": "5.3.TC2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Gắn kết được cá nhân và tập thể vào"
+  },
+  {
+    "code": "5.3.NC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Áp dụng được các công cụ và công nghệ"
+  },
+  {
+    "code": "5.3.NC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.3",
+    "componentName": "Sử dụng sáng tạo công nghệ số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Áp dụng xử lý nhận thức của cá nhân và"
+  },
+  {
+    "code": "5.4.CB1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Nhận ra được NLS của tôi cần được cải"
+  },
+  {
+    "code": "5.4.CB1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Xác định được nơi để tìm kiếm cơ hội"
+  },
+  {
+    "code": "5.4.CB2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Nhận ra được NLS của tôi cần được cải"
+  },
+  {
+    "code": "5.4.CB2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Xác định được nơi để tìm kiếm cơ hội"
+  },
+  {
+    "code": "5.4.TC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được NLS của bản thân cần"
+  },
+  {
+    "code": "5.4.TC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Chỉ ra được nơi để tìm kiếm các cơ hội"
+  },
+  {
+    "code": "5.4.TC2a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Thảo luận về lĩnh vực NLS của bản thân"
+  },
+  {
+    "code": "5.4.TC2b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Chỉ ra được cách hỗ trợ người khác"
+  },
+  {
+    "code": "5.4.TC2c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Chỉ ra được nơi để tìm kiếm cơ hội phát"
+  },
+  {
+    "code": "5.4.NC1a",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Chứng minh được NLS của tôi cần được"
+  },
+  {
+    "code": "5.4.NC1b",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Minh họa được những cách khác"
+  },
+  {
+    "code": "5.4.NC1c",
+    "domainCode": "5",
+    "domainName": "Giải quyết vấn đề",
+    "componentCode": "5.4",
+    "componentName": "Xác định các vấn đề cần cải thiện về năng lực số",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Đề xuất được các cơ hội khác nhau để"
+  },
+  {
+    "code": "6.1.CB2a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Xác định được các khái niệm cơ bản của"
+  },
+  {
+    "code": "6.1.CB2b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Nhớ lại được các ứng dụng đơn giản"
+  },
+  {
+    "code": "6.1.TC1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được nguyên tắc hoạt động"
+  },
+  {
+    "code": "6.1.TC1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Diễn giải được các thuật ngữ và khái"
+  },
+  {
+    "code": "6.1.TC2a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Áp dụng được các nguyên tắc cơ bản"
+  },
+  {
+    "code": "6.1.TC2b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Thực hiện được các thao tác cơ bản"
+  },
+  {
+    "code": "6.1.NC1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Phân tích được cách AI hoạt động"
+  },
+  {
+    "code": "6.1.NC1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.1",
+    "componentName": "Hiểu biết về AI (trong đó có Gen AI)",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. So sánh được các hệ thống AI khác nhau"
+  },
+  {
+    "code": "6.2.CB1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Nhận diện được các công cụ AI đơn"
+  },
+  {
+    "code": "6.2.CB1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Thực hiện được các thao tác cơ bản"
+  },
+  {
+    "code": "6.2.CB1c",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "c. Nhận thức được cơ bản về các vấn đề đạo"
+  },
+  {
+    "code": "6.2.CB2a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Áp dụng được các công cụ AI để giải"
+  },
+  {
+    "code": "6.2.CB2b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Tương tác được với các hệ thống AI cơ"
+  },
+  {
+    "code": "6.2.CB2c",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "c. Tuân thủ các quy định pháp luật cơ bản"
+  },
+  {
+    "code": "6.2.TC1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Sử dụng được các công cụ AI trong công"
+  },
+  {
+    "code": "6.2.TC1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Thực hành được các kỹ năng sử dụng"
+  },
+  {
+    "code": "6.2.TC1c",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "c. Xem xét các khía cạnh đạo đức khi sử"
+  },
+  {
+    "code": "6.2.TC2a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Tối ưu hóa việc sử dụng các công cụ AI"
+  },
+  {
+    "code": "6.2.TC2b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. Quản lý được việc triển khai các công cụ"
+  },
+  {
+    "code": "6.2.TC2c",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "c. Bảo vệ được dữ liệu cá nhân và tuân"
+  },
+  {
+    "code": "6.2.NC1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Phát triển được các ứng dụng AI tùy chỉnh"
+  },
+  {
+    "code": "6.2.NC1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Điều chỉnh được các hệ thống AI để"
+  },
+  {
+    "code": "6.2.NC1c",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.2",
+    "componentName": "Sử dụng AI có đạo đức và trách nhiệm",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "c. Đánh giá và giảm thiểu được các rủi ro"
+  },
+  {
+    "code": "6.3.CB1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "a. Nhận diện được một số vật dụng/trò"
+  },
+  {
+    "code": "6.3.CB1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "CB1",
+    "levelName": "Lớp 1, 2, 3 (Cơ bản 1)",
+    "description": "b. Nhớ được rằng không phải mọi thông"
+  },
+  {
+    "code": "6.3.CB2a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "a. Nhận diện được các yếu tố cơ bản của"
+  },
+  {
+    "code": "6.3.CB2b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "CB2",
+    "levelName": "Lớp 4, 5 (Cơ bản 2)",
+    "description": "b. Mô tả được các chức năng chính của"
+  },
+  {
+    "code": "6.3.TC1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "a. Giải thích được cách thức hoạt động"
+  },
+  {
+    "code": "6.3.TC1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "TC1",
+    "levelName": "Lớp 6, 7 (Trung cấp 1)",
+    "description": "b. Tóm tắt được các đặc điểm và ứng dụng"
+  },
+  {
+    "code": "6.3.TC2a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "a. Phân tích được hiệu quả của hệ thống"
+  },
+  {
+    "code": "6.3.TC2b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "TC2",
+    "levelName": "Lớp 8, 9 (Trung cấp 2)",
+    "description": "b. So sánh được hiệu suất của các hệ thống"
+  },
+  {
+    "code": "6.3.NC1a",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "a. Đánh giá được độ chính xác và tin cậy"
+  },
+  {
+    "code": "6.3.NC1b",
+    "domainCode": "6",
+    "domainName": "Ứng dụng trí tuệ nhân tạo",
+    "componentCode": "6.3",
+    "componentName": "Đánh giá các công cụ AI",
+    "levelCode": "NC1",
+    "levelName": "Lớp 10, 11, 12 (Nâng cao 1)",
+    "description": "b. Xem xét được các kết quả và đưa ra"
+  }
+]

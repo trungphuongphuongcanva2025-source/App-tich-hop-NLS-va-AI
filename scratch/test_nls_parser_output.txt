@@ -1,0 +1,108 @@
+Total indicator matches found: 265
+
+BLOCK 1 (1.1.CB1a):
+1.1.CB1a 1. Khai thác 
+dữ liệu và 
+1.1. Duyệt, tìm 
+kiếm và lọc dữ 
+Xác định được nhu cầu thông tin; tìm kiếm được 
+dữ liệu, thông tin và nội dung trong môi trường số; 
+L1-L2-L3 
+(CB1)
+Ở trình độ cơ bản và 
+có hướng dẫn, học 
+a. Xác định được nhu 
+cầu thông tin, tìm kiếm
+==================================================
+
+BLOCK 2 (1.1.CB1b):
+1.1.CB1b 1. Khai thác 
+dữ liệu và 
+thông tin
+1.1. Duyệt, tìm 
+kiếm và lọc dữ 
+liệu, thông tin và 
+nội dung số
+Xác định được nhu cầu thông tin; tìm kiếm được 
+dữ liệu, thông tin và nội dung trong môi trường số; 
+truy cập chúng và khai thác được kết quả tìm kiếm. 
+Tạo và cập nhật được chiến lược tìm kiếm.
+L1-L2-L3 
+(CB1)
+Ở trình độ cơ bản và 
+có hướng dẫn, học 
+sinh có thể:
+b. Tìm được cách truy 
+cập những dữ liệu, 
+thông tin và nội dung 
+này cũng như điều 
+hướng giữa chúng.
+==================================================
+
+BLOCK 3 (1.1.CB1c):
+1.1.CB1c 1. Khai thác 
+dữ liệu và 
+thông tin
+1.1. Duyệt, tìm 
+kiếm và lọc dữ 
+liệu, thông tin và 
+nội dung số
+Xác định được nhu cầu thông tin; tìm kiếm được 
+dữ liệu, thông tin và nội dung trong môi trường số; 
+truy cập chúng và khai thác được kết quả tìm kiếm. 
+Tạo và cập nhật được chiến lược tìm kiếm.
+L1-L2-L3 
+(CB1)
+Ở trình độ cơ bản và 
+có hướng dẫn, học 
+sinh có thể:
+c. Xác định được các 
+chiến lược tìm kiếm 
+đơn giản.
+==================================================
+
+BLOCK 4 (1.1.CB2a):
+1.1.CB2a 1. Khai thác 
+dữ liệu và 
+thông tin
+1.1. Duyệt, tìm 
+kiếm và lọc dữ 
+liệu, thông tin và 
+nội dung số
+Xác định được nhu cầu thông tin; tìm kiếm được 
+dữ liệu, thông tin và nội dung trong môi trường số; 
+truy cập chúng và khai thác được kết quả tìm kiếm. 
+Tạo và cập nhật được chiến lược tìm kiếm.
+L4-L5 (CB2) Ở trình độ cơ bản, với 
+khả năng tự chủ và 
+hướng dẫn phù hợp 
+khi cần, học sinh có 
+thể:
+a. Xác định được nhu 
+cầu thông tin.
+==================================================
+
+BLOCK 5 (1.1.CB2b):
+1.1.CB2b 1. Khai thác 
+dữ liệu và 
+thông tin
+1.1. Duyệt, tìm 
+kiếm và lọc dữ 
+liệu, thông tin và 
+nội dung số
+Xác định được nhu cầu thông tin; tìm kiếm được 
+dữ liệu, thông tin và nội dung trong môi trường số; 
+truy cập chúng và khai thác được kết quả tìm kiếm. 
+Tạo và cập nhật được chiến lược tìm kiếm.
+L4-L5 (CB2) Ở trình độ cơ bản, với 
+khả năng tự chủ và 
+hướng dẫn phù hợp 
+khi cần, học sinh có 
+thể:
+b. Tìm được dữ liệu, 
+thông tin và nội dung 
+thông qua tìm kiếm 
+đơn giản trong môi 
+trường số.
+==================================================
+
