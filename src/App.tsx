@@ -20,131 +20,131 @@ import { motion, AnimatePresence } from "motion/react";
 
 // Default template for physical plan
 const DEFAULT_LESSON_PLAN_HTML = `
-<div class="lesson-document text-[#2c3e50] font-serif leading-relaxed px-2 py-4">
-  <div class="text-center font-bold mb-6 text-xl tracking-tight">
+<div class="lesson-document" style="font-family: 'Times New Roman', Times, serif; font-size: 14pt; line-height: 1.5; color: black; text-align: justify;">
+  <div style="text-align: center; font-weight: bold; margin-bottom: 25px; font-size: 14pt; line-height: 1.3;">
     <div>TUẦN 1</div>
-    <div class="uppercase text-lg">Kế hoạch bài dạy</div>
+    <div style="text-transform: uppercase; font-size: 15pt;">Kế hoạch bài dạy</div>
     <div>Môn: Toán — Lớp 2</div>
-    <div class="uppercase text-md">BÀI: ÔN TẬP CÁC SỐ ĐẾN 100</div>
-    <div class="text-sm font-normal italic mt-1">(2 TIẾT)</div>
-    <div class="text-sm font-normal italic">Thời gian thực hiện: Thứ ........., ngày ...... tháng ...... năm 2023</div>
+    <div style="text-transform: uppercase; font-size: 15pt;">BÀI: ÔN TẬP CÁC SỐ ĐẾN 100</div>
+    <div style="font-size: 12pt; font-weight: normal; font-style: italic; margin-top: 5px;">(2 TIẾT)</div>
+    <div style="font-size: 12pt; font-weight: normal; font-style: italic;">Thời gian thực hiện: Thứ ........., ngày ...... tháng ...... năm 2023</div>
   </div>
 
-  <div class="mb-4">
-    <div class="font-bold text-md mb-1">I. YÊU CẦU CẦN ĐẠT:</div>
-    <div class="pl-4">
-      <div class="font-bold underline text-sm">1. Kiến thức:</div>
-      <ul class="list-disc pl-5 text-sm my-1 space-y-1">
-        <li>Đọc số, viết số trong phạm vi 100.</li>
-        <li>So sánh các số, thứ tự số.</li>
-        <li>Hiểu cấu tạo thập phân của số.</li>
+  <div style="margin-bottom: 15px;">
+    <div style="font-weight: bold;">I. YÊU CẦU CẦN ĐẠT:</div>
+    <div style="padding-left: 20px;">
+      <div style="font-weight: bold; text-decoration: underline;">1. Kiến thức:</div>
+      <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+        <li style="margin-bottom: 4px;">Đọc số, viết số trong phạm vi 100.</li>
+        <li style="margin-bottom: 4px;">So sánh các số, thứ tự số.</li>
+        <li style="margin-bottom: 4px;">Hiểu cấu tạo thập phân của số.</li>
       </ul>
 
-      <div class="font-bold underline text-sm mt-3">2. Năng lực:</div>
-      <div class="italic text-sm font-medium mt-1">* Năng lực chung:</div>
-      <ul class="list-disc pl-5 text-sm my-1 space-y-1">
-        <li><strong>Năng lực tự chủ và tự học:</strong> Có ý thức học hỏi thầy cô, bạn bè và người khác để củng cố và mở rộng hiểu biết.</li>
-        <li><strong>Năng lực giao tiếp, hợp tác:</strong> Trao đổi, thảo luận nhóm để thực hiện các nhiệm vụ học tập.</li>
-        <li><strong>Năng lực giải quyết vấn đề và sáng tạo:</strong> Sử dụng các kiến thức đã học ứng dụng vào thực tế cuộc sống.</li>
+      <div style="font-weight: bold; text-decoration: underline; margin-top: 10px;">2. Năng lực:</div>
+      <div style="font-style: italic; font-weight: bold; margin-top: 5px;">* Năng lực chung:</div>
+      <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+        <li style="margin-bottom: 4px;"><strong>Năng lực tự chủ và tự học:</strong> Có ý thức học hỏi thầy cô, bạn bè và người khác để củng cố và mở rộng hiểu biết.</li>
+        <li style="margin-bottom: 4px;"><strong>Năng lực giao tiếp, hợp tác:</strong> Trao đổi, thảo luận nhóm để thực hiện các nhiệm vụ học tập.</li>
+        <li style="margin-bottom: 4px;"><strong>Năng lực giải quyết vấn đề và sáng tạo:</strong> Sử dụng các kiến thức đã học ứng dụng vào thực tế cuộc sống.</li>
       </ul>
-      <div class="italic text-sm font-medium mt-2">* Năng lực đặc thù:</div>
-      <ul class="list-disc pl-5 text-sm my-1 space-y-1">
-        <li>Tư duy và lập luận toán học, mô hình hoá toán học thông qua việc biểu diễn số bằng đồ dùng trực quan.</li>
-        <li>Giải quyết vấn đề toán học thực tế.</li>
+      <div style="font-style: italic; font-weight: bold; margin-top: 8px;">* Năng lực đặc thù:</div>
+      <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+        <li style="margin-bottom: 4px;">Tư duy và lập luận toán học, mô hình hoá toán học thông qua việc biểu diễn số bằng đồ dùng trực quan.</li>
+        <li style="margin-bottom: 4px;">Giải quyết vấn đề toán học thực tế.</li>
       </ul>
 
-      <div class="font-bold underline text-sm mt-3">3. Phẩm chất:</div>
-      <ul class="list-disc pl-5 text-sm my-1 space-y-1">
-        <li><strong>Chăm chỉ:</strong> Chăm chỉ suy nghĩ, tích cực tham gia phát biểu và trả lời câu hỏi; hoàn thành các bài tập đầy đủ.</li>
-        <li><strong>Trung thực:</strong> Các em thật thà, tự trọng trong quá trình tự đánh giá và tương tác học tập.</li>
-        <li><strong>Trách nhiệm:</strong> Giữ trật tự, biết lắng nghe ý kiến nhóm, có trách nhiệm với nhiệm vụ tập thể.</li>
+      <div style="font-weight: bold; text-decoration: underline; margin-top: 10px;">3. Phẩm chất:</div>
+      <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+        <li style="margin-bottom: 4px;"><strong>Chăm chỉ:</strong> Chăm chỉ suy nghĩ, tích cực tham gia phát biểu và trả lời câu hỏi; hoàn thành các bài tập đầy đủ.</li>
+        <li style="margin-bottom: 4px;"><strong>Trung thực:</strong> Các em thật thà, tự trọng trong quá trình tự đánh giá và tương tác học tập.</li>
+        <li style="margin-bottom: 4px;"><strong>Trách nhiệm:</strong> Giữ trật tự, biết lắng nghe ý kiến nhóm, có trách nhiệm với nhiệm vụ tập thể.</li>
       </ul>
     </div>
   </div>
 
-  <div class="mb-4">
-    <div class="font-bold text-md mb-1">II. ĐỒ DÙNG DẠY HỌC:</div>
-    <div class="pl-4 text-sm space-y-1">
+  <div style="margin-bottom: 15px;">
+    <div style="font-weight: bold;">II. ĐỒ DÙNG DẠY HỌC:</div>
+    <div style="padding-left: 20px; margin-top: 5px;">
       <div><strong>1. Giáo viên:</strong></div>
-      <ul class="list-disc pl-5 my-1">
-        <li>Giáo án, Sách giáo khoa (SGK), Sách giáo viên (SGV).</li>
-        <li>Tivi/Máy chiếu, ảnh chụp bảng số từ 1 đến 100.</li>
+      <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+        <li style="margin-bottom: 4px;">Giáo án, Sách giáo khoa (SGK), Sách giáo viên (SGV).</li>
+        <li style="margin-bottom: 4px;">Tivi/Máy chiếu, ảnh chụp bảng số từ 1 đến 100.</li>
       </ul>
-      <div><strong>2. Học sinh:</strong></div>
-      <ul class="list-disc pl-5 my-1">
-        <li>SGK, Vở bài tập toán.</li>
-        <li>Bộ đồ dùng toán 2: các khối lập phương tách rời, thanh chục (thước gồm 10 khối liên kết).</li>
+      <div style="margin-top: 8px;"><strong>2. Học sinh:</strong></div>
+      <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+        <li style="margin-bottom: 4px;">SGK, Vở bài tập toán.</li>
+        <li style="margin-bottom: 4px;">Bộ đồ dùng toán 2: các khối lập phương tách rời, thanh chục (thước gồm 10 khối liên kết).</li>
       </ul>
     </div>
   </div>
 
-  <div class="mb-4">
-    <div class="font-bold text-md mb-2">III. CÁC HOẠT ĐỘNG DẠY HỌC CHỦ YẾU (TIẾT 1):</div>
+  <div style="margin-bottom: 15px;">
+    <div style="font-weight: bold; margin-bottom: 10px;">III. CÁC HOẠT ĐỘNG DẠY HỌC CHỦ YẾU (TIẾT 1):</div>
     
-    <table class="w-full border-collapse border border-gray-800 text-sm my-2 text-left">
+    <table style="width: 100%; border-collapse: collapse; border: 1px solid black; margin: 15px 0; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
       <thead>
-        <tr class="bg-gray-100 border-b border-gray-800">
-          <th class="border border-gray-800 p-2 text-center w-[80px]">Thời lượng</th>
-          <th class="border border-gray-800 p-2 text-center w-[45%]">HOẠT ĐỘNG DẠY (Giáo viên)</th>
-          <th class="border border-gray-800 p-2 text-center w-[45%]">HOẠT ĐỘNG HỌC (Học sinh)</th>
+        <tr style="background-color: #f2f2f2;">
+          <th style="border: 1px solid black; padding: 8px; text-align: center; width: 80px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">Thời lượng</th>
+          <th style="border: 1px solid black; padding: 8px; text-align: center; width: 45%; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">HOẠT ĐỘNG DẠY (Giáo viên)</th>
+          <th style="border: 1px solid black; padding: 8px; text-align: center; width: 45%; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">HOẠT ĐỘNG HỌC (Học sinh)</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td class="border border-gray-800 p-2 text-center font-bold">5'</td>
-          <td class="border border-gray-800 p-2">
-            <p class="font-bold">1. Khởi động:</p>
-            <p class="text-xs italic mb-1">Mục tiêu: Tạo tâm thế hứng thú cho HS và từng bước làm quen với không khí lớp học toán mới.</p>
-            <p class="font-medium mt-1">Cách tiến hành:</p>
-            <ul class="list-decimal pl-4 space-y-1 text-xs">
-              <li>GV tổ chức cho cả lớp chơi trò chơi hát múa tập thể "Năm ngón tay ngoan" để khởi động phấn khích.</li>
-              <li>GV giới thiệu bài học mới: "Ôn tập các số đến 100".</li>
-            </ul>
+          <td style="border: 1px solid black; padding: 8px; text-align: center; font-weight: bold; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">5'</td>
+          <td style="border: 1px solid black; padding: 8px; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+            <p style="font-weight: bold; margin: 0 0 5px 0;">1. Khởi động:</p>
+            <p style="font-style: italic; font-size: 12pt; margin: 0 0 5px 0; color: #555;">Mục tiêu: Tạo tâm thế hứng thú cho HS và từng bước làm quen với không khí lớp học toán mới.</p>
+            <p style="font-weight: bold; margin: 5px 0 2px 0;">Cách tiến hành:</p>
+            <ol style="margin: 5px 0 5px 20px; padding: 0; list-style-type: decimal;">
+              <li style="margin-bottom: 3px;">GV tổ chức cho cả lớp chơi trò chơi hát múa tập thể "Năm ngón tay ngoan" để khởi động phấn khích.</li>
+              <li style="margin-bottom: 3px;">GV giới thiệu bài học mới: "Ôn tập các số đến 100".</li>
+            </ol>
           </td>
-          <td class="border border-gray-800 p-2 text-xs">
-            <ul class="list-disc pl-4 space-y-1">
-              <li>Cả lớp cùng tham gia múa hát nhiệt tình theo giai điệu bài hát mẫu trên tivi.</li>
-              <li>HS lắng nghe giáo viên giới thiệu bài mới, mở sách giáo khoa trang đầu tiên.</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td class="border border-gray-800 p-2 text-center font-bold">15'</td>
-          <td class="border border-gray-800 p-2">
-            <p class="font-bold">2. Ôn tập cách đọc, viết các số tròn chục và số có hai chữ số:</p>
-            <p class="text-xs italic mb-1">Mục tiêu: Ôn tập nhận biết, đọc, viết cấu tạo lập phương và viết số.</p>
-            <p class="font-medium mt-1">Cách tiến hành:</p>
-            <ul class="list-decimal pl-4 space-y-1 text-xs">
-              <li>GV đưa ra mô hình thanh chục và khối lập phương lẻ. Yêu cầu học sinh quan sát.</li>
-              <li>GV đọc số: "Ba mươi lăm". Đề nghị HS lập nhóm lấy số thanh tương ứng.</li>
-              <li>GV theo dõi, hướng dẫn các nhóm lúng túng.</li>
-            </ul>
-          </td>
-          <td class="border border-gray-800 p-2 text-xs">
-            <ul class="list-disc pl-4 space-y-1">
-              <li>Học sinh quan sát giáo cụ của GV.</li>
-              <li>Các nhóm HS thảo luận nhanh, rút ra 3 thanh chục (gồm 30 khối) và 5 khối lập phương lẻ đại diện cho số 35.</li>
-              <li>Đại diện nhóm đứng lên giải thích cấu tạo số: "Số 35 gồm 3 chục và 5 đơn vị".</li>
+          <td style="border: 1px solid black; padding: 8px; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+            <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+              <li style="margin-bottom: 4px;">Cả lớp cùng tham gia múa hát nhiệt tình theo giai điệu bài hát mẫu trên tivi.</li>
+              <li style="margin-bottom: 4px;">HS lắng nghe giáo viên giới thiệu bài mới, mở sách giáo khoa trang đầu tiên.</li>
             </ul>
           </td>
         </tr>
         <tr>
-          <td class="border border-gray-800 p-2 text-center font-bold">15'</td>
-          <td class="border border-gray-800 p-2">
-            <p class="font-bold">3. Thực hành làm bài tập bảng số:</p>
-            <p class="text-xs italic mb-1">Mục tiêu: Đọc dãy số liên tục đến 100, điền khuyết số.</p>
-            <p class="font-medium mt-1">Cách tiến hành:</p>
-            <ul class="list-decimal pl-4 space-y-1 text-xs">
-              <li>GV chiếu bảng số từ 1 đến 100 bị khuyết vài số ở dòng 2 và dòng 5.</li>
-              <li>Yêu cầu học sinh làm cá nhân vào vở, tìm số phù hợp điền vào chỗ trống.</li>
-              <li>Gọi một số học sinh đọc to dãy số kết quả trước lớp để kiểm tra.</li>
+          <td style="border: 1px solid black; padding: 8px; text-align: center; font-weight: bold; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">15'</td>
+          <td style="border: 1px solid black; padding: 8px; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+            <p style="font-weight: bold; margin: 0 0 5px 0;">2. Ôn tập cách đọc, viết các số tròn chục và số có hai chữ số:</p>
+            <p style="font-style: italic; font-size: 12pt; margin: 0 0 5px 0; color: #555;">Mục tiêu: Ôn tập nhận biết, đọc, viết cấu tạo lập phương và viết số.</p>
+            <p style="font-weight: bold; margin: 5px 0 2px 0;">Cách tiến hành:</p>
+            <ol style="margin: 5px 0 5px 20px; padding: 0; list-style-type: decimal;">
+              <li style="margin-bottom: 3px;">GV đưa ra mô hình thanh chục và khối lập phương lẻ. Yêu cầu học sinh quan sát.</li>
+              <li style="margin-bottom: 3px;">GV đọc số: "Ba mươi lăm". Đề nghị HS lập nhóm lấy số thanh tương ứng.</li>
+              <li style="margin-bottom: 3px;">GV theo dõi, hướng dẫn các nhóm lúng túng.</li>
+            </ol>
+          </td>
+          <td style="border: 1px solid black; padding: 8px; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+            <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+              <li style="margin-bottom: 4px;">Học sinh quan sát giáo cụ của GV.</li>
+              <li style="margin-bottom: 4px;">Các nhóm HS thảo luận nhanh, rút ra 3 thanh chục (gồm 30 khối) và 5 khối lập phương lẻ đại diện cho số 35.</li>
+              <li style="margin-bottom: 4px;">Đại diện nhóm đứng lên giải thích cấu tạo số: "Số 35 gồm 3 chục và 5 đơn vị".</li>
             </ul>
           </td>
-          <td class="border border-gray-800 p-2 text-xs">
-            <ul class="list-disc pl-4 space-y-1">
-              <li>Học sinh thực hiện làm bài tập cá nhân vào vở viết sạch đẹp.</li>
-              <li>Học sinh xung phong lên bảng điền trực tiếp giá trị còn thiếu.</li>
-              <li>Cả lớp nhận xét, bổ sung và đồng thanh đọc dãy số hoàn chỉnh.</li>
+        </tr>
+        <tr>
+          <td style="border: 1px solid black; padding: 8px; text-align: center; font-weight: bold; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">15'</td>
+          <td style="border: 1px solid black; padding: 8px; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+            <p style="font-weight: bold; margin: 0 0 5px 0;">3. Thực hành làm bài tập bảng số:</p>
+            <p style="font-style: italic; font-size: 12pt; margin: 0 0 5px 0; color: #555;">Mục tiêu: Đọc dãy số liên tục đến 100, điền khuyết số.</p>
+            <p style="font-weight: bold; margin: 5px 0 2px 0;">Cách tiến hành:</p>
+            <ol style="margin: 5px 0 5px 20px; padding: 0; list-style-type: decimal;">
+              <li style="margin-bottom: 3px;">GV chiếu bảng số từ 1 đến 100 bị khuyết vài số ở dòng 2 và dòng 5.</li>
+              <li style="margin-bottom: 3px;">Yêu cầu học sinh làm cá nhân vào vở, tìm số phù hợp điền vào chỗ trống.</li>
+              <li style="margin-bottom: 3px;">Gọi một số học sinh đọc to dãy số kết quả trước lớp để kiểm tra.</li>
+            </ol>
+          </td>
+          <td style="border: 1px solid black; padding: 8px; vertical-align: top; font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+            <ul style="margin: 5px 0 5px 20px; padding: 0; list-style-type: disc;">
+              <li style="margin-bottom: 4px;">Học sinh thực hiện làm bài tập cá nhân vào vở viết sạch đẹp.</li>
+              <li style="margin-bottom: 4px;">Học sinh xung phong lên bảng điền trực tiếp giá trị còn thiếu.</li>
+              <li style="margin-bottom: 4px;">Cả lớp nhận xét, bổ sung và đồng thanh đọc dãy số hoàn chỉnh.</li>
             </ul>
           </td>
         </tr>
@@ -161,6 +161,7 @@ export default function App() {
   const [cvMode, setCvMode] = useState<'CV2345' | 'CV5512'>('CV2345');
   const [nlsEnabled, setNlsEnabled] = useState(true);
   const [aiEnabled, setAiEnabled] = useState(true);
+  const [showHighlights, setShowHighlights] = useState(true);
   
   // File upload states
   const [selectedFile, setSelectedFile] = useState<{
@@ -333,9 +334,9 @@ export default function App() {
               body {
                 font-family: "Times New Roman", Times, serif;
                 line-height: 1.5;
-                font-size: 13pt;
+                font-size: 14pt;
                 padding: 40px;
-                color: #2c3e50;
+                color: #000000;
               }
               .text-center { text-align: center; }
               .font-bold { font-weight: bold; }
@@ -344,38 +345,41 @@ export default function App() {
                 border-collapse: collapse;
                 width: 100%;
                 margin: 20px 0;
+                border: 1px solid #000000;
               }
               th, td {
-                border: 1px solid #111;
+                border: 1px solid #000000;
                 padding: 8px;
                 text-align: left;
                 vertical-align: top;
+                font-family: "Times New Roman", Times, serif;
+                font-size: 14pt;
               }
-              th { background-color: #f3f4f6; }
+              th { background-color: #f2f2f2; font-weight: bold; }
               ul { margin: 5px 0 5px 20px; padding: 0; }
               li { margin-bottom: 4px; }
               .nls-ai-addition {
-                background-color: #f0fdf4 !important;
-                border-left: 3px solid #10b981 !important;
-                color: #064e3b !important;
-                padding: 3px 6px !important;
-                border-radius: 4px;
-                font-weight: 500;
-                display: block;
-                margin: 4px 0;
+                background-color: transparent !important;
+                border: none !important;
+                color: #000000 !important;
+                padding: 0 !important;
+                margin: 0 !important;
+                font-weight: inherit !important;
+                display: inline !important;
+                box-shadow: none !important;
                 -webkit-print-color-adjust: exact;
                 print-color-adjust: exact;
               }
             </style>
           </head>
           <body>
-            <div style="font-size: 12pt; text-align: right; font-style: italic; margin-bottom: 20px;">
-              Hệ thống Giáo án Lồng ghép Năng lực Số & AI Quốc gia
+            <div style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: right; font-style: italic; margin-bottom: 20px; color: #555;">
+              Giáo án nâng cấp tích hợp chuyên nghiệp - Công cụ Năng lượng Số và Giáo dục AI
             </div>
             ${result.nangCapHtml}
-            <div style="margin-top: 40px; border-top: 1px solid #ddd; padding-top: 20px;">
-              <h3 class="font-bold">Nhận xét & Góp ý sư phạm của Chuyên gia Giáo dục:</h3>
-              <p style="white-space: pre-wrap; font-size: 11pt; color: #555;">
+            <div style="margin-top: 40px; border-top: 1px solid #000000; padding-top: 20px; font-family: 'Times New Roman', Times, serif;">
+              <h3 style="font-weight: bold; font-size: 14pt; margin: 0 0 10px 0;">Nhận xét & Góp ý sư phạm của Chuyên gia Giáo dục:</h3>
+              <p style="white-space: pre-wrap; font-size: 12pt; color: #333333; line-height: 1.4; margin: 0;">
                 ${result.expertComments}
               </p>
             </div>
@@ -403,36 +407,40 @@ export default function App() {
         <meta charset="utf-8">
         <title>${title}</title>
         <style>
-          body { font-family: "Times New Roman", serif; line-height: 1.5; font-size: 12pt; color: #000; }
+          body { font-family: "Times New Roman", serif; line-height: 1.5; font-size: 14pt; color: #000; text-align: justify; }
           .text-center { text-align: center; }
           .font-bold { font-weight: bold; }
           .uppercase { text-transform: uppercase; }
-          table { width: 100%; border-collapse: collapse; margin: 15px 0; }
-          th, td { border: 1px solid #000; padding: 6px; text-align: left; vertical-align: top; }
-          th { background-color: #f2f2f2; }
+          table { width: 100%; border-collapse: collapse; margin: 15px 0; border: 1px solid #000000; }
+          th, td { border: 1px solid #000000; padding: 8px; text-align: left; vertical-align: top; font-size: 14pt; font-family: "Times New Roman", serif; }
+          th { background-color: #f2f2f2; font-weight: bold; }
+          ul { margin: 5px 0 5px 20px; padding: 0; }
+          li { margin-bottom: 4px; }
           .nls-ai-addition { 
-            background-color: #e6f7ed; 
-            border-left: 3px solid #10b981; 
-            color: #044e34; 
-            padding: 4px; 
-            font-weight: bold; 
+            background-color: transparent !important;
+            border: none !important;
+            color: #000000 !important;
+            padding: 0 !important;
+            margin: 0 !important;
+            font-weight: inherit !important;
+            display: inline !important;
           }
         </style>
       </head>
       <body>`;
     const footer = `</body></html>`;
     const bodyContent = `
-      <div style="text-align: right; font-style: italic; font-size: 10pt; margin-bottom: 20px;">
+      <div style="text-align: right; font-style: italic; font-size: 10pt; margin-bottom: 20px; font-family: 'Times New Roman', serif; color: #555;">
         Giáo án nâng cấp tích hợp chuyên nghiệp - Công cụ Năng lượng Số và Giáo dục AI
       </div>
       ${result.nangCapHtml}
-      <hr style="margin-top: 30px;" />
-      <h3>Lời khuyên giáo dục từ chuyên gia:</h3>
-      <div style="font-family: inherit; font-size: 11pt; color: #333; margin-top: 10px;">
+      <hr style="margin-top: 30px; border: 0; border-top: 1px solid #000;" />
+      <h3 style="font-family: 'Times New Roman', serif; font-size: 14pt; font-weight: bold; margin: 20px 0 10px 0;">Lời khuyên giáo dục từ chuyên gia:</h3>
+      <div style="font-family: 'Times New Roman', serif; font-size: 12pt; color: #333; margin-top: 10px; line-height: 1.4;">
         ${result.expertComments.replace(/\n/g, "<br/>")}
       </div>
     `;
-
+ 
     const fullBlobHTML = header + bodyContent + footer;
     const blob = new Blob(["\ufeff" + fullBlobHTML], { type: "application/msword;charset=utf-8" });
     const url = URL.createObjectURL(blob);
@@ -738,10 +746,21 @@ export default function App() {
           
           {/* Preview Panel Header */}
           <div className="p-4 border-b border-slate-100 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-            <h2 className="text-lg font-bold text-indigo-900 flex items-center gap-2">
-              <span className="w-1.5 h-5 bg-indigo-600 inline-block rounded-xs"></span>
-              PREVIEW GIÁO ÁN NÂNG CẤP
-            </h2>
+            <div className="flex flex-wrap items-center gap-3">
+              <h2 className="text-lg font-bold text-indigo-900 flex items-center gap-2">
+                <span className="w-1.5 h-5 bg-indigo-600 inline-block rounded-xs"></span>
+                PREVIEW GIÁO ÁN
+              </h2>
+              <label className="flex items-center gap-1.5 cursor-pointer text-xs font-bold text-slate-600 bg-slate-100 hover:bg-slate-200 px-2.5 py-1.5 rounded-lg border border-slate-200 transition-all select-none">
+                <input
+                  type="checkbox"
+                  checked={showHighlights}
+                  onChange={(e) => setShowHighlights(e.target.checked)}
+                  className="w-4 h-4 accent-indigo-600 cursor-pointer"
+                />
+                <span>Hiện Highlight lồng ghép</span>
+              </label>
+            </div>
             
             {/* Download / Export actions in Geometric style */}
             {result && !loading && (
@@ -811,7 +830,66 @@ export default function App() {
             )}
 
             {/* Actual paper look */}
-            <div className="bg-white w-full shadow-md border border-slate-200 mx-auto p-5 md:p-8 rounded-lg">
+            <div className={`bg-white w-full shadow-md border border-slate-200 mx-auto p-5 md:p-8 rounded-lg ${showHighlights ? "show-highlights" : "hide-highlights"}`}>
+              <style>{`
+                .hide-highlights .nls-ai-addition {
+                  background-color: transparent !important;
+                  border: none !important;
+                  color: #000000 !important;
+                  padding: 0 !important;
+                  margin: 0 !important;
+                  font-weight: inherit !important;
+                  box-shadow: none !important;
+                  display: inline !important;
+                }
+                .show-highlights .nls-ai-addition {
+                  background-color: #ecfdf5 !important;
+                  border-left: 2.5px solid #10b981 !important;
+                  color: #064e3b !important;
+                  padding: 2px 5px !important;
+                  border-radius: 4px;
+                  font-weight: bold;
+                  display: inline-block;
+                  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+                }
+                .lesson-document {
+                  font-family: 'Times New Roman', Times, serif !important;
+                  font-size: 14pt !important;
+                  line-height: 1.5 !important;
+                  color: #000000 !important;
+                }
+                .lesson-document p, 
+                .lesson-document span:not(.nls-ai-addition), 
+                .lesson-document div, 
+                .lesson-document li, 
+                .lesson-document td, 
+                .lesson-document th, 
+                .lesson-document strong, 
+                .lesson-document em, 
+                .lesson-document ol, 
+                .lesson-document ul {
+                  font-family: 'Times New Roman', Times, serif !important;
+                  font-size: 14pt !important;
+                  color: #000000 !important;
+                }
+                .lesson-document table {
+                  width: 100% !important;
+                  border-collapse: collapse !important;
+                  border: 1px solid #000000 !important;
+                  margin: 15px 0 !important;
+                }
+                .lesson-document td, .lesson-document th {
+                  border: 1px solid #000000 !important;
+                  padding: 8px !important;
+                  font-size: 14pt !important;
+                  vertical-align: top !important;
+                }
+                .lesson-document th {
+                  background-color: #f2f2f2 !important;
+                  font-weight: bold !important;
+                  text-align: center !important;
+                }
+              `}</style>
               {result ? (
                 <div id="upgraded_document_display" className="space-y-4">
                   <div className="bg-emerald-500/10 border border-emerald-500/20 rounded-lg p-3 flex items-center gap-2 mb-2">
@@ -824,7 +902,7 @@ export default function App() {
                   {/* Display rendered paper result */}
                   <div 
                     id="lesson_document_body"
-                    className="prose prose-sm max-w-none font-serif text-slate-800"
+                    className={`prose prose-sm max-w-none font-serif text-slate-800 ${showHighlights ? "show-highlights" : "hide-highlights"}`}
                     dangerouslySetInnerHTML={{ __html: result.nangCapHtml }}
                   />
                 </div>
@@ -843,7 +921,7 @@ export default function App() {
 
                   <div 
                     id="default_lesson_document"
-                    className="pointer-events-none select-none opacity-85"
+                    className={`pointer-events-none select-none opacity-85 ${showHighlights ? "show-highlights" : "hide-highlights"}`}
                     dangerouslySetInnerHTML={{ __html: DEFAULT_LESSON_PLAN_HTML }}
                   />
                 </div>

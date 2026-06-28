@@ -48,9 +48,9 @@ app.post("/api/integrate", async (req, res) => {
     if (file && file.base64) {
       const mime = file.mimeType || "";
       if (mime.includes("officedocument.wordprocessingml") || file.name?.endsWith(".docx")) {
-        // Convert docx buffer to text
+        // Convert docx buffer to HTML to preserve table/column structure
         const buffer = Buffer.from(file.base64, "base64");
-        const docxResult = await mammoth.extractRawText({ buffer });
+        const docxResult = await mammoth.convertToHtml({ buffer });
         extractedText = docxResult.value;
       } else if (mime.includes("pdf") || file.name?.endsWith(".pdf")) {
         isPdf = true;
@@ -115,8 +115,23 @@ Mã miền năng lực:
 - NLc: Kỹ thuật & Ứng dụng AI (Tiểu học: làm quen trợ lý ảo, vẽ tranh, phân loại đơn giản; THCS: dùng AI tạo sản phẩm, viết câu lệnh prompt; THPT: hiểu thuật toán, dữ liệu, mạng nơ-ron, tối ưu)
 - NLd: Thiết kế hệ thống AI (Tiểu học: trải nghiệm ý tưởng; THCS: dự án AI nhỏ; THPT: kiểm thử, cải tiến hệ thống)
 
-Yêu cầu phân tích và trả về định dạng JSON nghiêm ngặt cấu trúc dưới đây.
-Highlight rõ phần được nâng cấp hoặc bổ sung bằng cách bao quanh phần đó bằng tag html: <span class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block">... <strong>[Mã chỉ báo]</strong></span>.`;
+YÊU CẦU BẢO TOÀN NỘI DUNG VÀ CẤU TRÚC GỐC 100%:
+1. Bạn phải bảo toàn ĐÚNG VÀ ĐỦ 100% tất cả câu chữ của văn bản gốc được cung cấp. Tuyệt đối KHÔNG ĐƯỢC XÓA BẤT KỲ CHỮ NÀO trong tài liệu gốc. Bạn chỉ được chèn thêm các hoạt động mới hoặc các chỉ báo lồng ghép vào đúng vị trí tiến trình học tập. Kế hoạch bài dạy đầu ra sẽ dài hơn bản gốc.
+2. Giữ nguyên cấu trúc bảng/cột của giáo án gốc: Nếu giáo án gốc chia bảng 2 cột (ví dụ: 'Hoạt động của giáo viên' và 'Hoạt động của học sinh') hoặc 3 cột, giáo án đầu ra bắt buộc phải giữ nguyên đúng số cột đó, không được tự ý gộp cột, tách cột, hay đổi tên cột gốc. Bạn hãy chèn các nội dung lồng ghép mới vào bên trong các ô tương ứng một cách tự nhiên.
+3. Không lồng ghép kiểu liệt kê lý thuyết, hãy viết cụ thể giáo viên hướng dẫn làm gì và học sinh làm gì bằng công cụ số/AI cụ thể.
+4. Mọi phần bổ sung nâng cấp phải được bọc chính xác bởi thẻ:
+<span class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block">... <strong>[Mã chỉ báo]</strong></span>
+
+YÊU CẦU ĐỊNH DẠNG HTML (Dùng cho "nangCapHtml"):
+1. Toàn bộ nội dung của "nangCapHtml" phải được bọc trong thẻ wrapper:
+<div class="lesson-document" style="font-family: 'Times New Roman', Times, serif; font-size: 14pt; line-height: 1.5; color: black; text-align: justify;">...</div>
+2. Mọi bảng biểu trong giáo án phải được vẽ bằng HTML có viền đen sắc nét, cụ thể:
+- Thẻ <table> phải có thuộc tính: style="width: 100%; border-collapse: collapse; border: 1px solid black; margin: 15px 0; font-family: 'Times New Roman', Times, serif; font-size: 14pt;"
+- Tất cả các thẻ <th> và <td> phải có thuộc tính: style="border: 1px solid black; padding: 8px; vertical-align: top; text-align: left; font-family: 'Times New Roman', Times, serif; font-size: 14pt;"
+- Hàng tiêu đề <tr> của bảng có thể tô nền xám nhẹ bằng cách thêm style="background-color: #f2f2f2;" vào các ô <th>.
+3. Sử dụng các thẻ HTML chuẩn (p, ul, li, strong, em, br...) để định dạng văn bản một cách chuyên nghiệp. Không sử dụng các class Tailwind CSS trong code HTML tự sinh của bảng biểu (trừ class "nls-ai-addition" để highlight trên web), mà phải dùng hoàn toàn style inline để MS Word và công cụ in ấn đọc được chuẩn chỉnh 100%.
+
+Yêu cầu phân tích và trả về định dạng JSON nghiêm ngặt cấu trúc dưới đây.`;
 
     const mainPrompt = `Hãy tích hợp Năng lực số (NLS) và Giáo dục Trí tuệ Nhân tạo (AI) vào Kế hoạch bài dạy (Giáo án) sau.
 
@@ -126,21 +141,20 @@ THÔNG TIN BÀI HỌC:
 - Tên bài: ${tenBai || "Chưa xác định"}
 - Khung mẫu giáo án yêu cầu: ${frameworkCV}
 
-ANALYSED LESSON CONTENT:
-${extractedText ? `Nội dung giáo án do người dùng cung cấp:\n${extractedText}` : "Không có giáo án cũ tải lên. Bạn hãy xây dựng một giáo án mẫu nâng cấp chuẩn mực nhất cho bài học có tên, môn và cấp học ở trên."}
+NỘI DUNG GIÁO ÁN GỐC (DẠNG HTML HOẶC TEXT):
+${extractedText ? `Dưới đây là nội dung giáo án do người dùng cung cấp (Hãy đọc kỹ và giữ nguyên cấu trúc bảng/cột và 100% từ ngữ trong này, chỉ bổ sung/lồng ghép thêm): \n${extractedText}` : "Không có giáo án cũ tải lên. Bạn hãy tự xây dựng một giáo án mẫu nâng cấp chuẩn mực nhất cho bài học ở trên, đảm bảo cấu trúc bảng biểu các hoạt động dạy học được chia làm 2 cột rõ ràng (Hoạt động của giáo viên | Hoạt động của học sinh), định dạng font Times New Roman cỡ 14pt."}
 
 YÊU CẦU CHI TIẾT TÍCH HỢP:
-1. Xác định năng lực số (Thống tư 02) và Năng lực AI (Quyết định 3439) phù hợp nhất với Mục tiêu bài dạy.
-2. Thiết kế ít nhất một hoạt động học tập cụ thể có sử dụng một công cụ số hoặc AI thực tế (Sử dụng các công cụ có thật như Canva Magic, Gemini, ChatGPT, Teachable Machine, NotebookLM, Scratch, PhET, GeoGebra, MS Paint, Word...). Hoạt động phải lồng ghép tự nhiên vào tiến trình bài dạy theo quy chuẩn ${frameworkCV}.
+1. Xác định năng lực số (Thông tư 02) và Năng lực AI (Quyết định 3439) phù hợp nhất với Mục tiêu bài dạy.
+2. Thiết kế ít nhất một hoạt động học tập cụ thể có sử dụng một công cụ số hoặc AI thực tế (Sử dụng các công cụ có thật như Canva Magic, Gemini, ChatGPT, Teachable Machine, NotebookLM, Scratch, PhET, GeoGebra, MS Paint, Word...). Hoạt động phải lồng ghép tự nhiên vào tiến trình dạy học.
 3. Chỉ ra tiêu chí, cách đánh giá học sinh khi thực hiện hoạt động số/AI đó.
-4. Mọi chỉ báo lồng ghép nâng cấp cần được bọc bởi thẻ:
-<span class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block">... [Mã chỉ báo]</span>
-để phân biệt rõ ràng với phần gốc.
+4. Bảo đảm 100% câu từ gốc trong tài liệu cũ được giữ lại toàn bộ, không sửa bớt đi, chỉ ghi nhận thêm nội dung mới.
+5. Cấu trúc bảng/cột của các hoạt động trong tài liệu gốc phải được bảo toàn chính xác. Chèn các phần hoạt động tích hợp mới trực tiếp vào trong đúng ô <td> tương ứng của bảng cũ.
 
 Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
 1. "gocTomTat": Tóm tắt ngắn gọn cấu trúc và nội dung giáo án ban đầu (dạng Markdown).
-2. "nangCapPlain": Bản giáo án đầy đủ đã nâng cấp (Dạng văn bản Markdown thông thường, các phần tích họp ghi mã chỉ báo bên cạnh bằng ký hiệu [Mã] đậm).
-3. "nangCapHtml": Bản giáo án đầy đủ đã nâng cấp (Dạng HTML hiển thị siêu đẹp, sử dụng cấu trúc bảng chuẩn giáo án Việt Nam cho mục các hoạt động học tập, các phần lồng ghép bổ sung được bọc chính xác bằng tag class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block" và ghi mã chỉ báo rõ ràng).
+2. "nangCapPlain": Bản giáo án đầy đủ đã nâng cấp (Dạng văn bản Markdown thông thường, các phần tích hợp ghi mã chỉ báo bên cạnh bằng ký hiệu [Mã] đậm).
+3. "nangCapHtml": Bản giáo án đầy đủ đã nâng cấp dưới dạng HTML chuẩn định dạng Times New Roman cỡ 14pt, giữ nguyên cấu trúc bảng cột gốc, tất cả các ô trong bảng đều có style="border: 1px solid black; padding: 8px;", phần tích hợp bọc trong thẻ span class="nls-ai-addition...".
 4. "integratedIndicators": Danh sách mảng các đối tượng chứa: { "code": "mã chỉ báo_hoặc_mã AI", "type": "nls" hoặc "ai", "name": "Tên năng lực", "description": "Mô tả cụ thể của chỉ báo và lý do lồng ghép" }
 5. "expertComments": Nhận xét khoa học, lời khuyên và hướng dẫn sư phạm chân thành, thực tế của chuyên gia dành cho giáo viên soạn bài học này (dạng Markdown).`;
 
