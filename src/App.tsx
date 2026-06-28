@@ -177,8 +177,6 @@ export default function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [result, setResult] = useState<{
-    gocTomTat: string;
-    nangCapPlain: string;
     nangCapHtml: string;
     integratedIndicators: Array<{
       code: string;

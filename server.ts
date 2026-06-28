@@ -152,11 +152,9 @@ YÊU CẦU CHI TIẾT TÍCH HỢP:
 5. Cấu trúc bảng/cột của các hoạt động trong tài liệu gốc phải được bảo toàn chính xác. Chèn các phần hoạt động tích hợp mới trực tiếp vào trong đúng ô <td> tương ứng của bảng cũ.
 
 Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
-1. "gocTomTat": Tóm tắt ngắn gọn cấu trúc và nội dung giáo án ban đầu (dạng Markdown).
-2. "nangCapPlain": Bản giáo án đầy đủ đã nâng cấp (Dạng văn bản Markdown thông thường, các phần tích hợp ghi mã chỉ báo bên cạnh bằng ký hiệu [Mã] đậm).
-3. "nangCapHtml": Bản giáo án đầy đủ đã nâng cấp dưới dạng HTML chuẩn định dạng Times New Roman cỡ 14pt, giữ nguyên cấu trúc bảng cột gốc, tất cả các ô trong bảng đều có style="border: 1px solid black; padding: 8px;", phần tích hợp bọc trong thẻ span class="nls-ai-addition...".
-4. "integratedIndicators": Danh sách mảng các đối tượng chứa: { "code": "mã chỉ báo_hoặc_mã AI", "type": "nls" hoặc "ai", "name": "Tên năng lực", "description": "Mô tả cụ thể của chỉ báo và lý do lồng ghép" }
-5. "expertComments": Nhận xét khoa học, lời khuyên và hướng dẫn sư phạm chân thành, thực tế của chuyên gia dành cho giáo viên soạn bài học này (dạng Markdown).`;
+1. "nangCapHtml": Bản giáo án đầy đủ đã nâng cấp dưới dạng HTML chuẩn định dạng Times New Roman cỡ 14pt, giữ nguyên cấu trúc bảng cột gốc, tất cả các ô trong bảng đều có style="border: 1px solid black; padding: 8px;", phần tích hợp bọc trong thẻ span class="nls-ai-addition...".
+2. "integratedIndicators": Danh sách mảng các đối tượng chứa: { "code": "mã chỉ báo_hoặc_mã AI", "type": "nls" hoặc "ai", "name": "Tên năng lực", "description": "Mô tả cụ thể của chỉ báo và lý do lồng ghép" }
+3. "expertComments": Nhận xét khoa học, lời khuyên và hướng dẫn sư phạm chân thành, thực tế của chuyên gia dành cho giáo viên soạn bài học này (dạng Markdown).`;
 
     const contents: any[] = [];
     if (isPdf) {
@@ -178,8 +176,6 @@ Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
         responseSchema: {
           type: Type.OBJECT,
           properties: {
-            gocTomTat: { type: Type.STRING },
-            nangCapPlain: { type: Type.STRING },
             nangCapHtml: { type: Type.STRING },
             integratedIndicators: {
               type: Type.ARRAY,
@@ -196,7 +192,7 @@ Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
             },
             expertComments: { type: Type.STRING }
           },
-          required: ["gocTomTat", "nangCapPlain", "nangCapHtml", "integratedIndicators", "expertComments"]
+          required: ["nangCapHtml", "integratedIndicators", "expertComments"]
         },
         temperature: 0.2
       }
