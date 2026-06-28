@@ -304,7 +304,20 @@ export default function App() {
       setResult(data);
     } catch (err: any) {
       console.error(err);
-      setError(err.message || "Đã xảy ra lỗi không xác định khi xử lý giáo án. Vui lòng kiểm tra lại cấu hình API hoặc kết nối.");
+      const errMsg = err.message || "";
+      if (errMsg.includes("quota") || errMsg.includes("Quota") || errMsg.includes("RESOURCE_EXHAUSTED") || errMsg.includes("429") || errMsg.includes("exceeded")) {
+        setError(`Giới hạn tài khoản miễn phí bị vượt quá (Rate Limit / Quota Exceeded)
+
+Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens nhận vào mỗi phút.
+
+* Nguyên nhân: Bạn đang tải lên tệp PDF dài 14 trang. Mỗi trang PDF được gửi đi dưới dạng hình ảnh dung lượng lớn, tiêu tốn rất nhiều tài nguyên (khoảng 20,000 - 30,000 tokens cho một trang), nên 14 trang sẽ ngay lập tức vượt quá giới hạn 250,000 tokens của Google.
+* Cách khắc phục đơn giản và nhanh nhất:
+  1. KHUYÊN DÙNG: Hãy chuyển tệp giáo án sang định dạng Word (.docx) hoặc văn bản thô (.txt) rồi tải lên lại. Phiên bản Word sẽ được hệ thống trích xuất dạng văn bản ký tự siêu nhẹ (chỉ khoảng 500 - 1,000 tokens mỗi trang), giúp xử lý mượt mà và thành công cả các tài liệu dài trên 14 trang.
+  2. Chia nhỏ giáo án thành 2-3 phần để tích hợp lần lượt.
+  3. Cấu hình khóa API Gemini có phí (Pay-as-you-go) trong file cấu hình máy chủ để không bị giới hạn quota.`);
+      } else {
+        setError(errMsg || "Đã xảy ra lỗi không xác định khi xử lý giáo án. Vui lòng kiểm tra lại cấu hình API hoặc kết nối.");
+      }
     } finally {
       setLoading(false);
     }
@@ -820,11 +833,11 @@ export default function App() {
 
             {/* Error state showoff */}
             {error && (
-              <div id="error_alert" className="p-4 bg-red-50 border border-red-200 rounded-lg text-red-800 text-xs mb-4 flex items-start gap-2">
+              <div id="error_alert" className="p-4 bg-red-50 border border-red-200 rounded-lg text-red-800 text-xs mb-4 flex items-start gap-2 w-full">
                 <AlertCircle className="h-4 w-4 text-red-500 shrink-0 mt-0.5" />
-                <div>
+                <div className="w-full">
                   <p className="font-bold">Đã xảy ra lỗi hệ thống:</p>
-                  <p className="mt-1 font-semibold leading-normal">{error}</p>
+                  <div className="mt-1 font-semibold leading-normal whitespace-pre-line text-[11px]">{error}</div>
                 </div>
               </div>
             )}
