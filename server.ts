@@ -42,6 +42,7 @@ app.post("/api/integrate", async (req, res) => {
     const { cv2345, cv5512, nls, ai } = options || { cv2345: true, cv5512: false, nls: true, ai: true };
 
     let extractedText = "";
+    let extractedHtml = "";
     let isPdf = false;
     let pdfBase64 = "";
 
@@ -55,13 +56,18 @@ app.post("/api/integrate", async (req, res) => {
             return {}; // Strip image elements entirely
           })
         });
-        extractedText = docxResult.value;
+        extractedHtml = docxResult.value;
+
+        // Extract raw text to get all text runs, including Word equations
+        const docxTextResult = await mammoth.extractRawText({ buffer });
+        extractedText = docxTextResult.value;
       } else if (mime.includes("pdf") || file.name?.endsWith(".pdf")) {
         isPdf = true;
         pdfBase64 = file.base64;
       } else {
         // Assume text file
         extractedText = Buffer.from(file.base64, "base64").toString("utf-8");
+        extractedHtml = extractedText;
       }
     }
 
@@ -125,7 +131,11 @@ YÊU CẦU BẢO TOÀN NỘI DUNG VÀ CẤU TRÚC GỐC 100%:
 3. Không lồng ghép kiểu liệt kê lý thuyết, hãy viết cụ thể giáo viên hướng dẫn làm gì và học sinh làm gì bằng công cụ số/AI cụ thể.
 4. Mọi phần bổ sung nâng cấp phải được bọc chính xác bởi thẻ:
 <span class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block">... <strong>[Mã chỉ báo]</strong></span>
-5. Tự động nhận diện và chuẩn hóa công thức hóa học/toán học: Tài liệu gốc có thể chứa các phương trình hoặc công thức hóa học, toán học bị biến dạng, lỗi ký tự, xuất hiện ký tự lạ hoặc ký hiệu hộp vuông lỗi (như H_2+I_2 □(⇔┴(xt,to) ), CaCO_3+CO_2+H_2 O⇌Ca(HCO_3 )_2, v.v.) do quá trình trích xuất từ Word. Bạn phải nhận diện các công thức này và tự động viết lại dưới dạng HTML sạch đẹp: sử dụng thẻ <sub> cho chỉ số dưới (ví dụ: CaCO<sub>3</sub>, H<sub>2</sub>O, Ca(HCO<sub>3</sub>)<sub>2</sub>), thẻ <sup> cho chỉ số trên, các mũi tên phản ứng tiêu chuẩn (như →, ⇌, ⇄), và loại bỏ triệt để các ký tự hộp vuông lỗi "□" hay ký tự định dạng Equation lỗi. Công thức hóa học đầu ra phải đúng chuẩn khoa học và sạch đẹp tuyệt đối để có thể nộp và in ngay trên Word.
+5. Tự động nhận diện, đối chiếu và chuẩn hóa công thức hóa học/toán học: 
+  - Bản gốc tải lên có chứa các phương trình hoặc công thức hóa học, toán học được soạn bằng công cụ Equation của Word. Khi trích xuất sang HTML, các công thức này có thể bị mất hoặc lỗi hiển thị, nhưng trong bản TEXT (Văn bản thô) vẫn chứa các mảnh ký tự tuyến tính của chúng (ví dụ: H_2+Cl_2, H_2+I_2 □(⇔┴(xt,to) ), CaCO_3+CO_2+H_2 O⇌Ca(HCO_3 )_2, v.v.).
+  - Bạn PHẢI đối chiếu bản văn bản thô (TEXT) để lấy ra chính xác các phương trình hóa học và công thức toán học gốc. TUYỆT ĐỐI không được tự ý thay thế phản ứng hóa học bằng phản ứng khác (Ví dụ: Bản gốc là H2 + Cl2 thì không được thay thế bằng KClO3 hay bất kỳ phản ứng nào khác).
+  - Bạn hãy viết lại toàn bộ công thức hóa học dưới dạng HTML sạch đẹp: sử dụng thẻ <sub> cho chỉ số dưới (ví dụ: CaCO<sub>3</sub>, H<sub>2</sub>O, Ca(HCO<sub>3</sub>)<sub>2</sub>), thẻ <sup> cho chỉ số trên (ví dụ: t<sup>o</sup>).
+  - Sử dụng TRỰC TIẾP ký tự Unicode thực tế cho các mũi tên: → (mũi tên một chiều), ⇌ (mũi tên thuận nghịch), ⇄ (mũi tên hai chiều). CẤM sử dụng các mã thực thể HTML entities (như &rightleftharpoons;, &rightleftarrows;, &rarr;...) vì khi xuất ra file Word sẽ bị lỗi hiển thị mã code thô. Ghi điều kiện phản ứng (xt, t°) rõ ràng bên cạnh hoặc bên trên mũi tên. Loại bỏ các ký tự hộp vuông lỗi "□" và các ký tự điều khiển Equation lỗi.
 
 YÊU CẦU ĐỊNH DẠNG HTML (Dùng cho "nangCapHtml"):
 1. Toàn bộ nội dung của "nangCapHtml" phải được bọc trong thẻ wrapper:
@@ -146,14 +156,22 @@ THÔNG TIN BÀI HỌC:
 - Tên bài: ${tenBai || "Chưa xác định"}
 - Khung mẫu giáo án yêu cầu: ${frameworkCV}
 
-NỘI DUNG GIÁO ÁN GỐC (DẠNG HTML HOẶC TEXT):
-${extractedText ? `Dưới đây là nội dung giáo án do người dùng cung cấp (Hãy đọc kỹ và giữ nguyên cấu trúc bảng/cột và 100% từ ngữ trong này, chỉ bổ sung/lồng ghép thêm): \n${extractedText}` : "Không có giáo án cũ tải lên. Bạn hãy tự xây dựng một giáo án mẫu nâng cấp chuẩn mực nhất cho bài học ở trên, đảm bảo cấu trúc bảng biểu các hoạt động dạy học được chia làm 2 cột rõ ràng (Hoạt động của giáo viên | Hoạt động của học sinh), định dạng font Times New Roman cỡ 14pt."}
+NỘI DUNG GIÁO ÁN GỐC CHI TIẾT (ĐỐI CHIẾU 2 PHIÊN BẢN):
+${extractedHtml ? `
+1. PHIÊN BẢN CẤU TRÚC BẢNG (DẠNG HTML):
+(Sử dụng bản này làm khung mẫu, giữ nguyên cấu trúc bảng/cột và các ô <td>):
+${extractedHtml}
+
+2. PHIÊN BẢN VĂN BẢN ĐẦY ĐỦ (DẠNG TEXT):
+(Sử dụng bản này để đối chiếu và điền lại chính xác các công thức toán, lý, hóa bị thiếu hoặc bị lỗi trong bản HTML. Đảm bảo giữ nguyên 100% các phản ứng gốc trong này, không thay thế phản ứng):
+${extractedText}
+` : `Nội dung giáo án do người dùng cung cấp:\n${extractedText || "Không có giáo án cũ tải lên. Bạn hãy tự xây dựng một giáo án mẫu nâng cấp chuẩn mực nhất cho bài học ở trên, đảm bảo cấu trúc bảng biểu các hoạt động dạy học được chia làm 2 cột rõ ràng (Hoạt động của giáo viên | Hoạt động của học sinh), định dạng font Times New Roman cỡ 14pt."}`}
 
 YÊU CẦU CHI TIẾT TÍCH HỢP:
 1. Xác định năng lực số (Thông tư 02) và Năng lực AI (Quyết định 3439) phù hợp nhất với Mục tiêu bài dạy.
 2. Thiết kế ít nhất một hoạt động học tập cụ thể có sử dụng một công cụ số hoặc AI thực tế (Sử dụng các công cụ có thật như Canva Magic, Gemini, ChatGPT, Teachable Machine, NotebookLM, Scratch, PhET, GeoGebra, MS Paint, Word...). Hoạt động phải lồng ghép tự nhiên vào tiến trình dạy học.
 3. Chỉ ra tiêu chí, cách đánh giá học sinh khi thực hiện hoạt động số/AI đó.
-4. Bảo đảm 100% câu từ gốc trong tài liệu cũ được giữ lại toàn bộ, không sửa bớt đi, chỉ ghi nhận thêm nội dung mới.
+4. Bảo đảm 100% câu từ và các phương trình phản ứng hóa học gốc được giữ lại toàn bộ, tuyệt đối không thay thế phản ứng gốc.
 5. Cấu trúc bảng/cột của các hoạt động trong tài liệu gốc phải được bảo toàn chính xác. Chèn các phần hoạt động tích hợp mới trực tiếp vào trong đúng ô <td> tương ứng của bảng cũ.
 
 Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
