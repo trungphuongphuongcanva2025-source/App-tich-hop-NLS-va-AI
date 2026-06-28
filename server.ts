@@ -4,8 +4,44 @@ import { createServer as createViteServer } from "vite";
 import { GoogleGenAI, Type } from "@google/genai";
 import dotenv from "dotenv";
 import mammoth from "mammoth";
+import AdmZip from "adm-zip";
 
 dotenv.config();
+
+// Custom helper to extract ALL text runs from docx, including equations (m:t) and textboxes/shapes
+function extractRawTextFromDocx(buffer: Buffer): string {
+  try {
+    const zip = new AdmZip(buffer);
+    const docXmlText = zip.readAsText("word/document.xml", "utf8");
+    if (!docXmlText) return "";
+
+    const textNodes: string[] = [];
+    const paragraphs = docXmlText.split("<w:p");
+    
+    for (const p of paragraphs) {
+      let pText = "";
+      const pRegex = /<(w:t|m:t)[^>]*>([\s\S]*?)<\/\1>/g;
+      let match;
+      while ((match = pRegex.exec(p)) !== null) {
+        let text = match[2];
+        text = text
+          .replace(/&lt;/g, "<")
+          .replace(/&gt;/g, ">")
+          .replace(/&amp;/g, "&")
+          .replace(/&quot;/g, '"')
+          .replace(/&apos;/g, "'");
+        pText += text;
+      }
+      if (pText.trim()) {
+        textNodes.push(pText.trim());
+      }
+    }
+    return textNodes.join("\n");
+  } catch (error) {
+    console.error("Error in extractRawTextFromDocx:", error);
+    return "";
+  }
+}
 
 const app = express();
 const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3000;
@@ -58,9 +94,8 @@ app.post("/api/integrate", async (req, res) => {
         });
         extractedHtml = docxResult.value;
 
-        // Extract raw text to get all text runs, including Word equations
-        const docxTextResult = await mammoth.extractRawText({ buffer });
-        extractedText = docxTextResult.value;
+        // Extract raw text using custom helper to get all text runs (equations, textboxes, shapes)
+        extractedText = extractRawTextFromDocx(buffer);
       } else if (mime.includes("pdf") || file.name?.endsWith(".pdf")) {
         isPdf = true;
         pdfBase64 = file.base64;
