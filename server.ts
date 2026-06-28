@@ -225,38 +225,69 @@ Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
     }
     contents.push({ text: mainPrompt });
 
-    const response = await client.models.generateContent({
-      model: "gemini-3.5-flash",
-      contents: contents,
-      config: {
-        systemInstruction: sysInstruction,
-        responseMimeType: "application/json",
-        responseSchema: {
-          type: Type.OBJECT,
-          properties: {
-            nangCapHtml: { type: Type.STRING },
-            integratedIndicators: {
-              type: Type.ARRAY,
-              items: {
-                type: Type.OBJECT,
-                properties: {
-                  code: { type: Type.STRING },
-                  type: { type: Type.STRING },
-                  name: { type: Type.STRING },
-                  description: { type: Type.STRING }
-                },
-                required: ["code", "type", "name", "description"]
-              }
-            },
-            expertComments: { type: Type.STRING }
-          },
-          required: ["nangCapHtml", "integratedIndicators", "expertComments"]
-        },
-        temperature: 0.2
-      }
-    });
+    let response;
+    let attempts = 0;
+    const maxAttempts = 3;
+    const delayMs = 3000;
 
-    const resultText = response.text ? response.text.trim() : "{}";
+    while (attempts < maxAttempts) {
+      try {
+        response = await client.models.generateContent({
+          model: "gemini-3.5-flash",
+          contents: contents,
+          config: {
+            systemInstruction: sysInstruction,
+            responseMimeType: "application/json",
+            responseSchema: {
+              type: Type.OBJECT,
+              properties: {
+                nangCapHtml: { type: Type.STRING },
+                integratedIndicators: {
+                  type: Type.ARRAY,
+                  items: {
+                    type: Type.OBJECT,
+                    properties: {
+                      code: { type: Type.STRING },
+                      type: { type: Type.STRING },
+                      name: { type: Type.STRING },
+                      description: { type: Type.STRING }
+                    },
+                    required: ["code", "type", "name", "description"]
+                  }
+                },
+                expertComments: { type: Type.STRING }
+              },
+              required: ["nangCapHtml", "integratedIndicators", "expertComments"]
+            },
+            temperature: 0.2
+          }
+        });
+        break; // Success! Exit loop
+      } catch (apiError: any) {
+        attempts++;
+        console.warn(`Gemini API error (Attempt ${attempts}/${maxAttempts}):`, apiError.message || apiError);
+        
+        const errorStr = String(apiError.message || apiError);
+        const isRetryable = 
+          apiError.status === 503 || 
+          errorStr.includes("503") || 
+          apiError.status === 429 || 
+          errorStr.includes("429") || 
+          errorStr.includes("quota") || 
+          errorStr.includes("demand") || 
+          errorStr.includes("RESOURCE_EXHAUSTED") || 
+          errorStr.includes("UNAVAILABLE");
+        
+        if (isRetryable && attempts < maxAttempts) {
+          console.warn(`Temporary error from Google Gemini. Retrying in ${delayMs / 1000} seconds...`);
+          await new Promise(resolve => setTimeout(resolve, delayMs));
+        } else {
+          throw apiError; // Throw if max attempts reached or error is not retryable
+        }
+      }
+    }
+
+    const resultText = response && response.text ? response.text.trim() : "{}";
     res.json(JSON.parse(resultText));
   } catch (error: any) {
     console.error("Integration Error:", error);
