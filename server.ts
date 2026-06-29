@@ -89,7 +89,7 @@ app.post("/api/integrate", async (req, res) => {
         const buffer = Buffer.from(file.base64, "base64");
         const docxResult = await mammoth.convertToHtml({ buffer }, {
           convertImage: mammoth.images.imgElement(function(image) {
-            return {}; // Strip image elements entirely
+            return Promise.resolve({ src: "" }); // Strip image elements entirely
           })
         });
         extractedHtml = docxResult.value;
@@ -233,7 +233,7 @@ Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
     while (attempts < maxAttempts) {
       try {
         response = await client.models.generateContent({
-          model: "gemini-3.5-flash",
+          model: "gemini-2.5-flash",
           contents: contents,
           config: {
             systemInstruction: sysInstruction,
@@ -259,7 +259,7 @@ Bạn cần trả về định dạng JSON chứa các thuộc tính sau:
               },
               required: ["nangCapHtml", "integratedIndicators", "expertComments"]
             },
-            temperature: 0.2
+            temperature: 0.1
           }
         });
         break; // Success! Exit loop

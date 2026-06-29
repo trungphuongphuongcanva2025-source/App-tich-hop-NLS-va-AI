@@ -154,6 +154,15 @@ const DEFAULT_LESSON_PLAN_HTML = `
 </div>
 `;
 
+const LOADING_STEPS = [
+  "Đang đọc và phân tích cấu trúc tệp giáo án gốc...",
+  "Đang trích xuất văn bản thô và sơ đồ bảng biểu...",
+  "Đang đối chiếu chỉ báo Năng lực số (TT02) và Giáo dục AI (QĐ3439)...",
+  "Đang lồng ghép hoạt động số và trải nghiệm trí tuệ nhân tạo...",
+  "Đang định dạng công thức toán học và phương trình hóa học...",
+  "Đang biên soạn nhận xét và hoàn tất giáo án quy chuẩn..."
+];
+
 export default function App() {
   const [mon, setMon] = useState("Toán");
   const [lop, setLop] = useState("2");
@@ -175,6 +184,7 @@ export default function App() {
 
   // App running states
   const [loading, setLoading] = useState(false);
+  const [loadingStep, setLoadingStep] = useState(0);
   const [error, setError] = useState<string | null>(null);
   const [result, setResult] = useState<{
     nangCapHtml: string;
@@ -272,8 +282,13 @@ export default function App() {
   // call express backend integration
   const handleIntegrate = async () => {
     setLoading(true);
+    setLoadingStep(0);
     setError(null);
     setResult(null);
+
+    const stepInterval = setInterval(() => {
+      setLoadingStep((prev) => (prev < 5 ? prev + 1 : prev));
+    }, 2500);
 
     try {
       const response = await fetch("/api/integrate", {
@@ -321,6 +336,7 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
       }
     } finally {
       setLoading(false);
+      clearInterval(stepInterval);
     }
   };
 
@@ -410,6 +426,32 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
     }
   };
 
+  // Helper to format HTML for Word export
+  const formatHtmlForWord = (html: string) => {
+    if (!html) return "";
+    return html
+      // Clean up inline line-height and margins in <p> tags
+      .replace(/<p([^>]*?)style="([^"]*?)"/gi, (match, p1, p2) => {
+        const cleanStyle = p2
+          .replace(/line-height\s*:\s*[^;"]+;?/gi, "")
+          .replace(/margin\s*:\s*[^;"]+;?/gi, "")
+          .replace(/margin-bottom\s*:\s*[^;"]+;?/gi, "")
+          .replace(/margin-top\s*:\s*[^;"]+;?/gi, "");
+        return `<p${p1}style="${cleanStyle}"`;
+      })
+      // Clean up inline line-height and margins in <li> tags
+      .replace(/<li([^>]*?)style="([^"]*?)"/gi, (match, p1, p2) => {
+        const cleanStyle = p2
+          .replace(/line-height\s*:\s*[^;"]+;?/gi, "")
+          .replace(/margin\s*:\s*[^;"]+;?/gi, "")
+          .replace(/margin-bottom\s*:\s*[^;"]+;?/gi, "")
+          .replace(/margin-top\s*:\s*[^;"]+;?/gi, "");
+        return `<li${p1}style="${cleanStyle}"`;
+      })
+      // Strip line-height: 1.5 in the main wrapper if present
+      .replace(/line-height:\s*1\.5;?/gi, "line-height: 1.15;");
+  };
+
   // Export to .doc Word file format
   const triggerWordExport = () => {
     if (!result) return;
@@ -420,8 +462,41 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
       <head>
         <meta charset="utf-8">
         <title>${title}</title>
+        <!--[if gte mso 9]>
+        <xml>
+          <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>100</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+          </w:WordDocument>
+        </xml>
+        <![endif]-->
         <style>
-          body { font-family: "Times New Roman", serif; line-height: 1.5; font-size: 14pt; color: #000; text-align: justify; }
+          @page Section1 {
+            size: 21.0cm 29.7cm; /* A4 */
+            margin: 2.0cm 2.0cm 2.0cm 3.0cm; /* Top 2.0cm, Right 2.0cm, Bottom 2.0cm, Left 3.0cm */
+            mso-page-orientation: portrait;
+            mso-header-margin: 36pt;
+            mso-footer-margin: 36pt;
+            mso-paper-source: 0;
+          }
+          div.Section1 {
+            page: Section1;
+          }
+          body { 
+            font-family: "Times New Roman", serif; 
+            font-size: 14pt; 
+            color: #000000; 
+          }
+          p, li { 
+            text-align: justify; 
+            margin-top: 0pt; 
+            margin-bottom: 6pt; 
+            line-height: 1.15; 
+            mso-margin-top-alt: 0pt;
+            mso-margin-bottom-alt: 6pt;
+            mso-line-height-rule: exactly;
+          }
           .text-center { text-align: center; }
           .font-bold { font-weight: bold; }
           .uppercase { text-transform: uppercase; }
@@ -441,13 +516,14 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
           }
         </style>
       </head>
-      <body>`;
-    const footer = `</body></html>`;
+      <body>
+        <div class="Section1">`;
+    const footer = `</div></body></html>`;
     const bodyContent = `
       <div style="text-align: right; font-style: italic; font-size: 10pt; margin-bottom: 20px; font-family: 'Times New Roman', serif; color: #555;">
         Giáo án nâng cấp tích hợp chuyên nghiệp - Công cụ Năng lượng Số và Giáo dục AI
       </div>
-      ${result.nangCapHtml}
+      ${formatHtmlForWord(result.nangCapHtml)}
       <hr style="margin-top: 30px; border: 0; border-top: 1px solid #000;" />
       <h3 style="font-family: 'Times New Roman', serif; font-size: 14pt; font-weight: bold; margin: 20px 0 10px 0;">Lời khuyên giáo dục từ chuyên gia:</h3>
       <div style="font-family: 'Times New Roman', serif; font-size: 12pt; color: #333; margin-top: 10px; line-height: 1.4;">
@@ -821,11 +897,11 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
                     ĐANG PHÂN TÍCH VÀ NÂNG CẤP GIÁO ÁN
                   </h3>
                   <div className="max-w-md text-xs text-slate-500 leading-relaxed space-y-2">
-                    <p className="font-semibold text-indigo-600 animate-pulse">
-                      "Đang lồng ghép các hoạt động NLS lớp {lop} và trải nghiệm AI bám sát TT02..."
+                    <p className="font-bold text-indigo-600 animate-pulse text-sm">
+                      {LOADING_STEPS[loadingStep]}
                     </p>
-                    <p className="text-[10px] italic">
-                      Tra cứu mã chỉ báo {cvMode === 'CV2345' ? 'CB1/CB2' : 'TC1/TC2/NC1'} và chuẩn hóa thành mục tiêu rõ ràng.
+                    <p className="text-[10px] text-slate-400 italic">
+                      Tra cứu mã chỉ báo {cvMode === 'CV2345' ? 'CB1/CB2' : 'TC1/TC2/NC1'} bám sát TT02/2025 và QĐ3439.
                     </p>
                   </div>
                 </motion.div>
