@@ -171,6 +171,7 @@ export default function App() {
   const [nlsEnabled, setNlsEnabled] = useState(true);
   const [aiEnabled, setAiEnabled] = useState(true);
   const [showHighlights, setShowHighlights] = useState(true);
+  const [customCodes, setCustomCodes] = useState("");
   
   // File upload states
   const [selectedFile, setSelectedFile] = useState<{
@@ -299,6 +300,7 @@ export default function App() {
           lop,
           tenBai,
           file: selectedFile,
+          customCodes,
           options: {
             cv2345: cvMode === 'CV2345',
             cv5512: cvMode === 'CV5512',
@@ -429,7 +431,7 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
   // Helper to format HTML for Word export
   const formatHtmlForWord = (html: string) => {
     if (!html) return "";
-    return html
+    const cleaned = html
       // Clean up inline line-height and margins in <p> tags
       .replace(/<p([^>]*?)style="([^"]*?)"/gi, (match, p1, p2) => {
         const cleanStyle = p2
@@ -450,6 +452,11 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
       })
       // Strip line-height: 1.5 in the main wrapper if present
       .replace(/line-height:\s*1\.5;?/gi, "line-height: 1.15;");
+
+    // Remove thead/thead tags to prevent Word from repeating headers on page breaks
+    return cleaned
+      .replace(/<thead>/gi, "")
+      .replace(/<\/thead>/gi, "");
   };
 
   // Export to .doc Word file format
@@ -637,6 +644,24 @@ Hệ thống AI Gemini (bản miễn phí) giới hạn tối đa 250,000 tokens
                 placeholder="Nhập tên bài học cần tích hợp..."
                 className="w-full border-2 border-slate-200 rounded-lg px-3 py-2 text-sm focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none transition-all font-semibold bg-white text-slate-800"
               />
+            </div>
+
+            {/* Custom NLS & AI Codes block */}
+            <div className="flex flex-col gap-1">
+              <label htmlFor="custom_codes_text" className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">
+                Mã NLS &amp; AI muốn lồng ghép (tùy chọn)
+              </label>
+              <input
+                id="custom_codes_text"
+                type="text"
+                value={customCodes}
+                onChange={(e) => setCustomCodes(e.target.value)}
+                placeholder="Ví dụ: NLS: 6.2.NC1a, NLS: 1.2.NC1a; AI: NLa"
+                className="w-full border-2 border-slate-200 rounded-lg px-3 py-2 text-sm focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none transition-all font-semibold bg-white text-slate-800"
+              />
+              <p className="text-[9px] text-slate-400 font-medium leading-tight">
+                Nhập các mã chỉ báo cụ thể. Nếu để trống, AI sẽ tự động chọn mã phù hợp nhất.
+              </p>
             </div>
 
             {/* Toggle buttons CV2345 & CV5512 matching geometric theme values */}

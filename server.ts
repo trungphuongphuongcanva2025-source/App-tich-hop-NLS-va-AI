@@ -1,5 +1,6 @@
 import express from "express";
 import path from "path";
+import fs from "fs";
 import { createServer as createViteServer } from "vite";
 import { GoogleGenAI, Type } from "@google/genai";
 import dotenv from "dotenv";
@@ -7,6 +8,255 @@ import mammoth from "mammoth";
 import AdmZip from "adm-zip";
 
 dotenv.config();
+
+// Load the NLS JSON indicators database
+const nlsIndicatorsPath = path.join(process.cwd(), "src", "data", "nls_indicators.json");
+let nlsIndicators: any[] = [];
+try {
+  if (fs.existsSync(nlsIndicatorsPath)) {
+    nlsIndicators = JSON.parse(fs.readFileSync(nlsIndicatorsPath, "utf-8"));
+  }
+} catch (e) {
+  console.error("Failed to load nls_indicators.json:", e);
+}
+
+// Helper to parse manually inputted competency codes
+function parseCustomCodes(inputStr: string, indicators: any[]) {
+  if (!inputStr) return null;
+  const nlsCodes: string[] = [];
+  const aiCodes: string[] = [];
+
+  const parts = inputStr.split(/[,;]+/).map(p => p.trim());
+  for (const part of parts) {
+    if (part.toLowerCase().startsWith("nls:")) {
+      const code = part.substring(4).trim();
+      nlsCodes.push(code);
+    } else if (part.toLowerCase().startsWith("ai:")) {
+      const code = part.substring(3).trim();
+      aiCodes.push(code);
+    } else {
+      const clean = part.replace(/\s+/g, "");
+      if (/^\d\.\d\.[A-Z0-9]+[a-z]?$/i.test(clean)) {
+        nlsCodes.push(clean);
+      } else if (/^NL[a-d]$/i.test(clean)) {
+        aiCodes.push(clean);
+      }
+    }
+  }
+
+  const matchedNls = nlsCodes.map(code => {
+    const indicator = indicators.find(ind => ind.code.toLowerCase() === code.toLowerCase());
+    if (indicator) {
+      return {
+        code: indicator.code,
+        domainName: indicator.domainName,
+        componentName: indicator.componentName,
+        description: indicator.description
+      };
+    }
+    return { code, description: "Chỉ báo Năng lực số tùy chọn" };
+  });
+
+  const aiMap: Record<string, string> = {
+    "NLa": "Tư duy lấy con người làm trung tâm (Tiểu học: biết AI do người tạo; THCS: hiểu vai trò con người; THPT: đánh giá tác động xã hội)",
+    "NLb": "Đạo đức AI (Tiểu học: sử dụng an toàn; THCS: áp dụng đạo đức không thiên kiến; THPT: đánh giá rủi ro đạo đức)",
+    "NLc": "Kỹ thuật & Ứng dụng AI (Tiểu học: làm quen trợ lý ảo, vẽ tranh, phân loại đơn giản; THCS: dùng AI tạo sản phẩm, viết câu lệnh prompt; THPT: hiểu thuật toán, dữ liệu, mạng nơ-ron, tối ưu)",
+    "NLd": "Thiết kế hệ thống AI (Tiểu học: trải nghiệm ý tưởng; THCS: dự án AI nhỏ; THPT: kiểm thử, cải tiến hệ thống)"
+  };
+
+  const matchedAi = aiCodes.map(code => {
+    let key = code;
+    if (code.toLowerCase() === "nla") key = "NLa";
+    if (code.toLowerCase() === "nlb") key = "NLb";
+    if (code.toLowerCase() === "nlc") key = "NLc";
+    if (code.toLowerCase() === "nld") key = "NLd";
+
+    return {
+      code: key,
+      description: aiMap[key] || "Chỉ báo Giáo dục AI tùy chọn"
+    };
+  });
+
+  return { nls: matchedNls, ai: matchedAi };
+}
+
+
+// Helpers to parse OMML (Office Math XML) equations and convert them to standard Word text runs with subscript/superscript
+function extractTagContent(xml: string, tag: string): string {
+  const startRegex = new RegExp(`<${tag}\\b[^>]*>`);
+  const match = xml.match(startRegex);
+  if (!match || match.index === undefined) return "";
+  
+  const startIdx = match.index;
+  const tagEnd = startIdx + match[0].length;
+  
+  const endTag = `</${tag}>`;
+  const startTagPrefix = `<${tag}`;
+  
+  let depth = 1;
+  let searchPos = tagEnd;
+  let closeIdx = -1;
+  
+  while (depth > 0) {
+    const nextOpen = xml.indexOf(startTagPrefix, searchPos);
+    const nextClose = xml.indexOf(endTag, searchPos);
+    
+    if (nextClose === -1) break;
+    
+    let isValidOpen = false;
+    if (nextOpen !== -1) {
+      const charAfter = xml.charAt(nextOpen + startTagPrefix.length);
+      if (charAfter === " " || charAfter === "/" || charAfter === ">") {
+        isValidOpen = true;
+      }
+    }
+    
+    if (isValidOpen && nextOpen < nextClose) {
+      depth++;
+      searchPos = nextOpen + 1;
+    } else {
+      depth--;
+      closeIdx = nextClose;
+      searchPos = nextClose + endTag.length;
+    }
+  }
+  
+  if (closeIdx === -1) return "";
+  return xml.substring(tagEnd, closeIdx);
+}
+
+function applyVertAlign(wml: string, type: "subscript" | "superscript"): string {
+  return wml.replace(/<w:r\b([^>]*)>([\s\S]*?)<\/w:r>/g, (match, attrs, content) => {
+    if (/<w:rPr\b[^>]*>/.test(content)) {
+      return `<w:r${attrs}>${content.replace(/<w:rPr\b[^>]*>/, (rPrMatch) => `${rPrMatch}<w:vertAlign w:val="${type}"/>`)}</w:r>`;
+    } else {
+      return `<w:r${attrs}><w:rPr><w:vertAlign w:val="${type}"/></w:rPr>${content}</w:r>`;
+    }
+  });
+}
+
+function translateOmlToWml(omml: string): string {
+  let result = "";
+  let i = 0;
+  
+  while (i < omml.length) {
+    const nextTag = omml.indexOf("<", i);
+    if (nextTag === -1) {
+      const text = omml.substring(i).trim();
+      if (text) {
+        result += `<w:r><w:t>${text}</w:t></w:r>`;
+      }
+      break;
+    }
+    
+    if (nextTag > i) {
+      const text = omml.substring(i, nextTag).trim();
+      if (text) {
+        result += `<w:r><w:t>${text}</w:t></w:r>`;
+      }
+    }
+    
+    const tagEnd = omml.indexOf(">", nextTag);
+    if (tagEnd === -1) {
+      break;
+    }
+    
+    const tagHeader = omml.substring(nextTag + 1, tagEnd);
+    const isSelfClosing = tagHeader.endsWith("/");
+    const tagName = tagHeader.split(/\s+/)[0].replace(/\/$/, "");
+    
+    if (isSelfClosing) {
+      i = tagEnd + 1;
+      continue;
+    }
+    
+    const closingTag = `</${tagName}>`;
+    let closeIdx = -1;
+    let depth = 1;
+    let searchPos = tagEnd + 1;
+    
+    while (depth > 0) {
+      const nextOpen = omml.indexOf(`<${tagName}`, searchPos);
+      const nextClose = omml.indexOf(closingTag, searchPos);
+      
+      if (nextClose === -1) {
+        break;
+      }
+      
+      if (nextOpen !== -1 && nextOpen < nextClose) {
+        depth++;
+        searchPos = nextOpen + 1;
+      } else {
+        depth--;
+        closeIdx = nextClose;
+        searchPos = nextClose + closingTag.length;
+      }
+    }
+    
+    if (closeIdx === -1) {
+      i = tagEnd + 1;
+      continue;
+    }
+    
+    const innerContent = omml.substring(tagEnd + 1, closeIdx);
+    
+    if (tagName === "m:r") {
+      const tMatch = innerContent.match(/<m:t\b[^>]*>([\s\S]*?)<\/m:t>/);
+      if (tMatch) {
+        result += `<w:r><w:t>${tMatch[1]}</w:t></w:r>`;
+      }
+    } else if (tagName === "m:sSub") {
+      const eContent = extractTagContent(innerContent, "m:e");
+      const subContent = extractTagContent(innerContent, "m:sub");
+      
+      const translatedE = translateOmlToWml(eContent);
+      const translatedSub = translateOmlToWml(subContent);
+      
+      const subFormatted = applyVertAlign(translatedSub, "subscript");
+      result += translatedE + subFormatted;
+    } else if (tagName === "m:sSup") {
+      const eContent = extractTagContent(innerContent, "m:e");
+      const supContent = extractTagContent(innerContent, "m:sup");
+      
+      const translatedE = translateOmlToWml(eContent);
+      const translatedSup = translateOmlToWml(supContent);
+      
+      const supFormatted = applyVertAlign(translatedSup, "superscript");
+      result += translatedE + supFormatted;
+    } else if (tagName === "m:sSubSup") {
+      const eContent = extractTagContent(innerContent, "m:e");
+      const subContent = extractTagContent(innerContent, "m:sub");
+      const supContent = extractTagContent(innerContent, "m:sup");
+      
+      const translatedE = translateOmlToWml(eContent);
+      const translatedSub = translateOmlToWml(subContent);
+      const translatedSup = translateOmlToWml(supContent);
+      
+      const subFormatted = applyVertAlign(translatedSub, "subscript");
+      const supFormatted = applyVertAlign(translatedSup, "superscript");
+      result += translatedE + subFormatted + supFormatted;
+    } else if (tagName === "m:f") {
+      const numContent = extractTagContent(innerContent, "m:num");
+      const denContent = extractTagContent(innerContent, "m:den");
+      
+      const translatedNum = translateOmlToWml(numContent);
+      const translatedDen = translateOmlToWml(denContent);
+      
+      result += `<w:r><w:t>(</w:t></w:r>` + translatedNum + `<w:r><w:t>)/(</w:t></w:r>` + translatedDen + `<w:r><w:t>)</w:t></w:r>`;
+    } else if (tagName === "m:d") {
+      const eContent = extractTagContent(innerContent, "m:e");
+      const translatedE = translateOmlToWml(eContent);
+      result += `<w:r><w:t>(</w:t></w:r>` + translatedE + `<w:r><w:t>)</w:t></w:r>`;
+    } else {
+      result += translateOmlToWml(innerContent);
+    }
+    
+    i = searchPos;
+  }
+  
+  return result;
+}
+
 
 // Custom helper to extract ALL text runs from docx, including equations (m:t) and textboxes/shapes
 function extractRawTextFromDocx(buffer: Buffer): string {
@@ -74,7 +324,7 @@ function getGeminiClient() {
 app.post("/api/integrate", async (req, res) => {
   try {
     const client = getGeminiClient();
-    const { mon, lop, tenBai, file, options } = req.body;
+    const { mon, lop, tenBai, file, options, customCodes } = req.body;
     const { cv2345, cv5512, nls, ai } = options || { cv2345: true, cv5512: false, nls: true, ai: true };
 
     let extractedText = "";
@@ -86,7 +336,28 @@ app.post("/api/integrate", async (req, res) => {
       const mime = file.mimeType || "";
       if (mime.includes("officedocument.wordprocessingml") || file.name?.endsWith(".docx")) {
         // Convert docx buffer to HTML to preserve table/column structure, ignoring images to avoid huge base64 tokens
-        const buffer = Buffer.from(file.base64, "base64");
+        let buffer = Buffer.from(file.base64, "base64");
+        
+        // Pre-process DOCX Equation (m:oMath) to standard subscript/superscript text runs
+        try {
+          const zip = new AdmZip(buffer);
+          let docXmlText = zip.readAsText("word/document.xml", "utf8");
+          if (docXmlText) {
+            docXmlText = docXmlText.replace(/<(m:oMathPara|m:oMath)\b[^>]*>([\s\S]*?)<\/\1>/g, (match, tag, mathContent) => {
+              try {
+                return translateOmlToWml(mathContent);
+              } catch (err) {
+                console.error("Failed to translate math run:", err);
+                return match;
+              }
+            });
+            zip.updateFile("word/document.xml", Buffer.from(docXmlText, "utf8"));
+            buffer = zip.toBuffer();
+          }
+        } catch (zipErr) {
+          console.error("Failed to preprocess docx equations:", zipErr);
+        }
+
         const docxResult = await mammoth.convertToHtml({ buffer }, {
           convertImage: mammoth.images.imgElement(function(image) {
             return Promise.resolve({ src: "" }); // Strip image elements entirely
@@ -171,6 +442,11 @@ YÊU CẦU BẢO TOÀN NỘI DUNG VÀ CẤU TRÚC GỐC 100%:
   - Bạn PHẢI đối chiếu bản văn bản thô (TEXT) để lấy ra chính xác các phương trình hóa học và công thức toán học gốc. TUYỆT ĐỐI không được tự ý thay thế phản ứng hóa học bằng phản ứng khác (Ví dụ: Bản gốc là H2 + Cl2 thì không được thay thế bằng KClO3 hay bất kỳ phản ứng nào khác).
   - Bạn hãy viết lại toàn bộ công thức hóa học dưới dạng HTML sạch đẹp: sử dụng thẻ <sub> cho chỉ số dưới (ví dụ: CaCO<sub>3</sub>, H<sub>2</sub>O, Ca(HCO<sub>3</sub>)<sub>2</sub>), thẻ <sup> cho chỉ số trên (ví dụ: t<sup>o</sup>).
   - Sử dụng TRỰC TIẾP ký tự Unicode thực tế cho các mũi tên: → (mũi tên một chiều), ⇌ (mũi tên thuận nghịch), ⇄ (mũi tên hai chiều). CẤM sử dụng các mã thực thể HTML entities (như &rightleftharpoons;, &rightleftarrows;, &rarr;...) vì khi xuất ra file Word sẽ bị lỗi hiển thị mã code thô. Ghi điều kiện phản ứng (xt, t°) rõ ràng bên cạnh hoặc bên trên mũi tên. Loại bỏ các ký tự hộp vuông lỗi "□" và các ký tự điều khiển Equation lỗi.
+6. BẮT BUỘC lồng ghép NLS và AI vào Phần I và Phần II của giáo án đầu ra:
+  - Đối với Phần I ("I. MỤC TIÊU" hoặc "I. YÊU CẦU CẦN ĐẠT"): Hãy tìm mục "2. Năng lực" (bao gồm các năng lực chung và năng lực đặc thù). Hãy chèn phần ghi rõ các yêu cầu lồng ghép NLS và AI vào vị trí cuối cùng của mục "2. Năng lực" này (tức là nằm dưới tất cả các năng lực chung/đặc thù khác, và nằm ngay phía trên tiêu đề "3. Phẩm chất"), dạng:
+    <span class="nls-ai-addition bg-emerald-50 border-l-2 border-emerald-500 text-emerald-950 px-1.5 py-0.5 rounded font-medium shadow-sm break-words my-1 inline-block">* Lồng ghép Năng lực số / AI [Mã chỉ báo]: [Mô tả chi tiết nội dung lồng ghép]</span>
+    Tuyệt đối không chèn ở cuối phần "1. Kiến thức" (trước tiêu đề "2. Năng lực"), cũng không chèn ở đầu phần "2. Năng lực" (dưới tiêu đề "2. Năng lực" nhưng trên "Năng lực chung"). Vị trí bắt buộc phải là cuối phần "2. Năng lực" và ngay sát trên đầu phần "3. Phẩm chất".
+  - Hãy tìm phần "II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU" hoặc "II. ĐỒ DÙNG DẠY HỌC" trong giáo án gốc. Bổ sung thêm các thiết bị số, phần mềm, ứng dụng (Ví dụ: Canva, GeoGebra, Scratch, ChatGPT...) được sử dụng để học tập các chỉ báo trên, bọc trong thẻ <span class="nls-ai-addition...">...</span>.
 
 YÊU CẦU ĐỊNH DẠNG HTML (Dùng cho "nangCapHtml"):
 1. Toàn bộ nội dung của "nangCapHtml" phải được bọc trong thẻ wrapper:
@@ -183,7 +459,33 @@ YÊU CẦU ĐỊNH DẠNG HTML (Dùng cho "nangCapHtml"):
 
 Yêu cầu phân tích và trả về định dạng JSON nghiêm ngặt cấu trúc dưới đây.`;
 
+    let customPromptInstructions = "";
+    if (customCodes) {
+      const parsed = parseCustomCodes(customCodes, nlsIndicators);
+      if (parsed && (parsed.nls.length > 0 || parsed.ai.length > 0)) {
+        customPromptInstructions = `
+YÊU CẦU LỒNG GHÉP BẮT BUỘC CÁC CHỈ BÁO SAU ĐÂY (do người dùng chỉ định):
+`;
+        if (parsed.nls.length > 0) {
+          customPromptInstructions += `\n* Chỉ báo Năng lực số (Thông tư 02):\n`;
+          parsed.nls.forEach(ind => {
+            customPromptInstructions += `- Mã: ${ind.code} | Ý nghĩa: ${ind.description}\n`;
+          });
+        }
+        if (parsed.ai.length > 0) {
+          customPromptInstructions += `\n* Chỉ báo Giáo dục AI (Quyết định 3439):\n`;
+          parsed.ai.forEach(ind => {
+            customPromptInstructions += `- Mã: ${ind.code} | Ý nghĩa: ${ind.description}\n`;
+          });
+        }
+        customPromptInstructions += `
+Bạn phải phân tích mục tiêu bài dạy và lồng ghép chính xác các chỉ báo bắt buộc này vào giáo án đầu ra ở Mục I (Mục tiêu), Mục II (Thiết bị dạy học) và xây dựng Hoạt động cụ thể cho chúng.
+`;
+      }
+    }
+
     const mainPrompt = `Hãy tích hợp Năng lực số (NLS) và Giáo dục Trí tuệ Nhân tạo (AI) vào Kế hoạch bài dạy (Giáo án) sau.
+${customPromptInstructions}
 
 THÔNG TIN BÀI HỌC:
 - Môn: ${mon || "Chưa xác định"}
@@ -203,7 +505,7 @@ ${extractedText}
 ` : `Nội dung giáo án do người dùng cung cấp:\n${extractedText || "Không có giáo án cũ tải lên. Bạn hãy tự xây dựng một giáo án mẫu nâng cấp chuẩn mực nhất cho bài học ở trên, đảm bảo cấu trúc bảng biểu các hoạt động dạy học được chia làm 2 cột rõ ràng (Hoạt động của giáo viên | Hoạt động của học sinh), định dạng font Times New Roman cỡ 14pt."}`}
 
 YÊU CẦU CHI TIẾT TÍCH HỢP:
-1. Xác định năng lực số (Thông tư 02) và Năng lực AI (Quyết định 3439) phù hợp nhất với Mục tiêu bài dạy.
+1. Xác định năng lực số (Thông tư 02) và Năng lực AI (Quyết định 3439) phù hợp nhất với Mục tiêu bài dạy (nếu không có chỉ báo bắt buộc nào được yêu cầu ở trên, hãy tự động chọn chỉ báo tối ưu nhất).
 2. Thiết kế ít nhất một hoạt động học tập cụ thể có sử dụng một công cụ số hoặc AI thực tế (Sử dụng các công cụ có thật như Canva Magic, Gemini, ChatGPT, Teachable Machine, NotebookLM, Scratch, PhET, GeoGebra, MS Paint, Word...). Hoạt động phải lồng ghép tự nhiên vào tiến trình dạy học.
 3. Chỉ ra tiêu chí, cách đánh giá học sinh khi thực hiện hoạt động số/AI đó.
 4. Bảo đảm 100% câu từ và các phương trình phản ứng hóa học gốc được giữ lại toàn bộ, tuyệt đối không thay thế phản ứng gốc.
