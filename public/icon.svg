@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#312e81"/>
+  <!-- Graduation Cap -->
+  <path d="M256 100 L420 180 L256 260 L92 180 Z" fill="#6366f1"/>
+  <path d="M150 230 L150 350 C150 390, 362 390, 362 350 L362 230" fill="none" stroke="#6366f1" stroke-width="20" stroke-linecap="round"/>
+  <!-- Tassel -->
+  <path d="M370 190 L390 320" fill="none" stroke="#10b981" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="390" cy="330" r="15" fill="#10b981"/>
+  <!-- AI Sparkles -->
+  <path d="M256 160 L262 175 L277 181 L262 187 L256 202 L250 187 L235 181 L250 175 Z" fill="#10b981"/>
+</svg>

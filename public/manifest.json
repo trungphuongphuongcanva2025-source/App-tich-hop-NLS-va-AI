@@ -1,0 +1,16 @@
+{
+  "name": "App Lồng Ghép Năng Lực Số và AI",
+  "short_name": "NLS & AI",
+  "description": "Tích hợp năng lực số và AI vào kế hoạch bài dạy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#312e81",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
